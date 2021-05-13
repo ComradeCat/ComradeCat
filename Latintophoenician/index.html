@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Latin to phoenician</title>
+    </head>
+    <body>
+        <h1>Latin to Phoenician.</h1>
+        <h3>this tool converts things in modern Latin into the Phoenician alphabet.</h3>
+        <h5>Due to the Phoenician alphabet not having an X, X's can't be converted.
+            <br>
+            it also doesn't convert numbers and other stuff.
+        </h5>
+        <input type="text" id="Latin" name="latin"><br>
+        <p id="demo" dir="ltr" ></p>
+        <button onclick="myFunction()">Convert</button>
+        <script>
+            var z = "";
+            function myFunction() {
+                let x = document.getElementById("Latin").value; 
+                for (let i in x) {
+                    console.log(x[i]);
+                    console.log("boop");
+                    document.getElementById("demo").innerHTML = x;
+                    if(x[i] === " "){
+                        z = "&nbsp;" + z;
+                    } else if (x[i] === "A"){
+                        z = "&#67840;" + z;
+                    } else if (x[i] === "B"){
+                        z = "&#67841;" + z;
+                    } else if (x[i] === "C"){
+                        z = "&#67842;" + z;
+                    } else if (x[i] === "D"){
+                        z = "&#67843;" + z;
+                    } else if (x[i] === "E"){
+                        z = "&#67844;" + z;
+                    } else if (x[i] === "F"){
+                        z = "&#67845;" + z;
+                    } else if (x[i] === "G"){
+                        z = "&#67842;" + z;
+                    } else if (x[i] === "H"){
+                        z = "&#67847;" + z;
+                    } else if (x[i] === "I"){
+                        z = "&#67849;" + z;
+                    } else if (x[i] === "J"){
+                        z = "&#67849;" + z;
+                    } else if (x[i] === "K"){
+                        z = "&#67850;" + z;
+                    } else if (x[i] === "L"){
+                        z = "&#67851;" + z;
+                    } else if (x[i] === "M"){
+                        z = "&#67852;" + z;
+                    } else if (x[i] === "N"){
+                        z = "&#67853;" + z;
+                    } else if (x[i] === "O"){
+                        z = "&#67855;" + z;
+                    } else if (x[i] === "P"){
+                        z = "&#67856;" + z;
+                    } else if (x[i] === "Q"){
+                        z = "&#67858;" + z;
+                    } else if (x[i] === "R"){
+                        z = "&#67859;" + z;
+                    } else if (x[i] === "S"){
+                        z = "&#67860;" + z;
+                    } else if (x[i] === "T"){
+                        z = "&#67861;" + z;
+                    } else if (x[i] === "U"){
+                        z = "&#67845;" + z;
+                    } else if (x[i] === "V"){
+                        z = "&#67845;" + z;
+                    } else if (x[i] === "W"){
+                        z = "&#67845;" + z;
+                    } else if (x[i] === "Y"){
+                        z = "&#67845;" + z;
+                    } else if (x[i] === "Z"){
+                        z = "&#67846;" + z;
+                    } else if (x[i] === "a"){
+                        z = "&#67840;" + z;
+                    } else if (x[i] === "b"){
+                        z = "&#67841;" + z;
+                    } else if (x[i] === "c"){
+                        z = "&#67842;" + z;
+                    } else if (x[i] === "d"){
+                        z = "&#67843;" + z;
+                    } else if (x[i] === "e"){
+                        z = "&#67844;" + z;
+                    } else if (x[i] === "f"){
+                        z = "&#67845;" + z;
+                    } else if (x[i] === "g"){
+                        z = "&#67842;" + z;
+                    } else if (x[i] === "h"){
+                        z = "&#67847;" + z;
+                    } else if (x[i] === "i"){
+                        z = "&#67849;" + z;
+                    } else if (x[i] === "j"){
+                        z = "&#67849;" + z;
+                    } else if (x[i] === "k"){
+                        z = "&#67850;" + z;
+                    } else if (x[i] === "l"){
+                        z = "&#67851;" + z;
+                    } else if (x[i] === "m"){
+                        z = "&#67852;" + z;
+                    } else if (x[i] === "n"){
+                        z = "&#67853;" + z;
+                    } else if (x[i] === "o"){
+                        z = "&#67855;" + z;
+                    } else if (x[i] === "p"){
+                        z = "&#67856;" + z;
+                    } else if (x[i] === "q"){
+                        z = "&#67858;" + z;
+                    } else if (x[i] === "r"){
+                        z = "&#67859;" + z;
+                    } else if (x[i] === "s"){
+                        z = "&#67860;" + z;
+                    } else if (x[i] === "t"){
+                        z = "&#67861;" + z;
+                    } else if (x[i] === "u"){
+                        z = "&#67845;" + z;
+                    } else if (x[i] === "v"){
+                        z = "&#67845;" + z;
+                    } else if (x[i] === "w"){
+                        z = "&#67845;" + z;
+                    } else if (x[i] === "y"){
+                        z = "&#67845;" + z;
+                    } else if (x[i] === "z"){
+                        z = "&#67846;" + z;
+                    } else z = z + x[i];
+                     console.log(z);
+                     document.getElementById("demo").innerHTML = z;
+                     
+                     }
+                    z = "";
+
+                    }
+        </script>
+    </body>
+</html>
