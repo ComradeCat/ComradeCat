@@ -1,300 +1,200 @@
-Sneek, Oosterdijk                      18 49   19 18   20 21   21 21   22 21   23 21
-Sneek, Prins Hendrikkade               18 50   19 19   20 22   21 22   22 22   23 22
-Sneek, Busstation                 A    18 53   19 22   20 25   21 25   22 25   23 25
-                      Lijn 48a                                                                                                   Van Lemmer naar Heerenveen
-                      Lijn 548a                                                                                                  Van Lemmer naar Heerenveen
-Maandag t/m vrijdag
+                      Tytsjerk, Swarteweisein                       10 34   11 05   11 34   12 05   12 34   13 06   13 35   14 07   14 36
+                      Leeuwarden, Oud Tolhuis                       10 39   11 10   11 39   12 10   12 39   13 11   13 40   14 12   14 41
+                      Leeuwarden, De Bleek                          10 43   11 14   11 43   12 14   12 43   13 15   13 44   14 16   14 45
+                      Leeuwarden, Koepelkerk                        10 45   11 16   11 45   12 16   12 45   13 17   13 46   14 18   14 47
+                      Leeuwarden, Blokhuisplein                     10 47   11 18   11 47   12 18   12 47   13 19   13 48   14 20   14 49
+                      Leeuwarden, Busstation                   A    10 51   11 22   11 51   12 22   12 51   13 23   13 52   14 24   14 55
+Van Heerenveen naar Leeuwarden via Drachten                                                       Lijn 20b
+Van Heerenveen naar Leeuwarden via Drachten                                                       Lijn 21b
+                                                                                                                       Maandag t/m vrijdag
+                                                                                                Maandag t/m vrijdag
+                              Lijnnummer        20       21     20       21     20       21     20       21      20
+                                  Ritnummer   1040    1044    1044    1048    1048    1052    1052     1056     1056
+Heerenveen, Busstation                   V    13 36   14 05   14 35   15 05   15 35   16 05   16 35   17 03    17 34
+Heerenveen, Oost (A32)                        13 38   14 08   14 38   15 08   15 38   16 08   16 38   17 06    17 36
+De Knipe, 't Slúske                           13 45   14 15   14 45   15 15   15 45   16 15   16 45   17 13    17 43
+Langezwaag, De Plasse                         13 49   14 19   14 49   15 19   15 49   16 19   16 49   17 17    17 47
+Gorredijk, Busstation                         14 00   14 30   15 00   15 30   16 00   16 30   17 00   17 30    18 00
+Lippenhuizen, De Driehoek                     14 05   14 35   15 05   15 35   16 05   16 35   17 05   17 35    18 05
+Beetsterzwaag, Hoofdstraat                    14 13   14 43   15 13   15 43   16 13   16 43   17 13   17 43    18 13
+Olterterp, Olterterp                          14 16   14 46   15 16   15 46   16 16   16 46   17 16   17 46    18 16
+Drachten, Bertilla                            14 21   14 51   15 21   15 51   16 21   16 51   17 21   17 51    18 21
+Drachten, Van Knobelsdorffplein          A    14 23   14 53   15 23   15 53   16 23   16 53   17 23   17 53    18 23
+Drachten, Van Knobelsdorffplein          V    14 25   14 55   15 25   15 55   16 25   16 55   17 25   17 55    18 25
+Drachten, Zuidkade                            14 28   14 58   15 28   15 58   16 28   16 58   17 28   17 58    18 28
+Drachten, Het Noord                           14 33   15 03   15 33   16 03   16 33   17 03   17 33   18 03    18 33
+Drachten, Nijtap                              14 36   15 06   15 36   16 06   16 36   17 06   17 36   18 06    18 36
+Drachten, Carpool Noord                         |     15 07     |     16 07     |     17 07     |     18 07      |
+Opeinde, Middelbuorren                        14 38     |     15 38     |     16 38     |     17 38     |      18 38
+Nijega, Dorpshuis                             14 42     |     15 42     |     16 42     |     17 42     |      18 42
+Sumar, Achterwei                              14 47   15 16   15 47   16 16   16 47   17 16   17 47   18 14    18 47
+Burgum, Gemeentehûs                           14 50   15 19   15 50   16 19   16 50   17 19   17 50   18 17    18 50
+Burgum, Kwekersstrjitte                       14 51   15 20   15 51   16 20   16 51   17 20   17 51   18 18    18 51
+Quatrebras, Quatrebras West                   14 58   15 27   15 58   16 27   16 58   17 27   17 58   18 25    18 58
+Hurdegaryp, Hotel                             15 03   15 32   16 03   16 32   17 03   17 31   18 02   18 29    19 02
+Tytsjerk, Swarteweisein                       15 07   15 36   16 07   16 36   17 07   17 35   18 06   18 33    19 06
+Leeuwarden, Oud Tolhuis                       15 12   15 41   16 12   16 41   17 12   17 39   18 10   18 37    19 10
+Leeuwarden, De Bleek                          15 16   15 45   16 16   16 45   17 16   17 43   18 14   18 41    19 14
+Leeuwarden, Koepelkerk                        15 18   15 47   16 18   16 47   17 18   17 45   18 16   18 43    19 16
+Leeuwarden, Blokhuisplein                     15 20   15 49   16 20   16 49   17 20   17 47   18 18   18 45    19 18
+Leeuwarden, Busstation                   A    15 26   15 55   16 26   16 55   17 26   17 52   18 21   18 48    19 21
+                              Lijnnummer        20       20     20       20     20       20
+                                  Ritnummer   1060    1064    1068    1072    1076    1080
+Heerenveen, Busstation                   V    18 37   19 37   20 38   21 38   22 39    0 01
+Heerenveen, Oost (A32)                        18 39   19 39   20 40   21 40   22 41    0 03
+De Knipe, 't Slúske                           18 46   19 46   20 46   21 46   22 47    0 09
+Langezwaag, De Plasse                         18 50   19 50   20 50   21 50   22 51    0 13
+Gorredijk, Busstation                         19 01   20 01   21 01   22 01   23 02    0 24
+Lippenhuizen, De Driehoek                     19 06   20 06   21 06   22 06   23 06    0 28
+Beetsterzwaag, Hoofdstraat                    19 13   20 13   21 13   22 13   23 13    0 35
+Olterterp, Olterterp                          19 16   20 16   21 16   22 16   23 16    0 38
+Drachten, Bertilla                            19 21   20 21   21 21   22 21   23 21    0 43
+Drachten, Van Knobelsdorffplein          A    19 23   20 23   21 23   22 23   23 23    0 45
+Drachten, Van Knobelsdorffplein          V    19 25   20 25   21 25   22 25   23 25
+Drachten, Zuidkade                            19 28   20 28   21 28   22 28   23 28
+Drachten, Het Noord                           19 32   20 32   21 32   22 32   23 32
+Drachten, Nijtap                              19 34   20 34   21 34   22 34   23 34
+Opeinde, Middelbuorren                        19 36   20 36   21 36   22 36   23 36
+Nijega, Dorpshuis                             19 40   20 40   21 40   22 40   23 40
+Sumar, Achterwei                              19 45   20 45   21 45   22 45   23 45
+Burgum, Gemeentehûs                           19 48   20 48   21 48   22 48   23 48
+Burgum, Kwekersstrjitte                       19 49   20 49   21 49   22 49   23 49
+Quatrebras, Quatrebras West                   19 56   20 56   21 56   22 55   23 55
+Hurdegaryp, Hotel                             20 00   21 00   22 00   22 59   23 59
+Tytsjerk, Swarteweisein                       20 04   21 04   22 04   23 03    0 03
+Leeuwarden, Oud Tolhuis                       20 08   21 08   22 08   23 07    0 07
+Leeuwarden, De Bleek                          20 12   21 12   22 12   23 11    0 11
+Leeuwarden, Koepelkerk                        20 14   21 14   22 14   23 13    0 13
+Leeuwarden, Blokhuisplein                     20 16   21 16   22 16   23 15    0 15
+Leeuwarden, Busstation                   A    20 19   21 19   22 19   23 18    0 18
+                      Lijn 22a                                                                      Van Warten naar Leeuwarden
                        Maandag t/m vrijdag
-                                                      Lijnnummer            48          48          48          48          48          48          48          48          48
-                                                      Ritnummer          1003        1007         1011        1013        1015        1019        1025        1027        1033
-                      Lemmer, Lemsterpad                        V         5 44        6 14        6 44        6 59        7 14        7 44        8 29                    9 29
-                      Lemmer, Houtmolen                                   5 46        6 16        6 46        7 01        7 16        7 46        8 31                    9 31
-                      Lemmer, Busstation                        A         5 49        6 19        6 49        7 04        7 19        7 49        8 34                    9 34
-                      Lemmer, Busstation                        V         5 51        6 21        6 51        7 06        7 21        7 51                    8 36
-                      Oosterzee, Buren                                    5 56        6 26        6 56        7 11        7 26        7 56                    8 41
-                      Oosterzee, Gietersebrug                             5 59        6 29        6 59        7 14        7 29        7 59                    8 44
-                      Echten, Middenvaart                                 6 01        6 31        7 01        7 17        7 32        8 02                    8 46
-                      Echtenerbrug, Bouwvereniging                        6 03        6 33        7 03        7 19        7 34        8 04                    8 48
-                      Delfstrahuizen, Brug                                6 05        6 35        7 05        7 22        7 37        8 07                    8 51
-                      Rotsterhaule, Kampweg                               6 12        6 42        7 12        7 29        7 44        8 14                    8 58
-                      Sintjohannesga, Molenstelle                         6 14        6 44        7 15        7 32        7 47        8 17                    9 00
-                      Rottum, Molenlaan                                   6 18        6 48        7 19        7 36        7 51        8 21                    9 04
-                      Heerenveen, Coornhertstate                          6 22        6 52        7 23        7 41        7 55        8 25                    9 08
-                      Heerenveen, Burgemeester Kuperusplein               6 25        6 56        7 27        7 45        7 59        8 30                    9 12
-                      Heerenveen, Oost (A32)                              6 28        7 00        7 31        7 49        8 03        8 35                    9 16
-                      Heerenveen, Busstation                    A         6 31        7 03        7 35        7 53        8 07        8 39                    9 20
-                                                      Lijnnummer            48          48          48          48          48          48          48          48          48
-                                                      Ritnummer           1035        1041        1043        1049        1051        1057        1059        1065        1067
-                      Lemmer, Lemsterpad                        V                    10 29                   11 29                   12 29                   13 29
-                      Lemmer, Houtmolen                                              10 31                   11 31                   12 31                   13 31
-                      Lemmer, Busstation                        A                    10 34                   11 34                   12 34                   13 34
-                      Lemmer, Busstation                        V         9 36                   10 36                   11 36                   12 36                   13 36
-                      Oosterzee, Buren                                    9 41                   10 41                   11 41                   12 41                   13 41
-                      Oosterzee, Gietersebrug                             9 44                   10 44                   11 44                   12 44                   13 44
-                      Echten, Middenvaart                                 9 46                   10 46                   11 46                   12 46                   13 46
-                      Echtenerbrug, Bouwvereniging                        9 48                   10 47                   11 47                   12 47                   13 47
-                      Delfstrahuizen, Brug                                9 50                   10 49                   11 49                   12 49                   13 49
-                      Rotsterhaule, Kampweg                               9 57                   10 56                   11 56                   12 56                   13 56
-                      Sintjohannesga, Molenstelle                         9 59                   10 58                   11 58                   12 58                   13 58
-                      Rottum, Molenlaan                                  10 03                   11 02                   12 02                   13 02                   14 02
-                      Heerenveen, Coornhertstate                         10 07                   11 06                   12 06                   13 06                   14 06
-                      Heerenveen, Burgemeester Kuperusplein              10 11                   11 10                   12 10                   13 10                   14 10
-                      Heerenveen, Oost (A32)                             10 15                   11 14                   12 14                   13 14                   14 14
-                      Heerenveen, Busstation                    A        10 18                   11 17                   12 17                   13 17                   14 17
-                                                      Lijnnummer            48          48          48          48          48          48          48          48          48
-                                                      Ritnummer           1073        1075        1077        1079        1081        1083        1085        1087        1089
-                      Lemmer, Lemsterpad                        V        14 29                   14 59                   15 29                   15 59                   16 29
-                      Lemmer, Houtmolen                                  14 31                   15 01                   15 31                   16 01                   16 31
-                      Lemmer, Busstation                        A        14 34                   15 04                   15 34                   16 04                   16 34
-                      Lemmer, Busstation                        V                    14 36                   15 06                   15 36                   16 06
-                      Oosterzee, Buren                                               14 41                   15 11                   15 41                   16 11
-                      Oosterzee, Gietersebrug                                        14 44                   15 14                   15 44                   16 14
-                      Echten, Middenvaart                                            14 46                   15 16                   15 46                   16 16
-                      Echtenerbrug, Bouwvereniging                                   14 47                   15 17                   15 47                   16 17
-                      Delfstrahuizen, Brug                                           14 49                   15 19                   15 49                   16 19
-                      Rotsterhaule, Kampweg                                          14 56                   15 26                   15 56                   16 26
-                      Sintjohannesga, Molenstelle                                    14 58                   15 28                   15 58                   16 28
-                      Rottum, Molenlaan                                              15 02                   15 32                   16 02                   16 32
-                      Heerenveen, Coornhertstate                                     15 06                   15 36                   16 06                   16 36
-                      Heerenveen, Burgemeester Kuperusplein                          15 10                   15 40                   16 10                   16 40
-                      Heerenveen, Oost (A32)                                         15 14                   15 44                   16 14                   16 44
-                      Heerenveen, Busstation                    A                    15 18                   15 48                   16 18                   16 48
-                      b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
-                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
-Van Lemmer naar Heerenveen                                                                                                   Lijn 48a
-Van Lemmer naar Heerenveen                                                                                                  Lijn 548a
-                                                                                                                                                          Maandag t/m vrijdag
-                                                                                                                              Maandag t/m vrijdag
-                                Lijnnummer            48          48          48          48          48          48          48         548
-                                Ritnummer           1091        1093        1095        1097        1099        1105         1113 b      1121
-Lemmer, Lemsterpad                        V                    16 59                   17 29                   18 29       19 29       20 31
-Lemmer, Houtmolen                                              17 01                   17 31                   18 31       19 31       20 33
-Lemmer, Busstation                        A                    17 04                   17 34                   18 34       19 34       20 36
-Lemmer, Busstation                        V        16 36                   17 06                   17 36       18 34       19 34       20 38
-Oosterzee, Buren                                   16 41                   17 11                   17 41       18 39       19 39       20 43
-Oosterzee, Gietersebrug                            16 44                   17 14                   17 44       18 42       19 42       20 46
-Echten, Middenvaart                                16 46                   17 16                   17 46       18 44       19 44       20 48
-Echtenerbrug, Bouwvereniging                       16 47                   17 17                   17 47       18 45       19 45       20 49
-Delfstrahuizen, Brug                               16 49                   17 19                   17 49       18 47       19 47       20 51
-Rotsterhaule, Kampweg                              16 56                   17 26                   17 56       18 54       19 54       20 58
-Sintjohannesga, Molenstelle                        16 58                   17 28                   17 58       18 56       19 56       21 00
-Rottum, Molenlaan                                  17 02                   17 32                   18 02       19 00       20 00       21 04
-Heerenveen, Coornhertstate                         17 06                   17 36                   18 06       19 04       20 04       21 08
-Heerenveen, Burgemeester Kuperusplein              17 10                   17 40                   18 10       19 07       20 07       21 11
-Heerenveen, Oost (A32)                             17 14                   17 44                   18 14       19 10       20 10       21 15
-Heerenveen, Busstation                    A        17 18                   17 48                   18 17       19 13       20 13       21 18
-b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
-    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
-                      Lijn 48b                                                                                                   Van Heerenveen naar Lemmer
-                      Lijn 548b                                                                                                  Van Heerenveen naar Lemmer
 Maandag t/m vrijdag
+                                                 Ritnummer    1003   1007   1027     1031   1035       1039    1043    1047
+                      Warten, Hoofdstraat                 V   7 33   8 40   13 46   14 46   15 46      16 46   17 46   18 46
+                      Warten, Scheepswerf Bijlsma             7 34   8 41   13 47   14 47   15 47      16 47   17 47   18 47
+                      Wergea, Leeuwarderweg                   7 38   8 45   13 51   14 51   15 51      16 51   17 51   18 51
+                      Leeuwarden, Techumerdyk/Crematorium     7 44   8 51   13 57   14 57   15 57      16 57   17 57   18 57
+                      Leeuwarden, Oostergoplein               7 48   8 55   14 01   15 01   16 01      17 01   18 01   19 01
+                      Leeuwarden, Huizumerlaan                7 52   8 58   14 04   15 04   16 04      17 04   18 04   19 04
+                      Leeuwarden, Busstation              A   7 57   9 03   14 07   15 09   16 09      17 09   18 07   19 07
+Van Leeuwarden naar Warten                                                                    Lijn 22b
+                                                                                        Maandag t/m vrijdag
+                                                                                                              Maandag t/m vrijdag
+                           Ritnummer    1004   1008   1028    1032    1036    1040    1044      1048
+Leeuwarden, Busstation              V   7 10   8 15   13 23   14 23   15 23   16 23   17 23     18 23
+Leeuwarden, Huizumerlaan                7 13   8 19   13 27   14 27   15 27   16 27   17 27     18 27
+Leeuwarden, Oostergoplein               7 16   8 22   13 30   14 30   15 30   16 30   17 30     18 30
+Leeuwarden, Techumerdyk/Crematorium     7 20   8 26   13 33   14 33   15 33   16 33   17 33     18 33
+Wergea, Leeuwarderweg                   7 28   8 34   13 41   14 41   15 41   16 41   17 41     18 41
+Warten, Scheepswerf Bijlsma             7 31   8 37   13 44   14 44   15 44   16 44   17 44     18 44
+Warten, Hoofdstraat                 A   7 33   8 40   13 46   14 46   15 46   16 46   17 46     18 46
+                      Lijn 23a                                                         Van Heerenveen via Tijnje naar Drachten
                        Maandag t/m vrijdag
-                                                      Lijnnummer            48          48          48          48          48          48          48          48          48
-                                                      Ritnummer          1004        1008         1012       1020         1024        1028        1036        1044        1052
-                      Heerenveen, Busstation                    V         5 56        6 25        6 54        7 40        8 10        8 40        9 40       10 40       11 40
-                      Heerenveen, Oost (A32)                              5 58        6 27        6 56        7 42        8 13        8 42        9 42       10 42       11 42
-                      Heerenveen, Burgemeester Kuperusplein     A         6 01        6 30        7 00        7 46        8 17        8 46        9 46       10 46       11 46
-                      Heerenveen, Coornhertstate                          6 04        6 34        7 04        7 50                    8 50        9 50       10 50       11 50
-                      Rottum, Molenlaan                                   6 08        6 38        7 08        7 54                    8 54        9 54       10 54       11 54
-                      Sintjohannesga, Molenstelle                         6 13        6 43        7 13        7 59                    8 59        9 59       10 59       11 59
-                      Rotsterhaule, Kampweg                               6 15        6 45        7 15        8 01                    9 01       10 01       11 01       12 01
-                      Delfstrahuizen, Brug                                6 23        6 53        7 23        8 09                    9 09       10 09       11 09       12 09
-                      Echtenerbrug, Bouwvereniging                        6 25        6 55        7 25        8 11                    9 11       10 11       11 11       12 11
-                      Echten, Middenvaart                                 6 27        6 57        7 27        8 13                    9 13       10 13       11 13       12 13
-                      Oosterzee, Gietersebrug                             6 29        6 59        7 29        8 15                    9 15       10 15       11 15       12 15
-                      Oosterzee, Buren                                    6 32        7 02        7 32        8 18                    9 18       10 18       11 18       12 18
-                      Lemmer, Busstation                        A         6 39        7 09        7 39        8 25                    9 25       10 25       11 25       12 25
-                      Lemmer, Busstation                        V         6 41        7 11        7 41        8 26                    9 26       10 26       11 26       12 26
-                      Lemmer, Houtmolen                                   6 42        7 12        7 42        8 27                    9 27       10 27       11 27       12 27
-                      Lemmer, Lemsterpad                        A         6 44        7 14        7 44        8 29                    9 29       10 29       11 29       12 29
-                                                      Lijnnummer            48          48          48          48          48          48          48          48          48
-                                                      Ritnummer          1060        1068         1072        1076       1080         1084       1088         1092        1100
-                      Heerenveen, Busstation                    V        12 40       13 40       14 09       14 39       15 09       15 39       16 09       16 39       17 40
-                      Heerenveen, Oost (A32)                             12 42       13 42       14 12       14 42       15 12       15 42       16 12       16 42       17 42
-                      Heerenveen, Burgemeester Kuperusplein              12 46       13 46       14 16       14 46       15 16       15 46       16 16       16 46       17 46
-                      Heerenveen, Coornhertstate                         12 50       13 50       14 20       14 50       15 20       15 50       16 20       16 50       17 50
-                      Rottum, Molenlaan                                  12 54       13 54       14 24       14 54       15 24       15 54       16 24       16 54       17 54
-                      Sintjohannesga, Molenstelle                        12 59       13 59       14 29       14 59       15 29       15 59       16 29       16 59       17 59
-                      Rotsterhaule, Kampweg                              13 01       14 01       14 31       15 01       15 31       16 01       16 31       17 01       18 01
-                      Delfstrahuizen, Brug                               13 09       14 09       14 39       15 09       15 39       16 09       16 39       17 09       18 09
-                      Echtenerbrug, Bouwvereniging                       13 11       14 11       14 41       15 11       15 41       16 11       16 41       17 11       18 11
-                      Echten, Middenvaart                                13 13       14 13       14 43       15 13       15 43       16 13       16 43       17 13       18 13
-                      Oosterzee, Gietersebrug                            13 15       14 15       14 45       15 15       15 45       16 15       16 45       17 15       18 15
-                      Oosterzee, Buren                                   13 18       14 18       14 48       15 18       15 48       16 18       16 48       17 18       18 17
-                      Lemmer, Busstation                        A        13 25       14 25       14 55       15 25       15 55       16 25       16 55       17 25       18 24
-                      Lemmer, Busstation                        V        13 26       14 26       14 56       15 26       15 56       16 26       16 56       17 26       18 26
-                      Lemmer, Houtmolen                                  13 27       14 27       14 57       15 27       15 57       16 27       16 57       17 27       18 27
-                      Lemmer, Lemsterpad                        A        13 29       14 29       14 59       15 29       15 59       16 29       16 59       17 29       18 29
-                                                      Lijnnummer            48         548         548
-                                                      Ritnummer           1108 b       1112 b     1120
-                      Heerenveen, Busstation                    V        18 44       19 44       20 44
-                      Heerenveen, Oost (A32)                             18 46       19 46       20 46
-                      Heerenveen, Burgemeester Kuperusplein              18 49       19 49       20 49
-                      Heerenveen, Coornhertstate                         18 53       19 53       20 53
-                      Rottum, Molenlaan                                  18 57       19 57       20 57
-                      Sintjohannesga, Molenstelle                        19 02       20 02       21 02
-                      Rotsterhaule, Kampweg                              19 04       20 04       21 04
-                      Delfstrahuizen, Brug                               19 11       20 11       21 11
-                      Echtenerbrug, Bouwvereniging                       19 13       20 13       21 13
-                      Echten, Middenvaart                                19 15       20 15       21 15
-                      Oosterzee, Gietersebrug                            19 17       20 17       21 17
-                      Oosterzee, Buren                                   19 19       20 19       21 19
-                      Lemmer, Busstation                        A        19 26       20 26       21 26
-                      Lemmer, Busstation                        V        19 26       20 28       21 28
-                      Lemmer, Houtmolen                                  19 27       20 29       21 29
-                      Lemmer, Lemsterpad                        A        19 29       20 31       21 31
-                      b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
-                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
-                      Lijn 51a                                                            Van Dokkum via Damwâld naar Leeuwarden
-                      Lijn 651a                                                           Van Dokkum via Damwâld naar Leeuwarden
 Maandag t/m vrijdag
-                       Maandag t/m vrijdag
-                                                    Lijnnummer       51      51      51         51     651      51     651      51     651
-                                                    Ritnummer     1003    1007     1011      1015     1017   1019     1021   1023    1025
-                      Dokkum, Busstation                      V    5 15    5 45    6 15       6 45    6 52    7 15    7 30    7 45    8 04
-                      Dokkum, Sionsberg                            5 19    5 49    6 19       6 49    6 56    7 19    7 34    7 49    8 08
-                      Wâlterswâld, Achterwei                        |       |       |          |      7 03     |      7 41     |      8 15
-                      Driezum, Dorp                                 |       |       |          |      7 06     |      7 44     |      8 18
-                      Wâlterswâld, Broekloane                       |       |       |          |      7 09     |      7 47     |      8 21
-                      Damwâld, Doniawei                             |       |       |          |      7 13     |      7 51     |      8 25
-                      Damwâld, De Kruisweg                         5 24    5 54    6 24       6 54     |      7 24     |      7 54     |
-                      Rinsumageast, Melkemawei                     5 30    6 00    6 30       7 01    7 20    7 31    7 58    8 01    8 31
-                      Rinsumageast, Stiennendaam                   5 34    6 04    6 34       7 05    7 24    7 35    8 02    8 05    8 35
-                      Aldtsjerk, Provinciale weg                   5 37    6 07    6 37       7 08    7 27    7 38    8 05    8 08    8 38
-                      Oentsjerk, Heemstrastate                     5 38    6 08    6 39       7 10    7 29    7 40    8 06    8 09    8 39
-                      Gytsjerk, Nieuwe Straatweg                   5 41    6 11    6 42       7 13    7 32    7 43    8 09    8 12    8 42
-                      Ryptsjerk, Westerdijk                        5 43    6 13    6 44       7 15    7 35    7 46    8 11    8 14    8 44
-                      Tytsjerk, Swarteweisein                      5 44    6 14    6 45       7 17    7 37    7 48    8 13    8 16    8 46
-                      Leeuwarden, Friese Poort/Wilaarderburen       |       |       |          |      7 44     |      8 21     |      8 53
-                      Leeuwarden, Vliet                             |       |       |          |      7 48     |      8 25     |      8 57
-                      Leeuwarden, Oud Tolhuis                      5 49    6 19    6 50       7 22     |      7 53     |      8 21     |
-                      Leeuwarden, De Bleek                         5 52    6 22    6 53       7 26     |      7 58     |      8 26     |
-                      Leeuwarden, Koepelkerk                       5 54    6 24    6 55       7 28    7 50    8 00    8 27    8 28    8 58
-                      Leeuwarden, Blokhuisplein                    5 56    6 26    6 57       7 30    7 52    8 02    8 29    8 30    9 00
-                      Leeuwarden, Busstation                  A    6 00    6 30    7 01       7 35    7 57    8 09    8 36    8 37    9 07
-                                                    Lijnnummer       51     651      51        651      51      51      51      51      51
-                                                    Ritnummer     1027    1029     1031      1033    1035    1039    1043    1047    1051
-                      Dokkum, Busstation                      V    8 15    8 34    8 45       9 04    9 15    9 45   10 15   10 45   11 15
-                      Dokkum, Sionsberg                            8 19    8 38    8 49       9 08    9 19    9 49   10 19   10 49   11 19
-                      Wâlterswâld, Achterwei                        |      8 45     |         9 15     |       |       |       |       |
-                      Driezum, Dorp                                 |      8 48     |         9 18     |       |       |       |       |
-                      Wâlterswâld, Broekloane                       |      8 51     |         9 21     |       |       |       |       |
-                      Damwâld, Doniawei                             |      8 55     |         9 25     |       |       |       |       |
-                      Damwâld, De Kruisweg                         8 24     |      8 54        |      9 24    9 54   10 24   10 54   11 24
-                      Rinsumageast, Melkemawei                     8 31    9 01    9 01       9 31    9 31   10 01   10 31   11 01   11 31
-                      Rinsumageast, Stiennendaam                   8 35    9 05    9 05       9 35    9 35   10 05   10 35   11 05   11 35
-                      Aldtsjerk, Provinciale weg                   8 38    9 08    9 08       9 38    9 38   10 08   10 38   11 08   11 38
-                      Oentsjerk, Heemstrastate                     8 39    9 09    9 09       9 39    9 39   10 09   10 39   11 09   11 39
-                      Gytsjerk, Nieuwe Straatweg                   8 42    9 12    9 12       9 42    9 42   10 12   10 42   11 12   11 42
-                      Ryptsjerk, Westerdijk                        8 44    9 14    9 14       9 44    9 44   10 14   10 44   11 14   11 44
-                      Tytsjerk, Swarteweisein                      8 46    9 16    9 16       9 46    9 46   10 16   10 46   11 16   11 46
-                      Leeuwarden, Friese Poort/Wilaarderburen       |      9 23     |         9 53     |       |       |       |       |
-                      Leeuwarden, Vliet                             |      9 27     |         9 57     |       |       |       |       |
-                      Leeuwarden, Oud Tolhuis                      8 51     |      9 21        |      9 51   10 21   10 51   11 21   11 51
-                      Leeuwarden, De Bleek                         8 56     |      9 26        |      9 55   10 25   10 55   11 25   11 55
-                      Leeuwarden, Koepelkerk                       8 58    9 28    9 28       9 58    9 57   10 27   10 57   11 27   11 57
-                      Leeuwarden, Blokhuisplein                    9 00    9 30    9 30      10 00    9 59   10 29   10 59   11 29   11 59
-                      Leeuwarden, Busstation                  A    9 07    9 35    9 35      10 04   10 03   10 33   11 03   11 33   12 03
-                                                    Lijnnummer       51      51      51        651      51      51      51      51      51
-                                                    Ritnummer     1055    1059    1063       1067     1071   1075    1079    1083    1087
-                      Dokkum, Busstation                     V    11 45   12 15   12 45      13 15   13 45   14 15   14 45   15 15   15 45
-                      Dokkum, Sionsberg                           11 49   12 19   12 49      13 19   13 49   14 19   14 49   15 19   15 49
-                      Damwâld, De Kruisweg                        11 54   12 24   12 54      13 24   13 54   14 24   14 54   15 24   15 54
-                      Rinsumageast, Melkemawei                    12 01   12 31   13 01      13 31   14 01   14 31   15 01   15 31   16 01
-                      Rinsumageast, Stiennendaam                  12 05   12 35   13 05      13 35   14 05   14 35   15 05   15 35   16 05
-                      Aldtsjerk, Provinciale weg                  12 08   12 38   13 08      13 38   14 08   14 38   15 08   15 38   16 08
-                      Oentsjerk, Heemstrastate                    12 09   12 39   13 10      13 40   14 10   14 40   15 10   15 40   16 10
-                      Gytsjerk, Nieuwe Straatweg                  12 12   12 42   13 13      13 43   14 13   14 43   15 13   15 43   16 13
-                      Ryptsjerk, Westerdijk                       12 14   12 44   13 15      13 45   14 15   14 45   15 15   15 45   16 15
-                      Tytsjerk, Swarteweisein                     12 16   12 46   13 17      13 47   14 17   14 47   15 17   15 47   16 17
-                      Leeuwarden, Oud Tolhuis                     12 21   12 51   13 22      13 52   14 22   14 52   15 22   15 52   16 22
-                      Leeuwarden, De Bleek                        12 25   12 55   13 26      13 56   14 26   14 56   15 26   15 56   16 26
-                      Leeuwarden, Koepelkerk                      12 27   12 57   13 28      13 58   14 28   14 58   15 28   15 58   16 28
-                      Leeuwarden, Blokhuisplein                   12 29   12 59   13 30      14 00   14 30   15 00   15 30   16 00   16 30
-                      Leeuwarden, Busstation                 A    12 33   13 03   13 34      14 04   14 36   15 06   15 36   16 06   16 36
-Van Dokkum via Damwâld naar Leeuwarden                                                       Lijn 51a
-Van Dokkum via Damwâld naar Leeuwarden                                                      Lijn 651a
+                                                   Ritnummer   1003    1007    1009     1011   1015    1019    1023    1027     1031
+                      Heerenveen, Busstation              V     6 35    7 34    8 07    8 38    9 39   10 39   11 39   12 39   13 39
+                      Heerenveen, Oost (A32)                    6 37    7 36    8 10    8 40    9 41   10 41   11 41   12 41   13 41
+                      Heerenveen, Saturnus                A     6 41    7 40    8 14    8 44    9 45   10 45   11 45   12 45   13 45
+                      Luinjeberd, Luinjeberd                    6 45    7 44            8 47    9 48   10 48   11 48   12 48   13 48
+                      Tjalleberd, Tjalleberd                    6 48    7 47            8 50    9 51   10 51   11 51   12 51   13 51
+                      Gersloot, Gersloot                        6 50    7 50            8 53    9 53   10 53   11 53   12 53   13 53
+                      Luxwoude, Hoek                            6 52    7 52            8 55    9 55   10 55   11 55   12 55   13 55
+                      Tijnje, Rolbrêgedyk                       6 56    7 56            8 59    9 59   10 59   11 59   12 59   13 59
+                      Nij Beets, Domela Nieuwenhuisweg          7 01    8 01            9 04   10 04   11 04   12 04   13 04   14 04
+                      Boornbergum, Easterbuorren                7 07    8 07            9 09   10 09   11 09   12 09   13 09   14 09
+                      De Wilgen, De Wilgen                      7 10    8 10            9 12   10 12   11 12   12 12   13 12   14 12
+                      Drachten, De Fluessen                     7 14    8 14            9 16   10 16   11 16   12 16   13 16   14 16
+                      Drachten, Van Knobelsdorffplein           7 22    8 22            9 23   10 23   11 23   12 23   13 23   14 23
+                      Drachten, Splitting                       7 24    8 25            9 25   10 25   11 25   12 25   13 25   14 25
+                      Drachten, Transferium Oost          A     7 27    8 29            9 29   10 29   11 29   12 29   13 29   14 29
+                                                   Ritnummer   1035    1039    1043    1047    1051
+                      Heerenveen, Busstation              V    14 38   15 38   16 38   17 41   18 43
+                      Heerenveen, Oost (A32)                   14 41   15 41   16 41   17 43   18 45
+                      Heerenveen, Saturnus                     14 45   15 45   16 45   17 47   18 48
+                      Luinjeberd, Luinjeberd                   14 48   15 48   16 48   17 50   18 51
+                      Tjalleberd, Tjalleberd                   14 51   15 51   16 51   17 53   18 54
+                      Gersloot, Gersloot                       14 53   15 53   16 53   17 55   18 56
+                      Luxwoude, Hoek                           14 55   15 55   16 55   17 57   18 58
+                      Tijnje, Rolbrêgedyk                      14 59   15 59   16 59   18 01   19 02
+                      Nij Beets, Domela Nieuwenhuisweg         15 04   16 04   17 04   18 06   19 07
+                      Boornbergum, Easterbuorren               15 09   16 09   17 09   18 11   19 12
+                      De Wilgen, De Wilgen                     15 12   16 12   17 12   18 14   19 15
+                      Drachten, De Fluessen                    15 16   16 16   17 16   18 18   19 19
+                      Drachten, Van Knobelsdorffplein          15 22   16 22   17 22   18 24   19 26
+                      Drachten, Splitting                      15 25   16 25   17 25   18 26   19 28
+                      Drachten, Transferium Oost          A    15 29   16 29   17 29   18 30   19 31
+Van Drachten naar Heerenveen via Tijnje                                                          Lijn 23b
+                                                                                           Maandag t/m vrijdag
                                                                                                                    Maandag t/m vrijdag
-                                                                                            Maandag t/m vrijdag
-                             Lijnnummer      51      51      51     651      51      51      51      51       51
-                             Ritnummer    1091    1095    1099     1103    1107    1115    1123     1131    1139
-Dokkum, Busstation                   V    16 15   16 45   17 15   17 45   18 15   19 15   20 15   21 15    22 15
-Dokkum, Sionsberg                         16 19   16 49   17 19   17 49   18 19   19 19   20 19   21 19    22 19
-Damwâld, De Kruisweg                      16 24   16 54   17 24   17 54   18 24   19 24   20 24   21 24    22 24
-Rinsumageast, Melkemawei                  16 31   17 01   17 31   18 01   18 30   19 30   20 30   21 30    22 30
-Rinsumageast, Stiennendaam                16 35   17 05   17 35   18 05   18 34   19 34   20 34   21 34    22 34
-Aldtsjerk, Provinciale weg                16 38   17 08   17 38   18 08   18 37   19 37   20 37   21 37    22 37
-Oentsjerk, Heemstrastate                  16 40   17 10   17 40   18 10   18 38   19 38   20 38   21 38    22 38
-Gytsjerk, Nieuwe Straatweg                16 43   17 13   17 43   18 13   18 41   19 41   20 41   21 41    22 41
-Ryptsjerk, Westerdijk                     16 45   17 15   17 45   18 15   18 43   19 43   20 43   21 43    22 43
-Tytsjerk, Swarteweisein                   16 47   17 17   17 47   18 17   18 45   19 45   20 45   21 45    22 45
-Leeuwarden, Oud Tolhuis                   16 52   17 22   17 51   18 21   18 49   19 49   20 49   21 49    22 49
-Leeuwarden, De Bleek                      16 56   17 26   17 55   18 25   18 53   19 53   20 53   21 53    22 53
-Leeuwarden, Koepelkerk                    16 58   17 28   17 57   18 27   18 55   19 55   20 55   21 55    22 55
-Leeuwarden, Blokhuisplein                 17 00   17 30   17 59   18 29   18 57   19 57   20 57   21 57    22 57
-Leeuwarden, Busstation               A    17 06   17 36   18 04   18 34   19 01   20 01   21 01   22 01    23 01
-                             Lijnnummer      51
-                             Ritnummer     1147
-Dokkum, Busstation                   V    23 15
-Dokkum, Sionsberg                         23 19
-Damwâld, De Kruisweg                      23 24
-Rinsumageast, Melkemawei                  23 30
-Rinsumageast, Stiennendaam                23 34
-Aldtsjerk, Provinciale weg                23 37
-Oentsjerk, Heemstrastate                  23 38
-Gytsjerk, Nieuwe Straatweg                23 41
-Ryptsjerk, Westerdijk                     23 43
-Tytsjerk, Swarteweisein                   23 45
-Leeuwarden, Oud Tolhuis                   23 49
-Leeuwarden, De Bleek                      23 53
-Leeuwarden, Koepelkerk                    23 55
-Leeuwarden, Blokhuisplein                 23 57
-Leeuwarden, Busstation               A     0 01
-                      Lijn 51b                                                            Van Leeuwarden naar Dokkum via Damwâld
-                      Lijn 651b                                                           Van Leeuwarden naar Dokkum via Damwâld
-Maandag t/m vrijdag
+                             Ritnummer   1004    1008     1012   1016    1020    1024    1028      1032    1036
+Drachten, Transferium Oost          V     6 04    7 01    8 04    9 02   10 01   11 01   12 01     13 01   14 01
+Drachten, Splitting                       6 07    7 04    8 07    9 05   10 04   11 04   12 04     13 04   14 04
+Drachten, Van Knobelsdorffplein           6 10    7 07    8 11    9 08   10 07   11 07   12 07     13 07   14 08
+Drachten, De Fluessen                     6 14    7 12    8 16    9 13   10 12   11 12   12 12     13 12   14 13
+De Wilgen, De Wilgen                      6 18    7 16    8 20    9 17   10 16   11 16   12 16     13 16   14 17
+Boornbergum, Easterbuorren                6 21    7 19    8 23    9 20   10 19   11 19   12 19     13 19   14 20
+Nij Beets, Domela Nieuwenhuisweg          6 26    7 25    8 29    9 25   10 24   11 24   12 24     13 24   14 25
+Tijnje, Rolbrêgedyk                       6 31    7 31    8 35    9 30   10 29   11 29   12 29     13 29   14 30
+Luxwoude, Hoek                            6 35    7 35    8 39    9 34   10 33   11 33   12 33     13 33   14 34
+Gersloot, Gersloot                        6 37    7 37    8 41    9 36   10 35   11 35   12 35     13 35   14 36
+Tjalleberd, Tjalleberd                    6 39    7 40    8 43    9 38   10 37   11 37   12 37     13 37   14 39
+Luinjeberd, Luinjeberd                    6 41    7 42    8 45    9 40   10 39   11 39   12 39     13 39   14 41
+Heerenveen, Saturnus                      6 45    7 47    8 50    9 44   10 43   11 43   12 43     13 43   14 45
+Heerenveen, Oost (A32)                    6 48    7 51    8 54    9 48   10 47   11 47   12 47     13 47   14 49
+Heerenveen, Busstation              A     6 51    7 55    8 58    9 51   10 50   11 50   12 50     13 50   14 53
+                             Ritnummer   1040    1044    1048    1052
+Drachten, Transferium Oost          V    15 02   16 02   17 02   18 02
+Drachten, Splitting                      15 05   16 05   17 05   18 05
+Drachten, Van Knobelsdorffplein          15 09   16 09   17 09   18 08
+Drachten, De Fluessen                    15 14   16 14   17 14   18 13
+De Wilgen, De Wilgen                     15 18   16 18   17 18   18 17
+Boornbergum, Easterbuorren               15 22   16 22   17 21   18 20
+Nij Beets, Domela Nieuwenhuisweg         15 27   16 27   17 26   18 25
+Tijnje, Rolbrêgedyk                      15 32   16 32   17 31   18 30
+Luxwoude, Hoek                           15 36   16 36   17 35   18 34
+Gersloot, Gersloot                       15 38   16 38   17 37   18 36
+Tjalleberd, Tjalleberd                   15 41   16 41   17 39   18 38
+Luinjeberd, Luinjeberd                   15 43   16 43   17 41   18 40
+Heerenveen, Saturnus                     15 47   16 47   17 45   18 44
+Heerenveen, Oost (A32)                   15 51   16 51   17 49   18 47
+Heerenveen, Busstation              A    15 55   16 55   17 53   18 50
+                      Lijn 28a                                                        Van Heerenveen via Grou naar Leeuwarden
                        Maandag t/m vrijdag
-                                                    Lijnnummer       51      51      51         51      51      51      51      51      51
-                                                    Ritnummer     1004     1012   1016       1020    1024    1028    1032    1036    1040
-                      Leeuwarden, Busstation                 V     5 55    6 53    7 19       7 51    8 22    8 53    9 23    9 53   10 23
-                      Leeuwarden, Blokhuisplein                    5 58    6 56    7 22       7 55    8 26    8 57    9 27    9 57   10 27
-                      Leeuwarden, Bote van Bolswertstraat          6 00    6 58    7 25       7 58    8 29    8 59    9 29    9 59   10 29
-                      Leeuwarden, De Bleek                         6 02    7 00    7 27       8 00    8 31    9 01    9 31   10 01   10 31
-                      Leeuwarden, Oud Tolhuis                      6 04    7 03    7 30       8 03    8 34    9 04    9 34   10 04   10 34
-                      Tytsjerk, Swarteweisein                      6 10    7 09    7 37       8 09    8 40    9 10    9 40   10 10   10 40
-                      Ryptsjerk, Westerdijk                        6 11    7 10    7 38       8 10    8 41    9 11    9 41   10 11   10 41
-                      Gytsjerk, Nieuwe Straatweg                   6 14    7 13    7 41       8 13    8 44    9 14    9 44   10 14   10 44
-                      Oentsjerk, Heemstrastate                     6 16    7 15    7 43       8 15    8 46    9 16    9 46   10 16   10 46
-                      Aldtsjerk, Provinciale weg                   6 18    7 17    7 45       8 17    8 48    9 18    9 48   10 18   10 48
-                      Rinsumageast, Stiennendaam                   6 22    7 21    7 49       8 21    8 51    9 21    9 51   10 21   10 51
-                      Rinsumageast, Melkemawei                     6 26    7 25    7 53       8 25    8 55    9 25    9 55   10 25   10 55
-                      Damwâld, De Kruisweg                         6 33    7 32    8 00       8 32    9 02    9 32   10 02   10 32   11 02
-                      Dokkum, Sionsberg                            6 38    7 37    8 06       8 37    9 07    9 37   10 07   10 37   11 07
-                      Dokkum, Busstation                     A     6 43    7 43    8 13       8 43    9 13    9 43   10 13   10 43   11 13
-                                                    Lijnnummer       51      51      51         51      51      51     651      51     651
-                                                    Ritnummer     1044    1048    1052       1056    1060    1064    1066    1068    1070
-                      Leeuwarden, Busstation                  V   10 53   11 23   11 53      12 22   12 52   13 22   13 35   13 51   14 05
-                      Leeuwarden, Blokhuisplein                   10 57   11 27   11 57      12 26   12 56   13 26   13 39   13 55   14 09
-                      Leeuwarden, Bote van Bolswertstraat         10 59   11 29   11 59      12 28   12 58   13 28   13 41   13 57   14 12
-                      Leeuwarden, Vliet                             |       |       |          |       |       |     13 42     |     14 13
-                      Leeuwarden, Friese Poort/Wilaarderburen       |       |       |          |       |       |     13 46     |     14 17
-                      Leeuwarden, De Bleek                        11 01   11 31   12 01      12 30   13 00   13 30     |     13 59     |
-                      Leeuwarden, Oud Tolhuis                     11 04   11 34   12 04      12 33   13 03   13 33     |     14 02     |
-                      Tytsjerk, Swarteweisein                     11 10   11 40   12 10      12 39   13 09   13 39   13 53   14 08   14 24
-                      Ryptsjerk, Westerdijk                       11 11   11 41   12 11      12 40   13 10   13 40   13 54   14 09   14 25
-                      Gytsjerk, Nieuwe Straatweg                  11 14   11 44   12 14      12 43   13 13   13 43   13 57   14 12   14 28
-                      Oentsjerk, Heemstrastate                    11 16   11 46   12 16      12 45   13 15   13 45   13 59   14 14   14 30
-                      Aldtsjerk, Provinciale weg                  11 18   11 48   12 18      12 47   13 17   13 47   14 01   14 17   14 33
-                      Rinsumageast, Stiennendaam                  11 21   11 51   12 21      12 51   13 21   13 51   14 05   14 21   14 37
-                      Rinsumageast, Melkemawei                    11 25   11 55   12 25      12 55   13 25   13 55   14 09   14 25   14 41
-                      Damwâld, Doniawei                             |       |       |          |       |       |     14 15     |     14 47
-                      Wâlterswâld, Broekloane                       |       |       |          |       |       |     14 19     |     14 51
-                      Driezum, Dorp                                 |       |       |          |       |       |     14 21     |     14 53
-                      Wâlterswâld, Achterwei                        |       |       |          |       |       |     14 24     |     14 56
-                      Damwâld, De Kruisweg                        11 32   12 02   12 32      13 02   13 32   14 02     |     14 32     |
-                      Dokkum, Sionsberg                           11 37   12 07   12 37      13 07   13 37   14 07   14 31   14 37   15 03
-                      Dokkum, Busstation                      A   11 43   12 13   12 43      13 13   13 43   14 13   14 36   14 43   15 08
-                                                    Lijnnummer       51     651      51        651      51     651      51     651      51
-                                                    Ritnummer     1072    1074    1076       1078    1080    1082    1084    1086    1088
-                      Leeuwarden, Busstation                  V   14 20   14 35   14 50      15 05   15 20   15 35   15 50   16 05   16 20
-                      Leeuwarden, Blokhuisplein                   14 24   14 39   14 54      15 09   15 24   15 39   15 54   16 09   16 24
+Maandag t/m vrijdag
+                                                  Ritnummer   1003    1007     1011     1015    1019    1023    1027     1031   1035
+                      Heerenveen, Busstation             V             6 32              7 30    8 36    9 36   10 36   11 36   12 36
+                      Heerenveen, Motel                                6 35              7 33    8 39    9 39   10 39   11 39   12 39
+                      Haskerdijken, Nieuwebrug                         6 40              7 38    8 44    9 44   10 44   11 44   12 44
+                      Akkrum, Station                                  6 49              7 47    8 53    9 53   10 53   11 53   12 53
+                      Akkrum, Heechein                                 6 52              7 50    8 56    9 55   10 55   11 55   12 55
+                      Akkrum, Jinshuizen                               6 54              7 52    8 58    9 57   10 57   11 57   12 57
+                      Jirnsum, Douwemastrjitte                         6 59              7 58    9 03   10 02   11 02   12 03   13 03
+                      Grou, Sporthal ZZ                        6 08    7 03    7 26      8 02    9 07   10 06   11 06   12 07   13 07
+                      Grou, Parkstraat                         6 14    7 09    7 33      8 09    9 13   10 12   11 12   12 13   13 13
+                      Grou, Sporthal NZ                        6 17    7 12    7 37      8 13    9 17   10 15   11 15   12 17   13 17
+                      Idaerd, Idaerd Rijksweg                  6 20    7 15    7 40      8 16    9 20   10 18   11 18   12 20   13 20
+                      Wirdum, Wirdum Rijksweg                  6 24    7 19    7 44      8 20    9 24   10 22   11 22   12 24   13 24
+                      Leeuwarden, Techum                       6 28    7 24    7 49      8 25    9 28   10 26   11 26   12 28   13 28
+                      Leeuwarden, Julianalaan                   |       |       |         |       |       |       |     12 33   13 33
+                      Leeuwarden, Snekertrekweg                 |       |       |         |       |       |       |     12 36   13 36
+                      Leeuwarden, Oostergoplein                6 31    7 28    7 53      8 29    9 32   10 30   11 30     |       |
+                      Leeuwarden, Huizumerlaan                 6 34    7 32    7 57      8 34    9 35   10 33   11 33     |       |
+                      Leeuwarden, Busstation             A     6 37    7 37    8 02      8 40    9 39   10 37   11 37   12 39   13 41
+                                                  Ritnummer   1039    1043    1047      1051    1055    1059
+                      Heerenveen, Busstation             V    13 36   14 36   15 36     16 36   17 36   18 36
+                      Heerenveen, Motel                       13 39   14 39   15 39     16 39   17 39   18 39
+                      Haskerdijken, Nieuwebrug                13 44   14 44   15 44     16 44   17 44   18 44
+                      Akkrum, Station                    A    13 53   14 53   15 53     16 53   17 53   18 53
+                      Akkrum, Heechein                        13 55   14 55   15 55     16 55   17 55
+                      Akkrum, Jinshuizen                      13 57   14 57   15 57     16 57   17 57
+                      Jirnsum, Douwemastrjitte                14 03   15 03   16 03     17 03   18 02
+                      Grou, Sporthal ZZ                       14 07   15 07   16 07     17 07   18 06
+                      Grou, Parkstraat                        14 13   15 13   16 13     17 13   18 12
+                      Grou, Sporthal NZ                       14 17   15 17   16 17     17 17   18 15
+                      Idaerd, Idaerd Rijksweg                 14 20   15 20   16 20     17 20   18 18
+                      Wirdum, Wirdum Rijksweg                 14 24   15 24   16 24     17 24   18 22
+                      Leeuwarden, Techum                      14 28   15 28   16 28     17 28   18 26
+                      Leeuwarden, Julianalaan                 14 33   15 33   16 33     17 33   18 31
+                      Leeuwarden, Snekertrekweg               14 36   15 36   16 36     17 36   18 34
+                      Leeuwarden, Busstation             A    14 41   15 41   16 41     17 41   18 36

@@ -1,300 +1,200 @@
-                      Leeuwarden, Bote van Bolswertstraat         14 27   14 42   14 57      15 12   15 27   15 42   15 57   16 12   16 27
-                      Leeuwarden, Vliet                             |     14 43     |        15 13     |     15 43     |     16 13     |
-                      Leeuwarden, Friese Poort/Wilaarderburen       |     14 47     |        15 17     |     15 47     |     16 17     |
-                      Leeuwarden, De Bleek                        14 29     |     14 59        |     15 29     |     15 59     |     16 29
-                      Leeuwarden, Oud Tolhuis                     14 32     |     15 02        |     15 32     |     16 02     |     16 32
-                      Tytsjerk, Swarteweisein                     14 38   14 54   15 08      15 24   15 38   15 54   16 08   16 24   16 38
-                      Ryptsjerk, Westerdijk                       14 39   14 55   15 09      15 25   15 39   15 55   16 09   16 25   16 39
-                      Gytsjerk, Nieuwe Straatweg                  14 42   14 58   15 12      15 28   15 42   15 58   16 12   16 28   16 42
-                      Oentsjerk, Heemstrastate                    14 44   15 00   15 14      15 30   15 44   16 00   16 14   16 30   16 44
-                      Aldtsjerk, Provinciale weg                  14 47   15 03   15 17      15 33   15 47   16 03   16 17   16 33   16 47
-                      Rinsumageast, Stiennendaam                  14 51   15 07   15 21      15 37   15 51   16 07   16 21   16 37   16 51
-                      Rinsumageast, Melkemawei                    14 55   15 11   15 25      15 41   15 55   16 11   16 25   16 41   16 55
-                      Damwâld, Doniawei                             |     15 17     |        15 47     |     16 17     |     16 47     |
-                      Wâlterswâld, Broekloane                       |     15 21     |        15 51     |     16 21     |     16 51     |
-                      Driezum, Dorp                                 |     15 23     |        15 53     |     16 23     |     16 53     |
-                      Wâlterswâld, Achterwei                        |     15 26     |        15 56     |     16 26     |     16 56     |
-                      Damwâld, De Kruisweg                        15 02     |     15 32        |     16 02     |     16 32     |     17 02
-                      Dokkum, Sionsberg                           15 07   15 33   15 37      16 04   16 07   16 34   16 37   17 04   17 07
-                      Dokkum, Busstation                      A   15 13   15 38   15 43      16 09   16 13   16 39   16 43   17 09   17 13
-Van Leeuwarden naar Dokkum via Damwâld                                                         Lijn 51b
-Van Leeuwarden naar Dokkum via Damwâld                                                        Lijn 651b
-                                                                                                                     Maandag t/m vrijdag
-                                                                                              Maandag t/m vrijdag
-                              Lijnnummer      651      51      51      51      51      51      51      51       51
-                              Ritnummer     1090    1092    1096    1100    1104     1112    1120    1128     1136
-Leeuwarden, Busstation                  V   16 35   16 50   17 20   17 53   18 23   19 26   20 26   21 26    22 26
-Leeuwarden, Blokhuisplein                   16 39   16 54   17 24   17 57   18 27   19 29   20 29   21 29    22 29
-Leeuwarden, Bote van Bolswertstraat         16 42   16 57   17 27   17 59   18 29   19 31   20 31   21 31    22 31
-Leeuwarden, Vliet                           16 43     |       |       |       |       |       |       |        |
-Leeuwarden, Friese Poort/Wilaarderburen     16 47     |       |       |       |       |       |       |        |
-Leeuwarden, De Bleek                          |     16 59   17 29   18 01   18 31   19 33   20 33   21 33    22 33
-Leeuwarden, Oud Tolhuis                       |     17 02   17 32   18 04   18 34   19 36   20 36   21 36    22 36
-Tytsjerk, Swarteweisein                     16 54   17 08   17 38   18 10   18 40   19 42   20 42   21 42    22 42
-Ryptsjerk, Westerdijk                       16 55   17 09   17 39   18 11   18 41   19 43   20 43   21 43    22 43
-Gytsjerk, Nieuwe Straatweg                  16 58   17 12   17 42   18 14   18 44   19 46   20 46   21 46    22 46
-Oentsjerk, Heemstrastate                    17 00   17 14   17 44   18 16   18 46   19 48   20 48   21 48    22 48
-Aldtsjerk, Provinciale weg                  17 03   17 17   17 47   18 18   18 48   19 50   20 50   21 50    22 50
-Rinsumageast, Stiennendaam                  17 07   17 21   17 51   18 21   18 51   19 53   20 53   21 53    22 53
-Rinsumageast, Melkemawei                    17 11   17 25   17 55   18 25   18 55   19 57   20 57   21 57    22 57
-Damwâld, Doniawei                           17 17     |       |       |       |       |       |       |        |
-Wâlterswâld, Broekloane                     17 21     |       |       |       |       |       |       |        |
-Driezum, Dorp                               17 23     |       |       |       |       |       |       |        |
-Wâlterswâld, Achterwei                      17 26     |       |       |       |       |       |       |        |
-Damwâld, De Kruisweg                          |     17 32   18 02   18 32   19 02   20 03   21 03   22 03    23 03
-Dokkum, Sionsberg                           17 33   17 37   18 07   18 37   19 07   20 08   21 08   22 08    23 08
-Dokkum, Busstation                      A   17 38   17 43   18 13   18 43   19 13   20 13   21 13   22 13    23 13
-                              Lijnnummer       51      51
-                              Ritnummer      1144    1152
-Leeuwarden, Busstation                 V    23 26    0 26
-Leeuwarden, Blokhuisplein                   23 29    0 29
-Leeuwarden, Bote van Bolswertstraat         23 31    0 31
-Leeuwarden, De Bleek                        23 33    0 33
-Leeuwarden, Oud Tolhuis                     23 36    0 36
-Tytsjerk, Swarteweisein                     23 42    0 42
-Ryptsjerk, Westerdijk                       23 43    0 43
-Gytsjerk, Nieuwe Straatweg                  23 46    0 46
-Oentsjerk, Heemstrastate                    23 48    0 48
-Aldtsjerk, Provinciale weg                  23 50    0 50
-Rinsumageast, Stiennendaam                  23 53    0 53
-Rinsumageast, Melkemawei                    23 57    0 57
-Damwâld, De Kruisweg                         0 03    1 03
-Dokkum, Sionsberg                            0 08    1 08
-Dokkum, Busstation                     A     0 13    1 13
-                      Lijn 52a                                                                                                      Van Dokkum naar Paesens
-                      Lijn 552a                                                                                                     Van Dokkum naar Paesens
+Van Leeuwarden naar Heerenveen via Grou                                                         Lijn 28b
+                                                                                          Maandag t/m vrijdag
+                                                                                                                  Maandag t/m vrijdag
+                            Ritnummer   1004    1008     1012   1016    1020    1024    1028      1032    1036
+Leeuwarden, Busstation             V             6 47    7 47    8 51    9 51   10 51   11 51     12 51   13 51
+Leeuwarden, Snekertrekweg                        6 49    7 49    8 53    9 53   10 53   11 53       |       |
+Leeuwarden, Julianalaan                          6 53    7 53    8 57    9 57   10 57   11 57       |       |
+Leeuwarden, Huizumerlaan                          |       |       |       |       |       |       12 54   13 55
+Leeuwarden, Oostergoplein                        6 54    7 54    8 58    9 58   10 58   11 58     12 57   13 58
+Leeuwarden, Techum                               6 57    7 58    9 02   10 02   11 02   12 02     13 01   14 02
+Wirdum, Wirdum Rijksweg                          7 01    8 03    9 07   10 07   11 07   12 07     13 06   14 07
+Idaerd, Idaerd Rijksweg                          7 06    8 08    9 11   10 11   11 11   12 11     13 10   14 11
+Grou, Sporthal ZZ                                7 09    8 11    9 14   10 14   11 14   12 14     13 13   14 14
+Grou, Parkstraat                                 7 15    8 17    9 20   10 20   11 20   12 20     13 19   14 20
+Grou, Sporthal NZ                                7 19    8 21    9 23   10 23   11 23   12 23     13 23   14 24
+Jirnsum, Douwemastrjitte                         7 23    8 25    9 27   10 27   11 27   12 27     13 27   14 28
+Akkrum, Jinshuizen                               7 29    8 31    9 32   10 32   11 32   12 32     13 32   14 33
+Akkrum, Heechein                                 7 32    8 33    9 34   10 34   11 34   12 34     13 34   14 35
+Akkrum, Station                          6 36    7 35    8 36    9 37   10 37   11 37   12 37     13 37   14 38
+Haskerdijken, Nieuwebrug                 6 44    7 43    8 44    9 45   10 45   11 45   12 45     13 45   14 46
+Heerenveen, Motel                        6 49    7 49    8 49    9 50   10 50   11 50   12 50     13 50   14 51
+Heerenveen, Busstation             A     6 53    7 54    8 54    9 55   10 55   11 54   12 54     13 55   14 56
+                            Ritnummer   1040    1044    1048    1052    1056
+Leeuwarden, Busstation             V    14 51   15 51   16 51   17 51   18 51
+Leeuwarden, Huizumerlaan                14 55   15 55   16 55   17 55   18 54
+Leeuwarden, Oostergoplein               14 58   15 58   16 58   17 58   18 57
+Leeuwarden, Techum                      15 02   16 02   17 02   18 02   19 01
+Wirdum, Wirdum Rijksweg                 15 07   16 07   17 07   18 07   19 06
+Idaerd, Idaerd Rijksweg                 15 11   16 11   17 11   18 11   19 10
+Grou, Sporthal ZZ                       15 14   16 14   17 14   18 14   19 13
+Grou, Parkstraat                        15 20   16 20   17 20   18 20   19 19
+Grou, Sporthal NZ                  A    15 24   16 24   17 24   18 24   19 23
+Jirnsum, Douwemastrjitte                15 28   16 28   17 28   18 28
+Akkrum, Jinshuizen                      15 33   16 33   17 33   18 33
+Akkrum, Heechein                        15 35   16 35   17 35   18 35
+Akkrum, Station                         15 38   16 38   17 38   18 38
+Haskerdijken, Nieuwebrug                15 46   16 46   17 46   18 46
+Heerenveen, Motel                       15 51   16 52   17 52   18 51
+Heerenveen, Busstation             A    15 56   16 57   17 57   18 56
+                      Lijn 35a                                                                                                        Van Sneek naar Franeker
+                      Lijn 535a                                                                                                       Van Sneek naar Franeker
 Maandag t/m vrijdag
                        Maandag t/m vrijdag
-                                                      Lijnnummer            52          52         552         552         552         552         552         552         552
-                                                      Ritnummer          1003        1007 b       1011 b      1015 b      1019 b      1023 b      1027 b      1031 b      1035
-                      Dokkum, Busstation                        V         5 48        6 48        8 02        9 02       10 02       11 02       12 02       13 02       14 02
-                      Wetsens, Wetsens                                    5 52        6 52        8 06        9 06       10 06       11 06       12 06       13 06       14 06
-                      Niawier, Niawier                                    5 55        6 55        8 09        9 09       10 09       11 09       12 09       13 09       14 09
-                      Oosternijkerk, Nijkerk                              5 59        6 59        8 13        9 13       10 13       11 13       12 13       13 13       14 13
-                      Paesens, Paesens                          A         6 04        7 04        8 18        9 18       10 18       11 18       12 18       13 18       14 18
-                                                      Lijnnummer           552         552         552         552
-                                                      Ritnummer b         1039 b      1043 b      1047 b      1051 b      1055
-                      Dokkum, Busstation                        V        15 05       16 05       17 05       18 05       19 05
-                      Wetsens, Wetsens                                   15 09       16 09       17 09       18 09       19 09
-                      Niawier, Niawier                                   15 12       16 12       17 12       18 12       19 12
-                      Oosternijkerk, Nijkerk                             15 16       16 16       17 16       18 16       19 16
-                      Paesens, Paesens                          A        15 21       16 21       17 21       18 21       19 21
+                                                      Lijnnummer           535          35         535         535         535          35         535         535
+                                                      Ritnummer b        1003        1007 b       1011 b      1031 b      1035        1039 b      1043 b      1047
+                      Sneek, Busstation                      V            5 52        6 52        7 52       12 52       13 52       14 51       15 51       16 52
+                      Sneek, Prins Hendrikkade                            5 54        6 54        7 54       12 54       13 54       14 53       15 53       16 54
+                      Scharnegoutum, Rotonde Provinciale weg              6 00        7 00        8 00       13 00       14 00       14 59       15 59       17 00
+                      Boazum, Boazum                                      6 07        7 07        8 07       13 07       14 07       15 06       16 06       17 07
+                      Boazum, Yndyk                                       6 09        7 09        8 09       13 09       14 09       15 08       16 08       17 09
+                      Wiuwert, Wiuwert                                    6 12        7 12        8 12       13 12       14 12       15 11       16 11       17 12
+                      Britswert, Froonackerdyk                            6 13        7 13        8 13       13 13       14 13       15 12       16 12       17 13
+                      Easterlittens, Easterlittens                        6 17        7 17        8 17       13 17       14 17       15 16       16 16       17 17
+                      Baard, Baard                                        6 20        7 20        8 20       13 20       14 20       15 19       16 19       17 20
+                      Winsum, Busstation                     A            6 24        7 24        8 24       13 24       14 24       15 24       16 24       17 24
+                      Winsum, Busstation                        V         6 25        7 25        8 25       13 25       14 25       15 25       16 25       17 25
+                      Winsum, Kleasterdyk                                 6 27        7 27        8 27       13 27       14 27       15 27       16 27       17 27
+                      Wjelsryp, Wjelsryp                                  6 30        7 30        8 30       13 30       14 30       15 30       16 30       17 30
+                      Tzum, Meester Vrijburgstraat                        6 36        7 36        8 36       13 36       14 36       15 36       16 36       17 36
+                      Franeker, Station                         A         6 43        7 43        8 43       13 43       14 43       15 43       16 43       17 43
                       b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
                           één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
-Van Paesens naar Dokkum                                                                                                      Lijn 52b
-Van Paesens naar Dokkum                                                                                                     Lijn 552b
+Van Franeker naar Sneek                                                                                                      Lijn 35b
+Van Franeker naar Sneek                                                                                                     Lijn 535b
                                                                                                                                                            Maandag t/m vrijdag
                                                                                                                               Maandag t/m vrijdag
-                                Lijnnummer            52          52         552         552         552         552         552         552         552
-                                Ritnummer          1004        1008 b       1012 b      1016 b     1020 b       1024 b      1028 b      1032 b      1036
-Paesens, Paesens                          V         6 04        7 04        8 18        9 18       10 18       11 18       12 18       13 18       14 18
-Paesens, Brug                                       6 04        7 04        8 18        9 18       10 18       11 18       12 18       13 18       14 18
-Moddergat, Moddergat                                6 05        7 05        8 19        9 19       10 19       11 19       12 19       13 19       14 19
-Nes, Buorren                                        6 08        7 08        8 22        9 22       10 22       11 22       12 22       13 22       14 22
-Oosternijkerk, Nijkerk                              6 15        7 15        8 29        9 29       10 29       11 29       12 29       13 29       14 29
-Niawier, Niawier                                    6 19        7 19        8 33        9 33       10 33       11 33       12 33       13 33       14 33
-Wetsens, Wetsens                                    6 22        7 22        8 36        9 36       10 36       11 36       12 36       13 36       14 36
-Dokkum, Busstation                        A         6 27        7 27        8 40        9 40       10 40       11 40       12 40       13 40       14 40
-                                Lijnnummer          552         552          552         552         552
-                                Ritnummer b        1040 b       1044 b     1048 b       1052 b      1056
-Paesens, Paesens                          V        15 21       16 21       17 21       18 21       19 21
-Paesens, Brug                                      15 21       16 21       17 21       18 21       19 21
-Moddergat, Moddergat                               15 22       16 22       17 22       18 22       19 22
-Nes, Buorren                                       15 25       16 25       17 25       18 25       19 25
-Oosternijkerk, Nijkerk                             15 32       16 32       17 32       18 32       19 32
-Niawier, Niawier                                   15 36       16 36       17 36       18 36       19 36
-Wetsens, Wetsens                                   15 39       16 39       17 39       18 39       19 39
-Dokkum, Busstation                        A        15 43       16 43       17 43       18 43       19 43
+                                Lijnnummer           535         535          35         535         535         535          35         535         535
+                                Ritnummer b        1004 b      1008         1012 b      1032 b      1036 b     1040         1044 b      1048 b      1052
+Franeker, Station                      V            6 08        6 46        7 46       12 46       13 46       14 46       15 46       16 46       17 46
+Tzum, Meester Vrijburgstraat                        6 14        6 52        7 52       12 52       13 52       14 52       15 52       16 52       17 52
+Wjelsryp, Wjelsryp                                  6 20        6 58        7 59       12 58       13 58       14 58       15 58       16 58       17 58
+Winsum, Kleasterdyk                                 6 23        7 01        8 02       13 01       14 01       15 01       16 01       17 01       18 01
+Winsum, Busstation                                  6 25        7 03        8 04       13 03       14 03       15 03       16 03       17 03       18 03
+Baard, Baard                                        6 28        7 06        8 07       13 06       14 06       15 06       16 06       17 06       18 06
+Easterlittens, Easterlittens                        6 31        7 09        8 10       13 09       14 09       15 09       16 09       17 09       18 09
+Britswert, Froonackerdyk                            6 35        7 13        8 14       13 13       14 13       15 13       16 13       17 13       18 13
+Wiuwert, Wiuwert                                    6 36        7 14        8 15       13 14       14 14       15 14       16 14       17 14       18 14
+Boazum, Yndyk                                       6 39        7 17        8 18       13 17       14 17       15 17       16 17       17 17       18 17
+Boazum, Boazum                                      6 41        7 19        8 20       13 19       14 19       15 19       16 19       17 19       18 19
+Scharnegoutum, Rotonde Provinciale weg              6 48        7 26        8 27       13 26       14 26       15 26       16 26       17 26       18 26
+Sneek, Prins Hendrikkade                            6 54        7 32        8 33       13 32       14 32       15 32       16 32       17 32       18 32
+Sneek, Busstation                      A            6 57        7 36        8 38       13 35       14 36       15 36       16 37       17 36       18 35
 b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
     één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
-                      Lijn 55a                                                                           Van Dokkum naar Drachten
-                      Lijn 356a                                                                          Van Dokkum naar Drachten
-Maandag t/m vrijdag
+                      Lijn 41a                                                                             Van Balk naar Heerenveen
                        Maandag t/m vrijdag
-                                                    Lijnnummer      55      55    356       55      55     356       55      55    356
-                                                    Ritnummer    1503    1507    1503     1511    1515    1507     1519   1523     1511
-                      Dokkum, Busstation                    V             6 07    6 35            7 06     7 34            8 06    8 35
-                      Dokkum, Watertoren                                  6 08    6 36            7 07     7 35            8 07    8 36
-                      Dokkum, Sionsberg                                   6 11    6 39            7 10     7 38            8 10    8 39
-                      Feanwâlden, Station                   A              |      6 51             |       7 51             |      8 51
-                      Feanwâlden, Station                   V              |      6 52             |       7 52             |      8 52
-                      Quatrebras, Quatrebras West                          |      6 55             |       7 55             |      8 55
-                      Damwâld, De Kruisweg                                6 16     |              7 15      |              8 15     |
-                      Broeksterwâld, Haadwei                              6 19     |              7 18      |              8 18     |
-                      Feanwâlden, De Stins                                6 26     |              7 26      |              8 26     |
-                      Feanwâlden, Station                   A             6 29     |              7 29      |              8 29     |
-                      Feanwâlden, Station                   V     6 01    6 31    |       6 59    7 31     |       7 59    8 31    |
-                      Feanwâlden, De Swette                       6 02    6 32    |       7 00    7 32     |       8 00    8 32    |
-                      Quatrebras, Quatrebras Zuid                 6 04    6 34    |       7 02    7 34     |       8 02    8 34    |
-                      Burgum, Kwekersstrjitte                      |      6 41    |        |      7 42     |        |      8 41    |
-                      Burgum, Gemeentehûs                   A     6 09    6 43    |       7 08    7 44     |       8 08    8 43    |
-                      Sumar, Achterwei                                    6 46     |              7 47      |              8 46     |
-                      Drachten, Transferium Oost            A             6 59    7 13            8 02     8 13            9 00    9 12
-                                                    Lijnnummer      55      55    356       55      55     356       55      55    356
-                                                    Ritnummer    1527     1531    1515   1535    1539      1519   1543    1547    1523
-                      Dokkum, Busstation                    V             9 06    9 35           10 06    10 35           11 06   11 35
-                      Dokkum, Watertoren                                  9 07    9 36           10 07    10 36           11 07   11 36
-                      Dokkum, Sionsberg                                   9 10    9 39           10 10    10 39           11 10   11 39
-                      Feanwâlden, Station                   A              |      9 51             |      10 51             |     11 51
-                      Feanwâlden, Station                   V              |      9 52             |      10 52             |     11 52
-                      Quatrebras, Quatrebras West                          |      9 55             |      10 55             |     11 55
-                      Damwâld, De Kruisweg                                9 15     |             10 15      |             11 15     |
-                      Broeksterwâld, Haadwei                              9 18     |             10 18      |             11 18     |
-                      Feanwâlden, De Stins                                9 26     |             10 26      |             11 26     |
-                      Feanwâlden, Station                   A             9 29     |             10 29      |             11 29     |
-                      Feanwâlden, Station                   V     8 59    9 31    |       9 59   10 31     |      10 59   11 31    |
-                      Feanwâlden, De Swette                       9 00    9 32    |      10 00   10 32     |      11 00   11 32    |
-                      Quatrebras, Quatrebras Zuid                 9 02    9 34    |      10 02   10 34     |      11 02   11 34    |
-                      Burgum, Kwekersstrjitte                      |      9 41    |        |     10 41     |        |     11 41    |
-                      Burgum, Gemeentehûs                   A     9 08    9 43    |      10 08   10 43     |      11 08   11 43    |
-                      Sumar, Achterwei                                    9 46     |             10 46      |             11 46     |
-                      Drachten, Transferium Oost            A             9 59   10 12           10 59    11 12           11 59   12 12
-                                                    Lijnnummer      55      55    356       55      55     356       55      55    356
-                                                    Ritnummer     1551   1555    1527    1559    1563      1531   1567     1571   1535
-                      Dokkum, Busstation                    V            12 03   12 35           13 06    13 35           14 06   14 35
-                      Dokkum, Watertoren                                 12 04   12 36           13 07    13 36           14 07   14 36
-                      Dokkum, Hendoweg                                   12 07     |               |        |               |       |
-                      Dokkum, Sionsberg                                  12 10   12 39           13 10    13 39           14 10   14 39
-                      Feanwâlden, Station                   A              |     12 51             |      13 51             |     14 51
-                      Feanwâlden, Station                   V              |     12 52             |      13 52             |     14 52
-                      Quatrebras, Quatrebras West                          |     12 55             |      13 55             |     14 55
-                      Damwâld, De Kruisweg                               12 15     |             13 15      |             14 15     |
-                      Broeksterwâld, Haadwei                             12 18     |             13 18      |             14 18     |
-                      Feanwâlden, De Stins                               12 26     |             13 26      |             14 26     |
-                      Feanwâlden, Station                   A            12 29     |             13 29      |             14 29     |
-                      Feanwâlden, Station                   V    11 59   12 31     |     13 06   13 31      |     14 06   14 31     |
-                      Feanwâlden, De Swette                      12 00   12 32     |     13 07   13 32      |     14 07   14 32     |
-                      Quatrebras, Quatrebras Zuid                12 02   12 34     |     13 09   13 34      |     14 09   14 34     |
-                      Burgum, Kwekersstrjitte                      |     12 41     |       |     13 41      |       |     14 41     |
-                      Burgum, Gemeentehûs                   A    12 08   12 43     |     13 15   13 43      |     14 15   14 43     |
-                      Sumar, Achterwei                                   12 46     |             13 46      |             14 46     |
-                      Drachten, Transferium Oost            A            12 59   13 12           13 59    14 12           15 00   15 12
-Van Dokkum naar Drachten                                                                     Lijn 55a
-Van Dokkum naar Drachten                                                                    Lijn 356a
-                                                                                                                    Maandag t/m vrijdag
-                                                                                             Maandag t/m vrijdag
-                              Lijnnummer      55      55    356       55      55    356       55      55      356
-                              Ritnummer    1575    1579    1539    1583    1587    1543     1591    1595     1547
-Dokkum, Busstation                    V            15 06   15 35           16 00   16 35           17 06    17 35
-Dokkum, Watertoren                                 15 07   15 36           16 01   16 36           17 07    17 36
-Dokkum, Hendoweg                                     |       |             16 05     |               |        |
-Dokkum, Sionsberg                                  15 10   15 39           16 10   16 39           17 10    17 39
-Feanwâlden, Station                   A              |     15 51             |     16 51             |      17 51
-Feanwâlden, Station                   V              |     15 52             |     16 52             |      17 52
-Quatrebras, Quatrebras West                          |     15 55             |     16 55             |      17 55
-Damwâld, De Kruisweg                               15 15     |             16 15     |             17 15      |
-Broeksterwâld, Haadwei                             15 18     |             16 18     |             17 18      |
-Feanwâlden, De Stins                               15 26     |             16 26     |             17 26      |
-Feanwâlden, Station                   A            15 29     |             16 29     |             17 29      |
-Feanwâlden, Station                   V    15 06   15 31     |     16 06   16 31     |     17 06   17 31      |
-Feanwâlden, De Swette                      15 07   15 32     |     16 07   16 32     |     17 07   17 32      |
-Quatrebras, Quatrebras Zuid                15 09   15 34     |     16 09   16 34     |     17 09   17 34      |
-Burgum, Kwekersstrjitte                      |     15 41     |       |     16 41     |       |     17 41      |
-Burgum, Gemeentehûs                   A    15 15   15 43     |     16 15   16 43     |     17 15   17 43      |
-Sumar, Achterwei                                   15 46     |             16 46     |             17 46      |
-Drachten, Transferium Oost            A            16 00   16 12           17 00   17 12           18 00    18 12
-                              Lijnnummer      55      55      55      55      55
-                              Ritnummer    1599    1603    1607     1611    1615
-Dokkum, Busstation                    V            18 06           19 06   19 58
-Dokkum, Watertoren                                 18 07           19 07   19 59
-Dokkum, Sionsberg                                  18 10           19 10   20 02
-Damwâld, De Kruisweg                               18 15           19 15   20 07
-Broeksterwâld, Haadwei                             18 18           19 18   20 10
-Feanwâlden, De Stins                               18 26           19 26   20 18
-Feanwâlden, Station                   A            18 29           19 29   20 21
-Feanwâlden, Station                   V    18 06   18 31   19 06   19 31   20 31
-Feanwâlden, De Swette                      18 07   18 32   19 07   19 32   20 32
-Quatrebras, Quatrebras Zuid                18 09   18 34   19 09   19 34   20 34
-Burgum, Kwekersstrjitte                      |     18 41     |     19 41   20 41
-Burgum, Gemeentehûs                   A    18 15   18 42   19 15   19 42   20 42
-Sumar, Achterwei                                   18 45           19 45   20 45
-Drachten, Transferium Oost            A            18 58           19 58   20 58
-                      Lijn 55b                                                                           Van Drachten naar Dokkum
-                      Lijn 356b                                                                          Van Drachten naar Dokkum
 Maandag t/m vrijdag
+                                                      Ritnummer   1003    1007     1011   1015    1019     1023    1027    1035    1043
+                      Balk, Harich Rotonde                   V     5 54    6 22    6 41    7 10    7 52     8 23    8 53    9 53   10 53
+                      Balk, Meineszleane                           5 59    6 27    6 46    7 15    7 57     8 28    8 58    9 58   10 58
+                      Wijckel, Hervormde Kerk                      6 03    6 31    6 50    7 19    8 01     8 32    9 02   10 02   11 02
+                      Sloten, Sloten                               6 06    6 34    6 53    7 22    8 04     8 35    9 05   10 05   11 05
+                      Tjerkgaast, Tjerkgaast                       6 09    6 37    6 56    7 26    8 08     8 38    9 08   10 08   11 08
+                      Spannenburg, Spannenburg               A     6 13    6 41    7 01    7 31    8 13     8 43    9 13   10 13   11 13
+                      Spannenburg, Spannenburg               V     6 15    6 43    7 03    7 33    8 15     8 45    9 15   10 15   11 15
+                      Sint Nicolaasga, Centrum                     6 21    6 49    7 09    7 39    8 21     8 51    9 21   10 21   11 21
+                      Sint Nicolaasga, Huisterheide                6 24    6 52    7 12    7 42    8 24     8 54    9 24   10 24   11 24
+                      Scharsterbrug, Schoolstraat                  6 27    6 55    7 16    7 46    8 28     8 57    9 27   10 27   11 27
+                      Joure, Scheen                                6 32    7 00    7 21    7 51    8 33     9 02    9 32   10 32   11 32
+                      Joure, Busstation                            6 35    7 03    7 24    7 54    8 36     9 05    9 35   10 35   11 35
+                      Heerenveen, Oost (A32)                       6 44    7 12    7 33    8 03    8 45     9 14    9 44   10 44   11 44
+                      Heerenveen, Busstation                 A     6 47    7 15    7 37    8 07    8 49     9 18    9 47   10 47   11 47
+                                                      Ritnummer   1051    1059    1063    1067     1071    1075    1079    1083    1087
+                      Balk, Harich Rotonde                   V    11 53   12 53   13 23   13 53   14 23    14 53   15 23   15 53   16 23
+                      Balk, Meineszleane                          11 58   12 58   13 28   13 58   14 28    14 58   15 28   15 58   16 28
+                      Wijckel, Hervormde Kerk                     12 02   13 02   13 32   14 02   14 32    15 02   15 32   16 02   16 32
+                      Sloten, Sloten                              12 05   13 05   13 35   14 05   14 35    15 05   15 35   16 05   16 35
+                      Tjerkgaast, Tjerkgaast                      12 08   13 08   13 38   14 08   14 38    15 08   15 38   16 08   16 38
+                      Spannenburg, Spannenburg               A    12 13   13 13   13 43   14 13   14 43    15 13   15 43   16 13   16 43
+                      Spannenburg, Spannenburg               V    12 15   13 15   13 45   14 15   14 45    15 15   15 45   16 15   16 45
+                      Sint Nicolaasga, Centrum                    12 21   13 21   13 51   14 21   14 51    15 21   15 51   16 21   16 51
+                      Sint Nicolaasga, Huisterheide               12 24   13 24   13 54   14 24   14 54    15 24   15 54   16 24   16 54
+                      Scharsterbrug, Schoolstraat                 12 27   13 27   13 57   14 27   14 57    15 27   15 57   16 27   16 57
+                      Joure, Scheen                               12 32   13 32   14 02   14 32   15 02    15 32   16 02   16 32   17 02
+                      Joure, Busstation                           12 35   13 35   14 05   14 35   15 05    15 35   16 05   16 35   17 05
+                      Heerenveen, Oost (A32)                      12 44   13 44   14 14   14 44   15 14    15 44   16 14   16 44   17 14
+                      Heerenveen, Busstation                 A    12 47   13 47   14 17   14 48   15 18    15 48   16 18   16 48   17 18
+                                                      Ritnummer   1091    1095    1099     1107     1111    1119
+                      Balk, Harich Rotonde                   V    16 53   17 24   17 54   18 53   19 32    20 32
+                      Balk, Meineszleane                          16 58   17 29   17 59   18 58   19 37    20 37
+                      Wijckel, Hervormde Kerk                     17 02   17 33   18 03   19 02   19 41    20 41
+                      Sloten, Sloten                              17 05   17 36   18 06   19 05   19 44    20 44
+                      Tjerkgaast, Tjerkgaast                      17 08   17 39   18 09   19 08   19 47    20 47
+                      Spannenburg, Spannenburg               A    17 13   17 43   18 13   19 12   19 51    20 51
+                      Spannenburg, Spannenburg               V    17 15   17 45   18 15   19 12   19 51    20 51
+                      Sint Nicolaasga, Centrum                    17 21   17 51   18 21   19 18   19 57    20 57
+                      Sint Nicolaasga, Huisterheide               17 24   17 54   18 24   19 21   20 00    21 00
+                      Scharsterbrug, Schoolstraat                 17 27   17 57   18 27   19 24   20 03    21 03
+                      Joure, Scheen                               17 32   18 02   18 32   19 29   20 08    21 08
+                      Joure, Busstation                           17 35   18 05   18 35   19 32   20 11    21 11
+                      Heerenveen, Oost (A32)                      17 44   18 14   18 44   19 41   20 20    21 20
+                      Heerenveen, Busstation                 A    17 48   18 17   18 47   19 44   20 23    21 23
+Van Heerenveen naar Balk                                                                            Lijn 41b
+                                                                                              Maandag t/m vrijdag
+                                                                                                                     Maandag t/m vrijdag
+                                Ritnummer   1004     1012   1020    1028    1036    1044    1052      1056    1060
+Heerenveen, Busstation                 V     6 27    7 39    8 39    9 39   10 39   11 39   12 39    13 09   13 39
+Heerenveen, Oost (A32)                       6 29    7 41    8 41    9 41   10 41   11 41   12 41    13 11   13 41
+Joure, Busstation                            6 40    7 52    8 52    9 52   10 52   11 52   12 52    13 22   13 52
+Joure, Scheen                                6 43    7 55    8 55    9 55   10 55   11 55   12 55    13 25   13 55
+Scharsterbrug, Schoolstraat                  6 48    8 00    9 00   10 00   11 00   12 00   13 00    13 30   14 00
+Sint Nicolaasga, Huisterheide                6 51    8 03    9 03   10 03   11 03   12 03   13 03    13 33   14 03
+Sint Nicolaasga, Centrum                     6 54    8 06    9 06   10 06   11 06   12 06   13 06    13 36   14 06
+Spannenburg, Spannenburg               A     7 01    8 13    9 13   10 13   11 13   12 13   13 13    13 43   14 13
+Spannenburg, Spannenburg               V     7 03    8 15    9 15   10 15   11 15   12 15   13 15    13 45   14 15
+Tjerkgaast, Tjerkgaast                       7 06    8 18    9 18   10 18   11 18   12 18   13 18    13 48   14 18
+Sloten, Sloten                               7 09    8 21    9 21   10 21   11 21   12 21   13 21    13 51   14 21
+Wijckel, Hervormde Kerk                      7 12    8 24    9 24   10 24   11 24   12 24   13 24    13 54   14 24
+Balk, Meineszleane                           7 17    8 29    9 29   10 29   11 29   12 29   13 29    13 59   14 29
+Balk, Harich Rotonde                   A     7 22    8 34    9 34   10 34   11 34   12 34   13 34    14 04   14 34
+                                Ritnummer   1064    1068    1072    1076    1080    1084    1088      1092    1096
+Heerenveen, Busstation                 V    14 07   14 37   15 07   15 37   16 07   16 37   17 07    17 38   18 08
+Heerenveen, Oost (A32)                      14 10   14 40   15 10   15 40   16 10   16 40   17 10    17 40   18 10
+Joure, Busstation                           14 21   14 51   15 21   15 51   16 21   16 51   17 21    17 51   18 21
+Joure, Scheen                               14 24   14 54   15 24   15 54   16 24   16 54   17 24    17 54   18 24
+Scharsterbrug, Schoolstraat                 14 30   15 00   15 30   16 00   16 30   17 00   17 30    18 00   18 30
+Sint Nicolaasga, Huisterheide               14 33   15 03   15 33   16 03   16 33   17 03   17 33    18 03   18 33
+Sint Nicolaasga, Centrum                    14 36   15 06   15 36   16 06   16 36   17 06   17 36    18 06   18 36
+Spannenburg, Spannenburg               A    14 43   15 13   15 43   16 13   16 43   17 13   17 43    18 13   18 43
+Spannenburg, Spannenburg               V    14 45   15 15   15 45   16 15   16 45   17 15   17 45    18 15   18 45
+Tjerkgaast, Tjerkgaast                      14 48   15 18   15 48   16 18   16 48   17 18   17 48    18 18   18 48
+Sloten, Sloten                              14 51   15 21   15 51   16 21   16 51   17 21   17 51    18 21   18 51
+Wijckel, Hervormde Kerk                     14 54   15 24   15 54   16 24   16 54   17 24   17 54    18 24   18 54
+Balk, Meineszleane                          14 59   15 29   15 59   16 29   16 59   17 29   17 59    18 29   18 59
+Balk, Harich Rotonde                   A    15 04   15 34   16 04   16 34   17 04   17 34   18 04    18 34   19 04
+                                Ritnummer   1100    1108     1112    1116    1120
+Heerenveen, Busstation                 V    18 38   19 38   20 38   21 38   22 38
+Heerenveen, Oost (A32)                      18 40   19 40   20 40   21 40   22 40
+Joure, Busstation                           18 51   19 51   20 51   21 51   22 51
+Joure, Scheen                               18 54   19 54   20 54   21 54   22 54
+Scharsterbrug, Schoolstraat                 18 59   19 59   20 59   21 59   22 59
+Sint Nicolaasga, Huisterheide               19 02   20 02   21 02   22 02   23 02
+Sint Nicolaasga, Centrum                    19 05   20 05   21 05   22 05   23 05
+Spannenburg, Spannenburg               A    19 12   20 12   21 12   22 12   23 12
+Spannenburg, Spannenburg               V    19 12   20 12   21 12   22 12   23 12
+Tjerkgaast, Tjerkgaast                      19 15   20 15   21 15   22 15   23 15
+Sloten, Sloten                              19 18   20 18   21 18   22 18   23 18
+Wijckel, Hervormde Kerk                     19 21   20 21   21 21   22 21   23 21
+Balk, Meineszleane                          19 26   20 26   21 25   22 25   23 25
+Balk, Harich Rotonde                   A    19 31   20 31   21 30   22 30   23 30
+                      Lijn 42a                                                                         Van Sneek naar Lemmer
                        Maandag t/m vrijdag
-                                                    Lijnnummer      55      55      55    356       55       55    356       55      55
-                                                    Ritnummer    1504    1508     1512   1504     1516    1520    1508    1524    1528
-                      Drachten, Transferium Oost            V             6 31            7 16    7 29             8 16    8 31
-                      Quatrebras, Quatrebras West                          |              7 34     |               8 33     |
-                      Sumar, Achterwei                                    6 42             |      7 41              |      8 42
-                      Burgum, Gemeentehûs                         6 11    6 45    7 10     |      7 44     8 10     |      8 45    9 10
-                      Burgum, Kwekersstrjitte                     6 12    6 46    7 11     |      7 46     8 11     |      8 46    9 11
-                      Quatrebras, Quatrebras Zuid                 6 18    6 53    7 18     |      7 53     8 18     |      8 53    9 18
-                      Feanwâlden, Station                   A     6 22    6 59    7 22    7 38    7 59     8 22    8 37    8 59    9 22
-                      Feanwâlden, Station                   V             7 01            7 39    8 01             8 38    9 01
-                      Feanwâlden, De Stins                                7 03             |      8 03              |      9 03
-                      Broeksterwâld, Haadwei                              7 12             |      8 12              |      9 12
-                      Damwâld, De Kruisweg                                7 15             |      8 15              |      9 15
-                      Dokkum, Sionsberg                                   7 20            7 51    8 21             8 50    9 20
-                      Dokkum, Hendoweg                                    7 24             |       |                |       |
-                      Dokkum, Busstation                    A             7 30            7 56    8 26             8 55    9 25
-                                                    Lijnnummer    356       55      55    356       55       55    356       55      55
-                                                    Ritnummer     1512   1532    1536     1516   1540      1544   1520    1548    1552
-                      Drachten, Transferium Oost            V     9 16    9 31           10 16   10 31            11 16   11 31
-                      Quatrebras, Quatrebras West                 9 33     |             10 33     |              11 33     |
-                      Sumar, Achterwei                             |      9 42             |     10 42              |     11 42
-                      Burgum, Gemeentehûs                          |      9 45   10 10     |     10 45    11 10     |     11 45   12 10
-                      Burgum, Kwekersstrjitte                      |      9 46   10 11     |     10 46    11 11     |     11 46   12 11
-                      Quatrebras, Quatrebras Zuid                  |      9 53   10 18     |     10 53    11 18     |     11 53   12 18
-                      Feanwâlden, Station                   A     9 37    9 59   10 22   10 37   10 59    11 22   11 37   11 59   12 22
-                      Feanwâlden, Station                   V     9 38   10 01           10 38   11 01            11 38   12 01
-                      Feanwâlden, De Stins                         |     10 03             |     11 03              |     12 03
-                      Broeksterwâld, Haadwei                       |     10 12             |     11 12              |     12 12
-                      Damwâld, De Kruisweg                         |     10 15             |     11 15              |     12 15
-                      Dokkum, Sionsberg                           9 50   10 20           10 50   11 20            11 50   12 20
-                      Dokkum, Hendoweg                             |       |               |       |                |     12 23
-                      Dokkum, Busstation                    A     9 55   10 25           10 55   11 25            11 55   12 27
-                                                    Lijnnummer    356       55      55    356       55       55    356       55      55
-                                                    Ritnummer    1524    1556    1560    1528    1564     1568    1532    1572    1576
-                      Drachten, Transferium Oost            V    12 16   12 31           13 16   13 31            14 16   14 31
-                      Quatrebras, Quatrebras West                12 33     |             13 34     |              14 34     |
-                      Sumar, Achterwei                             |     12 42             |     13 42              |     14 42
-                      Burgum, Gemeentehûs                          |     12 45   13 17     |     13 45    14 17     |     14 45   15 17
-                      Burgum, Kwekersstrjitte                      |     12 46   13 18     |     13 46    14 18     |     14 46   15 18
-                      Quatrebras, Quatrebras Zuid                  |     12 53   13 25     |     13 53    14 25     |     14 53   15 25
-                      Feanwâlden, Station                   A    12 37   12 59   13 29   13 38   13 59    14 29   14 38   14 59   15 29
-                      Feanwâlden, Station                   V    12 38   13 01           13 39   14 01            14 39   15 01
-                      Feanwâlden, De Stins                         |     13 03             |     14 03              |     15 03
-                      Broeksterwâld, Haadwei                       |     13 12             |     14 12              |     15 12
-                      Damwâld, De Kruisweg                         |     13 15             |     14 15              |     15 15
-                      Dokkum, Sionsberg                          12 50   13 20           13 51   14 20            14 51   15 20
-                      Dokkum, Busstation                    A    12 55   13 25           13 56   14 25            14 56   15 25
-                                                    Lijnnummer    356       55      55    356       55       55    356       55      55
-                                                    Ritnummer    1536    1580    1584    1540    1588      1592   1544    1596    1600
-                      Drachten, Transferium Oost            V    15 16   15 31           16 16   16 31            17 16   17 31
-                      Quatrebras, Quatrebras West                15 34     |             16 34     |              17 34     |
-                      Sumar, Achterwei                             |     15 42             |     16 42              |     17 42
-                      Burgum, Gemeentehûs                          |     15 45   16 17     |     16 45    17 17     |     17 45   18 17
-                      Burgum, Kwekersstrjitte                      |     15 46   16 18     |     16 46    17 18     |     17 46   18 18
-                      Quatrebras, Quatrebras Zuid                  |     15 53   16 25     |     16 53    17 25     |     17 53   18 25
-                      Feanwâlden, Station                   A    15 38   15 59   16 29   16 38   16 59    17 29   17 38   17 59   18 29
-                      Feanwâlden, Station                   V    15 39   16 01           16 39   17 01            17 39   18 01
-                      Feanwâlden, De Stins                         |     16 03             |     17 03              |     18 03
-                      Broeksterwâld, Haadwei                       |     16 12             |     17 12              |     18 12
-                      Damwâld, De Kruisweg                         |     16 15             |     17 15              |     18 15
-                      Dokkum, Sionsberg                          15 51   16 20           16 51   17 20            17 51   18 20
-                      Dokkum, Busstation                    A    15 56   16 25           16 56   17 25            17 56   18 25
-Van Drachten naar Dokkum                                                            Lijn 55b
-Van Drachten naar Dokkum                                                           Lijn 356b
-                                                                                                         Maandag t/m vrijdag
-                                                                                   Maandag t/m vrijdag
-                              Lijnnummer    356       55      55      55      55
-                              Ritnummer    1548    1604    1608     1612   1620
-Drachten, Transferium Oost            V    18 16   18 32           19 33   20 33
-Quatrebras, Quatrebras West                18 34     |               |       |
-Sumar, Achterwei                             |     18 43           19 44   20 44
-Burgum, Gemeentehûs                          |     18 46   19 17   19 47   20 47
-Burgum, Kwekersstrjitte                      |     18 47   19 18   19 48   20 48
-Quatrebras, Quatrebras Zuid                  |     18 53   19 24   19 54   20 54
-Feanwâlden, Station                   A    18 38   18 59   19 28   19 59   20 59
-Feanwâlden, Station                   V    18 39   19 01           20 01   21 09
-Feanwâlden, De Stins                         |     19 03           20 03   21 11
-Broeksterwâld, Haadwei                       |     19 12           20 12   21 20
-Damwâld, De Kruisweg                         |     19 15           20 15   21 23
-Dokkum, Sionsberg                          18 51   19 20           20 20   21 28
-Dokkum, Busstation                    A    18 56   19 25           20 25   21 33
-                      Lijn 60a                                                                    Van Dokkum via Holwerd naar Leeuwarden
-                      Lijn 150a                                                                   Van Dokkum via Holwerd naar Leeuwarden
-                      Lijn 154a
 Maandag t/m vrijdag
+                                                 Ritnummer   1003    1007     1011   1015    1019    1023    1027    1035    1043
+                      Sneek, Busstation                 V     5 38    6 16    6 38    7 08    7 49    8 19    8 49    9 49   10 49
+                      Sneek, Prins Hendrikkade                5 40    6 18    6 40    7 10    7 51    8 21    8 51    9 51   10 51
+                      Sneek, Oosterdijk                       5 41    6 19    6 41    7 11    7 52    8 22    8 52    9 52   10 52
+                      Sneek, Frieswijkstraat                  5 43    6 21    6 43    7 13    7 54    8 24    8 54    9 54   10 54
+                      Jutrijp, Jutrijp                        5 48    6 26    6 48    7 18    7 59    8 29    8 59    9 59   10 59
+                      Hommerts, Weg naar Heeg                 5 50    6 28    6 50    7 20    8 01    8 31    9 01   10 01   11 01
+                      Woudsend, Wellebrug                     5 55    6 33    6 55    7 25    8 06    8 36    9 06   10 06   11 06
+                      Spannenburg, Spannenburg          A     6 02    6 40    7 02    7 32    8 13    8 43    9 13   10 13   11 13
+                      Spannenburg, Spannenburg          V     6 04    6 42    7 04    7 34    8 15    8 45    9 15   10 15   11 15
+                      Follega, Follega                        6 08    6 46    7 08    7 38    8 19    8 49    9 19   10 19   11 19
+                      Eesterga, Eesterga                      6 11    6 49    7 11    7 41    8 22    8 52    9 22   10 22   11 22
+                      Lemmer, Orion                           6 14    6 52    7 14    7 44    8 25    8 55    9 25   10 25   11 25
+                      Lemmer, Urkerstraat                     6 18    6 56    7 18    7 48    8 29    8 59    9 29   10 29   11 29
+                      Lemmer, Busstation                A     6 22    7 00    7 22    7 52    8 33    9 03    9 33   10 33   11 33
+                                                 Ritnummer   1051    1059    1063    1067     1071   1075    1079    1083    1087
+                      Sneek, Busstation                 V    11 49   12 49   13 19   13 49   14 19   14 49   15 19   15 49   16 19

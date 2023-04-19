@@ -1,300 +1,200 @@
-Bitgum, Bitgum Provinciale weg               |            6 42    |     7 47    |           8 48      |      9 48
-Ingelum, Ingelum                            6 04           |     7 02    |     8 04          |       9 04     |
-Bitgummole, Terhornestrjitte                6 07           |     7 05    |     8 07          |       9 07     |
-Bitgum, Bitgum                              6 09           |     7 07    |     8 09          |       9 09     |
-Berltsum, Berlingahiem                      6 15          6 45   7 13   7 50   8 15         8 51     9 15    9 51
-Wier, Wier                                  6 19          6 49   7 17   7 55   8 19         8 55     9 19    9 55
-Minnertsga, Mooie Paal                 A    6 22          6 52   7 20   7 58   8 22         8 58     9 22    9 58
-Minnertsga, Mooie Paal                 V    6 23          6 53   7 21   7 59   8 23         8 59     9 23    9 59
-Minnertsga, Hervormde Kerk                  6 25          6 55   7 23   8 01   8 25         9 01     9 25   10 01
-Tzummarum, Wapen van Barradeel              6 30          7 00   7 28   8 06   8 30         9 06     9 30   10 06
-Tzummarum, Westerbuorren                    6 31           |     7 29    |     8 31          |       9 31     |
-Dongjum, Tzummarumerweg                     6 35           |     7 33    |     8 35          |       9 35     |
-Franeker, Froonacker                        6 37           |     7 36    |     8 37          |       9 37     |
-Franeker, Hertog van Saxenlaan              6 38           |     7 37    |     8 38          |       9 38     |
-Franeker, Voorstraat                        6 40           |     7 39    |     8 40          |       9 40     |
-Franeker, Station                      A    6 44           |     7 44    |     8 44          |       9 44     |
-Tzummarum, Westerbuorren                                  7 01          8 07                9 07            10 07
-Oosterbierum, Keatsebuorren                               7 04          8 10                9 10            10 10
-Sexbierum, Hearewei                                       7 07          8 13                9 13            10 13
-Pietersbierum, Provinciale weg                            7 08          8 14                9 14            10 14
-Wijnaldum, Weg naar Wijnaldum                             7 10          8 16                9 16            10 16
-Midlum, Weg naar Sexbierum                                7 14          8 19                9 19            10 19
-Harlingen, Veerbootterminal                        6 19   7 17          8 22                9 22            10 22
-Harlingen, Station                     A           6 24   7 22          8 27                9 27            10 27
-Harlingen, Station                     V           6 24   7 24          8 29                9 29            10 29
-Harlingen, De Batting                              6 26   7 26          8 31                9 31            10 31
-Kimswerd, Carpe Diem                               6 29   7 29          8 34                9 34            10 34
-Zurich, Zurich                                     6 34   7 34          8 39                9 39            10 39
-Afsluitdijk, Kop Afsluitdijk           A           6 37   7 37          8 42                9 42            10 42
-                      Lijn 71b                                                    Van Leeuwarden naar Kop Afsluitdijk via Minnertsga
-                      Lijn 74b                                                         Van Leeuwarden naar Franeker via Minnertsga
-                       Maandag t/m vrijdag beperkt
-                                                     Lijnnummer      74      71         74      71      74      71      74      71      74
-                                                     Ritnummer    1040    1044        1048   1052    1056    1060    1064    1068    1072
-                      Leeuwarden, Busstation                 V     9 49   10 30      10 49   11 30   11 49   12 30   12 49   13 30   13 49
-                      Leeuwarden, Harlingersingel
-Maandag t/m vrijdag
-                                                                   9 53   10 34      10 53   11 34   11 53   12 34   12 53   13 34   13 53
-                      Leeuwarden, Europaplein                      9 54   10 35      10 54   11 35   11 54   12 35   12 54   13 35   13 54
-                      Leeuwarden, Westeinde                        9 55   10 36      10 55   11 36   11 55   12 36   12 55   13 36   13 55
-                      Leeuwarden, Poptawei                         9 57   10 38      10 57   11 38   11 57   12 38   12 57   13 38   13 57
-                      Marsum, Buorren                             10 00   10 41      11 00   11 41   12 00   12 41   13 00   13 41   14 00
-                      Bitgummole, Bitgummole Provinciale weg        |     10 47        |     11 47     |     12 47     |     13 47     |
-                      Bitgum, Bitgum Provinciale weg                |     10 48        |     11 48     |     12 48     |     13 48     |
-                      Ingelum, Ingelum                            10 04     |        11 04     |     12 04     |     13 04     |     14 04
-                      Bitgummole, Terhornestrjitte                10 07     |        11 07     |     12 07     |     13 07     |     14 07
-                      Bitgum, Bitgum                              10 09     |        11 09     |     12 09     |     13 09     |     14 09
-                      Berltsum, Berlingahiem                      10 15   10 51      11 15   11 51   12 15   12 51   13 15   13 51   14 15
-                      Wier, Wier                                  10 19   10 55      11 19   11 55   12 19   12 55   13 19   13 55   14 19
-                      Minnertsga, Mooie Paal                 A    10 22   10 58      11 22   11 58   12 22   12 58   13 22   13 58   14 22
-                      Minnertsga, Mooie Paal                 V    10 23   10 59      11 23   11 59   12 23   12 59   13 23   13 59   14 23
-                      Minnertsga, Hervormde Kerk                  10 25   11 01      11 25   12 01   12 25   13 01   13 25   14 01   14 25
-                      Tzummarum, Wapen van Barradeel              10 30   11 06      11 30   12 06   12 30   13 06   13 30   14 06   14 30
-                      Tzummarum, Westerbuorren                    10 31     |        11 31     |     12 31     |     13 31     |     14 31
-                      Dongjum, Tzummarumerweg                     10 35     |        11 35     |     12 35     |     13 35     |     14 35
-                      Franeker, Froonacker                        10 37     |        11 37     |     12 37     |     13 37     |     14 37
-                      Franeker, Hertog van Saxenlaan              10 38     |        11 38     |     12 38     |     13 38     |     14 38
-                      Franeker, Voorstraat                        10 40     |        11 40     |     12 40     |     13 40     |     14 40
-                      Franeker, Station                      A    10 44     |        11 44     |     12 44     |     13 44     |     14 44
-                      Tzummarum, Westerbuorren                            11 07              12 07           13 07           14 07
-                      Oosterbierum, Keatsebuorren                         11 10              12 10           13 10           14 10
-                      Sexbierum, Hearewei                                 11 13              12 13           13 13           14 13
-                      Pietersbierum, Provinciale weg                      11 14              12 14           13 14           14 14
-                      Wijnaldum, Weg naar Wijnaldum                       11 16              12 16           13 16           14 16
-                      Midlum, Weg naar Sexbierum                          11 19              12 19           13 19           14 19
-                      Harlingen, Veerbootterminal                         11 22              12 22           13 22           14 22
-                      Harlingen, Station                     A            11 27              12 27           13 27           14 27
-                      Harlingen, Station                     V            11 29              12 29           13 29           14 29
-                      Harlingen, De Batting                               11 31              12 31           13 31           14 31
-                      Kimswerd, Carpe Diem                                11 34              12 34           13 34           14 34
-                      Zurich, Zurich                                      11 39              12 39           13 39           14 39
-                      Afsluitdijk, Kop Afsluitdijk           A            11 42              12 42           13 42           14 42
-Van Leeuwarden naar Kop Afsluitdijk via Minnertsga                                                    Lijn 71b
-Van Leeuwarden naar Franeker via Minnertsga                                                           Lijn 74b
-                                                                                        beperkt    Maandag t/m vrijdag
-                               Lijnnummer      71      74      71      74      71      74           71      71       71
-                               Ritnummer    1076    1080    1084    1088    1092    1096          1100    1108     1116
-Leeuwarden, Busstation                 V    14 30   14 49   15 30   15 47   16 29   16 47     17 26      18 33    19 35
-Leeuwarden, Harlingersingel
-                                                                                                                          Maandag t/m vrijdag
-                                            14 34   14 53   15 34   15 51   16 33   16 51     17 30      18 37    19 39
-Leeuwarden, Europaplein                     14 35   14 54   15 35   15 52   16 34   16 52     17 31      18 38    19 40
-Leeuwarden, Westeinde                       14 36   14 55   15 36   15 54   16 36   16 54     17 33      18 40    19 41
-Leeuwarden, Poptawei                        14 38   14 57   15 38   15 56   16 38   16 56     17 35      18 42    19 43
-Marsum, Buorren                             14 41   15 00   15 41   15 59   16 41   16 59     17 38      18 45    19 46
-Bitgummole, Bitgummole Provinciale weg      14 47     |     15 47     |     16 47     |         |        18 51    19 52
-Bitgum, Bitgum Provinciale weg              14 48     |     15 48     |     16 48     |         |        18 52    19 53
-Ingelum, Ingelum                              |     15 04     |     16 03     |     17 03     17 42        |        |
-Bitgummole, Terhornestrjitte                  |     15 07     |     16 07     |     17 07     17 46        |        |
-Bitgum, Bitgum                                |     15 09     |     16 09     |     17 09     17 48        |        |
-Berltsum, Bitgumerdyk                         |       |       |     16 12     |     17 12       |          |        |
-Berltsum, Berlingahiem                      14 51   15 15   15 51   16 15   16 51   17 15     17 54      18 55    19 56
-Wier, Wier                                  14 55   15 19   15 55   16 19   16 55   17 19     17 58      18 59    20 00
-Minnertsga, Mooie Paal                 A    14 58   15 22   15 58   16 22   16 58   17 22     18 01      19 02    20 02
-Minnertsga, Mooie Paal                 V    14 59   15 23   15 59   16 23   16 59   17 23     18 02      19 03    20 03
-Minnertsga, Hervormde Kerk                  15 01   15 25   16 01   16 25   17 01   17 25     18 04      19 05    20 05
-Tzummarum, Wapen van Barradeel              15 06   15 30   16 06   16 30   17 06   17 30     18 09      19 10    20 10
-Tzummarum, Westerbuorren                      |     15 31     |     16 31     |     17 31       |          |        |
-Dongjum, Tzummarumerweg                       |     15 35     |     16 35     |     17 35       |          |        |
-Franeker, Froonacker                          |     15 37     |     16 37     |     17 37       |          |        |
-Franeker, Hertog van Saxenlaan                |     15 38     |     16 38     |     17 38       |          |        |
-Franeker, Voorstraat                          |     15 40     |     16 40     |     17 40       |          |        |
-Franeker, Station                      A      |     15 44     |     16 44     |     17 44       |          |        |
-Tzummarum, Westerbuorren                    15 07           16 07           17 07             18 10      19 11    20 11
-Oosterbierum, Keatsebuorren                 15 10           16 10           17 10             18 13      19 14    20 14
-Sexbierum, Hearewei                         15 13           16 13           17 13             18 16      19 17    20 17
-Pietersbierum, Provinciale weg              15 14           16 14           17 14             18 17      19 18    20 18
-Wijnaldum, Weg naar Wijnaldum               15 16           16 16           17 16             18 19      19 20    20 20
-Midlum, Weg naar Sexbierum                  15 19           16 19           17 19             18 22      19 23    20 23
-Harlingen, Veerbootterminal                 15 22           16 22           17 22             18 25      19 26    20 26
-Harlingen, Station                     A    15 27           16 27           17 27             18 29      19 30    20 30
-Harlingen, Station                     V    15 29           16 29           17 29             18 31      19 32    20 32
-Harlingen, De Batting                       15 31           16 31           17 31             18 33      19 34    20 34
-Kimswerd, Carpe Diem                        15 34           16 34           17 34             18 36      19 37    20 37
-Zurich, Zurich                              15 39           16 39           17 39             18 41      19 42    20 42
-Afsluitdijk, Kop Afsluitdijk           A    15 42           16 42           17 42             18 44      19 45    20 45
-                               Lijnnummer      71      71      71      71
-                               Ritnummer     1124    1132   1140     1148
-Leeuwarden, Busstation                 V    20 35   21 36   22 31   23 31
-Leeuwarden, Harlingersingel                 20 39   21 40   22 35   23 35
-Leeuwarden, Europaplein                     20 40   21 41   22 36   23 36
-Leeuwarden, Westeinde                       20 41   21 42   22 37   23 37
-Leeuwarden, Poptawei                        20 43   21 44   22 39   23 39
-Marsum, Buorren                             20 46   21 47   22 42   23 42
-Bitgummole, Bitgummole Provinciale weg      20 52   21 53   22 48   23 48
-Bitgum, Bitgum Provinciale weg              20 53   21 54   22 49   23 49
-Berltsum, Berlingahiem                      20 56   21 57   22 52   23 52
-Wier, Wier                                  21 00   22 01   22 56   23 56
-Minnertsga, Mooie Paal                 A    21 02   22 03   22 58   23 58
-Minnertsga, Mooie Paal                 V    21 03   22 04   22 59   23 59
-Minnertsga, Hervormde Kerk                  21 05   22 06   23 01    0 01
-Tzummarum, Wapen van Barradeel              21 10   22 11   23 06    0 06
-Tzummarum, Westerbuorren                    21 11   22 12   23 07    0 07
-Oosterbierum, Keatsebuorren                 21 14   22 15   23 10    0 10
-Sexbierum, Hearewei                         21 17   22 18   23 13    0 13
-Pietersbierum, Provinciale weg              21 18   22 19   23 14    0 14
-Wijnaldum, Weg naar Wijnaldum               21 20   22 21   23 16    0 16
-Midlum, Weg naar Sexbierum                  21 23   22 24   23 19    0 19
-Harlingen, Veerbootterminal                 21 26   22 27   23 22    0 22
-Harlingen, Station                     A    21 30   22 30   23 25    0 25
-Harlingen, Station                     V    21 32   22 32
-Harlingen, De Batting                       21 34   22 34
-Kimswerd, Carpe Diem                        21 37   22 37
-Zurich, Zurich                              21 42   22 42
-Afsluitdijk, Kop Afsluitdijk           A    21 45   22 45
-                      Lijn 72a                                                 Van Sint Annaparochie via Stiens naar Leeuwarden
-                       Maandag t/m vrijdag beperkt
-                                                   Ritnummer   1003    1007       1011   1015    1019    1023    1027     1031   1035
-                      Sint Annaparochie, De Wissel        V     5 53    6 42      7 42    8 37    9 37   10 37   11 37   12 37   13 37
-                      Sint Annaparochie, Gemeentehuis           5 55    6 44      7 44    8 39    9 39   10 39   11 39   12 39   13 39
-                      Vrouwenparochie, Vrouwenparochie          6 00    6 49      7 49    8 44    9 44   10 44   11 44   12 44   13 44
-                      Vrouwbuurtstermolen                       6 01    6 50      7 50    8 45    9 45   10 45   11 45   12 45   13 45
-                      Stiens, Nije Poarte                       6 05    6 54      7 54    8 49    9 49   10 49   11 49   12 49   13 49
-Maandag t/m vrijdag
-                      Stiens, Lege Hearewei                     6 06    6 55      7 56    8 51    9 50   10 50   11 50   12 50   13 50
-                      Stiens, Griene Leane                      6 10    6 59      8 01    8 56    9 54   10 54   11 54   12 54   13 54
-                      Britsum, Britsum                          6 12    7 01      8 03    8 58    9 56   10 56   11 56   12 56   13 56
-                      Koarnjum, Koarnjum                        6 14    7 03      8 05    9 00    9 58   10 58   11 58   12 58   13 58
-                      Jelsum, Jelsum                            6 16    7 05      8 07    9 02   10 00   11 00   12 00   13 00   14 00
-                      Leeuwarden, Sint Bonifatiuspark           6 20    7 09      8 11    9 06   10 04   11 04   12 04   13 04   14 04
-                      Leeuwarden, Harlingersingel               6 22    7 11      8 13    9 08   10 06   11 06   12 06   13 06   14 06
-                      Leeuwarden, Busstation              A     6 26    7 15      8 19    9 14   10 10   11 10   12 10   13 10   14 10
-                                                   Ritnummer   1039    1043       1047   1051    1055    1059
-                      Sint Annaparochie, De Wissel        V    14 37   15 38     16 39   17 39   18 37   19 37
-                      Sint Annaparochie, Gemeentehuis          14 39   15 40     16 41   17 41   18 39   19 39
-                      Vrouwenparochie, Vrouwenparochie         14 44   15 45     16 46   17 46   18 44   19 44
-                      Vrouwbuurtstermolen                      14 45   15 46     16 47   17 47   18 45   19 45
-                      Stiens, Nije Poarte                      14 49   15 50     16 51   17 51   18 49   19 49
-                      Stiens, Lege Hearewei                    14 50   15 51     16 52   17 52   18 50   19 50
-                      Stiens, Griene Leane                     14 54   15 55     16 56   17 56   18 54   19 54
-                      Britsum, Britsum                         14 56   15 57     16 58   17 58   18 56   19 56
-                      Koarnjum, Koarnjum                       14 58   15 59     17 00   18 00   18 58   19 57
-                      Jelsum, Jelsum                           15 00   16 01     17 02   18 02   19 00   19 59
-                      Leeuwarden, Sint Bonifatiuspark          15 04   16 05     17 06   18 06   19 04   20 03
-                      Leeuwarden, Harlingersingel              15 06   16 07     17 08   18 08   19 06   20 05
-                      Leeuwarden, Busstation              A    15 12   16 13     17 14   18 12   19 10   20 09
-Van Leeuwarden naar Sint Annaparochie via Stiens                                                      Lijn 72b
-                                                                                     beperkt    Maandag t/m vrijdag
-                             Ritnummer   1004    1008     1012   1016    1020    1024          1028     1032    1036
-Leeuwarden, Busstation              V     6 07    7 07    8 02    9 02   10 02   11 02     12 02        13 02   14 02
-Leeuwarden, Harlingersingel               6 11    7 11    8 06    9 06   10 06   11 06     12 06        13 06   14 06
-Leeuwarden, Sint Bonifatiuspark           6 13    7 13    8 08    9 08   10 08   11 08     12 08        13 08   14 08
-Jelsum, Jelsum                            6 17    7 17    8 12    9 12   10 12   11 12     12 12        13 12   14 12
-Koarnjum, Koarnjum                        6 19    7 19    8 14    9 14   10 14   11 14     12 14        13 14   14 14
+                      Leeuwarden, Beursplein                     6 38    6 53    7 07    7 21    7 36    7 51    8 06    8 22    8 37
+                      Leeuwarden, Busstation                A    6 42    6 57    7 11    7 25    7 40    7 55    8 10    8 26    8 41
+                                                   Ritnummer    1040    1044    1048    1052    1056    1060    1064    1068    1072
+                      Leeuwarden, Andringastate             V    8 35    8 49    9 04    9 19    9 34    9 49   10 04   10 19   10 34
+                      Leeuwarden, Galamastins                    8 37    8 51    9 06    9 21    9 36    9 51   10 06   10 21   10 36
+                      Leeuwarden, Melkemastate                   8 38    8 52    9 07    9 22    9 37    9 52   10 07   10 22   10 37
+                      Leeuwarden, Gratingastins                  8 39    8 53    9 08    9 23    9 38    9 53   10 08   10 23   10 38
+                      Leeuwarden, Kalverdijkje                   8 43    8 57    9 12    9 27    9 42    9 57   10 12   10 27   10 42
+                      Leeuwarden, Wijkcentrum Schieringen        8 44    8 58    9 13    9 28    9 43    9 58   10 13   10 28   10 43
+                      Leeuwarden, Vliet                          8 47    9 01    9 16    9 31    9 46   10 01   10 16   10 31   10 46
+                      Leeuwarden, Koepelkerk                     8 48    9 02    9 17    9 32    9 47   10 02   10 17   10 32   10 47
+                      Leeuwarden, Blokhuisplein                  8 51    9 05    9 20    9 35    9 50   10 05   10 20   10 35   10 50
+                      Leeuwarden, Beursplein                     8 52    9 06    9 21    9 36    9 51   10 06   10 21   10 36   10 51
+                      Leeuwarden, Busstation                A    8 56    9 10    9 25    9 40    9 55   10 10   10 25   10 40   10 55
+                                                   Ritnummer    1076    1080    1084    1088    1092    1096    1100    1104    1108
+                      Leeuwarden, Andringastate             V   10 49   11 04   11 19   11 34   11 49   12 04   12 19   12 34   12 49
+                      Leeuwarden, Galamastins                   10 51   11 06   11 21   11 36   11 51   12 06   12 21   12 36   12 51
+                      Leeuwarden, Melkemastate                  10 52   11 07   11 22   11 37   11 52   12 07   12 22   12 37   12 52
+                      Leeuwarden, Gratingastins                 10 53   11 08   11 23   11 38   11 53   12 08   12 23   12 38   12 53
+                      Leeuwarden, Kalverdijkje                  10 57   11 12   11 27   11 42   11 57   12 12   12 27   12 42   12 57
+                      Leeuwarden, Wijkcentrum Schieringen       10 58   11 13   11 28   11 43   11 58   12 13   12 28   12 43   12 58
+                      Leeuwarden, Vliet                         11 01   11 16   11 31   11 46   12 01   12 16   12 31   12 46   13 01
+                      Leeuwarden, Koepelkerk                    11 02   11 17   11 32   11 47   12 02   12 17   12 32   12 47   13 02
+                      Leeuwarden, Blokhuisplein                 11 05   11 20   11 35   11 50   12 05   12 20   12 35   12 50   13 05
+                      Leeuwarden, Beursplein                    11 06   11 21   11 36   11 51   12 06   12 21   12 36   12 51   13 06
+                      Leeuwarden, Busstation                A   11 10   11 25   11 40   11 55   12 10   12 25   12 40   12 55   13 10
+                                                   Ritnummer     1112    1116    1120    1124    1128    1132    1136   1140     1144
+                      Leeuwarden, Andringastate             V   13 04   13 19   13 35   13 50   14 05   14 20   14 35   14 50   15 05
+                      Leeuwarden, Galamastins                   13 06   13 21   13 37   13 52   14 07   14 22   14 37   14 52   15 07
+                      Leeuwarden, Melkemastate                  13 07   13 22   13 38   13 53   14 08   14 23   14 38   14 53   15 08
+                      Leeuwarden, Gratingastins                 13 08   13 23   13 39   13 54   14 09   14 24   14 39   14 54   15 09
+                      Leeuwarden, Kalverdijkje                  13 12   13 27   13 43   13 58   14 13   14 28   14 43   14 58   15 13
+                      Leeuwarden, Wijkcentrum Schieringen       13 13   13 28   13 44   13 59   14 14   14 29   14 44   14 59   15 14
+                      Leeuwarden, Vliet                         13 16   13 31   13 47   14 02   14 17   14 32   14 47   15 02   15 17
+                      Leeuwarden, Koepelkerk                    13 17   13 32   13 48   14 03   14 18   14 33   14 48   15 03   15 18
+                      Leeuwarden, Blokhuisplein                 13 20   13 35   13 51   14 06   14 21   14 36   14 51   15 06   15 21
+                      Leeuwarden, Beursplein                    13 21   13 36   13 52   14 07   14 22   14 37   14 52   15 07   15 22
+                      Leeuwarden, Busstation                A   13 25   13 41   13 57   14 12   14 27   14 42   14 57   15 12   15 27
+                                                   Ritnummer     1148    1152    1156   1160     1164    1168    1172    1176   1180
+                      Leeuwarden, Andringastate             V   15 20   15 35   15 50   16 05   16 20   16 35   16 50   17 05   17 20
+                      Leeuwarden, Galamastins                   15 22   15 37   15 52   16 07   16 22   16 37   16 52   17 07   17 22
+                      Leeuwarden, Melkemastate                  15 23   15 38   15 53   16 08   16 23   16 38   16 53   17 08   17 23
+                      Leeuwarden, Gratingastins                 15 24   15 39   15 54   16 09   16 24   16 39   16 54   17 09   17 24
+                      Leeuwarden, Kalverdijkje                  15 28   15 43   15 58   16 13   16 28   16 43   16 58   17 13   17 28
+                      Leeuwarden, Wijkcentrum Schieringen       15 29   15 44   15 59   16 14   16 29   16 44   16 59   17 14   17 29
+                      Leeuwarden, Vliet                         15 32   15 47   16 02   16 17   16 32   16 47   17 02   17 17   17 32
+                      Leeuwarden, Koepelkerk                    15 33   15 48   16 03   16 18   16 33   16 48   17 03   17 18   17 33
+                      Leeuwarden, Blokhuisplein                 15 36   15 51   16 06   16 21   16 36   16 51   17 06   17 21   17 36
+                      Leeuwarden, Beursplein                    15 37   15 52   16 07   16 22   16 37   16 52   17 07   17 22   17 37
+                      Leeuwarden, Busstation                A   15 42   15 57   16 12   16 27   16 42   16 57   17 12   17 27   17 41
+Van Camminghaburen naar Busstation                                                                     Lijn 3b
+                                                                                      beperkt    Maandag t/m vrijdag
+                             Ritnummer     1184    1188    1192    1196   1200    1204          1208     1212    1216
+Leeuwarden, Andringastate             V   17 35   17 49   18 04   18 19   18 34   18 49     19 04       19 19   19 49
+Leeuwarden, Galamastins                   17 37   17 51   18 06   18 21   18 36   18 51     19 06       19 21   19 51
+Leeuwarden, Melkemastate                  17 38   17 52   18 07   18 22   18 37   18 52     19 07       19 22   19 52
+Leeuwarden, Gratingastins                 17 39   17 53   18 08   18 22   18 37   18 52     19 07       19 22   19 52
+Leeuwarden, Kalverdijkje                  17 43   17 57   18 12   18 25   18 40   18 55     19 10       19 25   19 55
                                                                                                                         Maandag t/m vrijdag
-Britsum, Britsum                          6 21    7 21    8 16    9 16   10 16   11 16     12 16        13 16   14 16
-Stiens, Griene Leane                      6 23    7 23    8 18    9 18   10 18   11 18     12 18        13 18   14 18
-Stiens, Lege Hearewei                     6 28    7 28    8 23    9 23   10 23   11 23     12 23        13 23   14 23
-Stiens, Nije Poarte                       6 29    7 29    8 24    9 24   10 24   11 24     12 24        13 24   14 24
-Vrouwbuurtstermolen                       6 33    7 33    8 28    9 28   10 28   11 28     12 28        13 28   14 28
-Vrouwenparochie, Vrouwenparochie          6 34    7 34    8 29    9 29   10 29   11 29     12 29        13 29   14 29
-Sint Annaparochie, Gemeentehuis           6 39    7 39    8 34    9 34   10 34   11 34     12 34        13 34   14 34
-Sint Annaparochie, De Wissel        A     6 41    7 41    8 36    9 36   10 36   11 36     12 36        13 36   14 36
-                             Ritnummer   1040    1044    1048    1052    1056    1060
-Leeuwarden, Busstation              V    15 02   16 02   17 02   18 02   19 02   20 02
-Leeuwarden, Harlingersingel              15 06   16 06   17 06   18 06   19 06   20 06
-Leeuwarden, Sint Bonifatiuspark          15 08   16 08   17 08   18 08   19 08   20 08
-Jelsum, Jelsum                           15 12   16 12   17 12   18 12   19 12   20 12
-Koarnjum, Koarnjum                       15 14   16 14   17 14   18 14   19 14   20 14
-Britsum, Britsum                         15 16   16 16   17 16   18 16   19 16   20 16
-Stiens, Griene Leane                     15 18   16 18   17 18   18 18   19 18   20 18
-Stiens, Lege Hearewei                    15 23   16 23   17 23   18 23   19 23   20 23
-Stiens, Nije Poarte                      15 25   16 25   17 25   18 24   19 24   20 24
-Vrouwbuurtstermolen                      15 29   16 29   17 29   18 28   19 28   20 28
-Vrouwenparochie, Vrouwenparochie         15 30   16 31   17 31   18 29   19 29   20 29
-Sint Annaparochie, Gemeentehuis          15 35   16 36   17 36   18 34   19 34   20 34
-Sint Annaparochie, De Wissel        A    15 37   16 38   17 38   18 36   19 36   20 36
-                      Lijn 84a                                                                               Van Drachten via Veenhuizen naar Assen
-                      Lijn 584a                                                                              Van Drachten via Veenhuizen naar Assen
+Leeuwarden, Wijkcentrum Schieringen       17 44   17 58   18 13   18 26   18 41   18 56     19 11       19 26   19 56
+Leeuwarden, Vliet                         17 47   18 01   18 16   18 29   18 44   18 59     19 14       19 29   19 59
+Leeuwarden, Koepelkerk                    17 48   18 02   18 17   18 30   18 45   19 00     19 15       19 30   20 00
+Leeuwarden, Blokhuisplein                 17 51   18 05   18 19   18 32   18 47   19 02     19 17       19 32   20 02
+Leeuwarden, Beursplein                    17 52   18 06   18 20   18 33   18 48   19 03     19 18       19 33   20 03
+Leeuwarden, Busstation                A   17 56   18 10   18 24   18 37   18 52   19 07     19 22       19 37   20 07
+                             Ritnummer    1220    1224    1228    1232    1236    1240          1244    1248     1252
+Leeuwarden, Andringastate             V   20 12   20 49   21 12   21 48   22 11   22 48     23 11       23 48    0 11
+Leeuwarden, Galamastins                   20 14   20 51   21 14   21 50   22 13   22 50     23 13       23 50    0 13
+Leeuwarden, Melkemastate                  20 15   20 52   21 15   21 51   22 14   22 51     23 14       23 51    0 14
+Leeuwarden, Gratingastins                 20 15   20 52   21 15   21 51   22 14   22 51     23 14       23 51    0 14
+Leeuwarden, Kalverdijkje                  20 18   20 55   21 18   21 54   22 17   22 54     23 17       23 54    0 17
+Leeuwarden, Wijkcentrum Schieringen       20 19   20 56   21 19   21 55   22 18   22 55     23 18       23 55    0 18
+Leeuwarden, Vliet                         20 22   20 59   21 22   21 58   22 21   22 58     23 21       23 58    0 21
+Leeuwarden, Koepelkerk                    20 23   21 00   21 23   21 59   22 22   22 59     23 22       23 59    0 22
+Leeuwarden, Blokhuisplein                 20 25   21 02   21 25   22 01   22 24   23 01     23 24        0 01    0 24
+Leeuwarden, Beursplein                    20 26   21 03   21 26   22 02   22 25   23 02     23 25        0 02    0 25
+Leeuwarden, Busstation                A   20 30   21 07   21 30   22 06   22 29   23 06     23 29        0 06    0 29
+                             Ritnummer    1256
+Leeuwarden, Andringastate             V    0 48
+Leeuwarden, Galamastins                    0 50
+Leeuwarden, Melkemastate                   0 51
+Leeuwarden, Gratingastins                  0 51
+Leeuwarden, Kalverdijkje                   0 54
+Leeuwarden, Wijkcentrum Schieringen        0 55
+Leeuwarden, Vliet                          0 58
+Leeuwarden, Koepelkerk                     0 59
+Leeuwarden, Blokhuisplein                  1 01
+Leeuwarden, Beursplein                     1 02
+Leeuwarden, Busstation                A    1 06
+                      Lijn 4a                                                                            Van Busstation naar Nijlân
                        Maandag t/m vrijdag beperkt
-                                                      Lijnnummer            84          84          84          84          84          84         84          84          84
-                                                      Ritnummer          1003        1007         1011        1015        1019        1023        1027        1031        1035
-                      Drachten, Transferium Oost                V         5 50        6 50        7 50        8 50        9 50       10 50       11 50       12 50       13 50
+                                                     Ritnummer   1003    1007     1011   1015    1019     1023   1027     1031   1035
+                      Leeuwarden, Busstation                V     6 00    6 30    7 00    7 30    8 00    8 30    9 00    9 30   10 00
+                      Leeuwarden, Snekertrekweg                   6 02    6 32    7 02    7 32    8 02    8 32    9 02    9 32   10 02
+                      Leeuwarden, Uiterdijksterweg                6 07    6 37    7 07    7 37    8 07    8 37    9 07    9 37   10 07
+                      Leeuwarden, Nijlânsdyk                      6 08    6 38    7 08    7 38    8 08    8 38    9 08    9 38   10 08
+                      Leeuwarden, Nijlânstate                     6 09    6 39    7 09    7 39    8 09    8 39    9 09    9 39   10 09
 Maandag t/m vrijdag
-                      Drachten, Noorderend                                5 52        6 52        7 52        8 52        9 52       10 52       11 52       12 52       13 52
-                      Ureterp, Centrum                                    5 58        6 58        7 58        8 58        9 58       10 58       11 58       12 58       13 58
-                      Frieschepalen, Frieschepalen                        6 04        7 04        8 04        9 04       10 04       11 04       12 04       13 04       14 04
-                      Siegerswoude, Voorwerkersbrug                       6 07        7 07        8 07        9 07       10 07       11 07       12 07       13 07       14 07
-                      Bakkeveen, Brink                                    6 10        7 10        8 10        9 10       10 10       11 10       12 10       13 10       14 10
-                      Waskemeer, Waskemeer                                6 14        7 15        8 15        9 15       10 15       11 15       12 15       13 15       14 15
-                      Haulerwijk, Laweijstraat                            6 21        7 22        8 22        9 22       10 22       11 22       12 22       13 22       14 22
-                      Veenhuizen, Kerklaan                                6 31        7 32        8 32        9 32       10 32       11 32       12 32       13 32       14 32
-                      Huis ter Heide, Norgervaart                         6 38        7 39        8 39        9 39       10 39       11 39       12 39       13 39       14 39
-                      Assen, Domeinpad                                    6 42        7 43        8 43        9 43       10 43       11 43       12 43       13 43       14 43
-                      Assen, Balkenweg                                    6 48        7 49        8 49        9 49       10 49       11 49       12 49       13 49       14 49
-                      Assen, Rotonde Hoofdlaan                            6 50        7 51        8 51        9 51       10 51       11 51       12 51       13 51       14 51
-                      Assen, Station                            A         6 56        7 59        8 57        9 57       10 57       11 57       12 57       13 57       14 57
-                                                      Lijnnummer            84          84          84          84         584         584         584         584         584
-                                                      Ritnummer           1039        1043        1047        1051 b      1055 b      1059 b      1063 b      1067 b      1071
-                      Drachten, Transferium Oost                V        14 50       15 50       16 50       17 50       18 51       19 40       20 40       21 40       22 40
-                      Drachten, Noorderend                               14 52       15 52       16 52       17 52       18 53       19 42       20 42       21 42       22 42
-                      Ureterp, Centrum                                   14 58       15 58       16 58       17 58       18 59       19 48       20 48       21 48       22 48
-                      Wijnjewoude, Merkebuorren                            |           |           |           |         19 06       19 55       20 55       21 55       22 55
-                      Bakkeveen, Brink                                     |           |           |           |         19 12       20 01       21 01       22 01       23 01
-                      Frieschepalen, Frieschepalen                       15 04       16 04       17 04       18 04         |           |           |           |           |
-                      Siegerswoude, Voorwerkersbrug                      15 07       16 07       17 07       18 07         |           |           |           |           |
-                      Bakkeveen, Brink                                   15 10       16 10       17 10       18 10         |           |           |           |           |
-                      Waskemeer, Waskemeer                               15 15       16 15       17 15       18 15       19 17       20 05       21 05       22 05       23 05
-                      Haulerwijk, Laweijstraat                  A        15 22       16 22       17 22       18 22       19 24       20 11       21 11       22 11       23 11
-                      Veenhuizen, Kerklaan                               15 32       16 32       17 32       18 32       19 34       20 21       21 21       22 21
-                      Huis ter Heide, Norgervaart                        15 39       16 39       17 39       18 39       19 41       20 28       21 28       22 28
-                      Assen, Domeinpad                                   15 43       16 43       17 43       18 43         |           |           |           |
-                      Assen, Caro van Eyckrotonde                        15 45       16 45       17 45       18 45       19 51       20 38       21 38       22 38
-                      Assen, Balkenweg                                   15 49       16 49       17 49       18 49         |           |           |           |
-                      Assen, Rotonde Hoofdlaan                           15 51       16 51       17 51       18 51         |           |           |           |
-                      Assen, Station                            A        15 57       16 57       17 57       18 57       19 59       20 46       21 46       22 46
-                      b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
-                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
-Van Assen naar Drachten via Veenhuizen                                                                                        Lijn 84b
-Van Assen naar Drachten via Veenhuizen                                                                                       Lijn 584b
-                                                                                                                   beperkt    Maandag t/m vrijdag
-                                Lijnnummer            84          84          84          84          84          84          84         84          84
-                                Ritnummer          1004        1008         1012        1016       1020         1024         1028       1032        1036
-Assen, Station                            V                     5 59        6 58        8 00        9 02       10 02       11 02       12 02       13 02
-                                                                                                                                                           Maandag t/m vrijdag
-Assen, Rotonde Hoofdlaan                                        6 05        7 04        8 06        9 08       10 08       11 08       12 08       13 08
-Assen, Balkenweg                                                6 07        7 06        8 08        9 10       10 10       11 10       12 10       13 10
-Assen, Domeinpad                                                6 14        7 13        8 15        9 17       10 17       11 17       12 17       13 17
-Huis ter Heide, Norgervaart                                     6 18        7 17        8 19        9 21       10 21       11 21       12 21       13 21
-Veenhuizen, Kerklaan                                            6 25        7 24        8 26        9 28       10 28       11 28       12 28       13 28
-Haulerwijk, Laweijstraat                            6 11        6 35        7 34        8 36        9 38       10 38       11 38       12 38       13 38
-Waskemeer, Waskemeer                                6 17        6 43        7 42        8 42        9 44       10 44       11 44       12 44       13 44
-Bakkeveen, Brink                                    6 22        6 49        7 48        8 48        9 49       10 49       11 49       12 49       13 49
-Siegerswoude, Voorwerkersbrug                       6 25        6 52        7 51        8 51        9 52       10 52       11 52       12 52       13 52
-Frieschepalen, Frieschepalen                        6 28        6 55        7 54        8 54        9 55       10 55       11 55       12 55       13 55
-Ureterp, Centrum                                    6 35        7 02        8 01        9 01       10 01       11 01       12 01       13 01       14 01
-Drachten, Noorderend                                6 41        7 08        8 07        9 07       10 07       11 07       12 07       13 07       14 07
-Drachten, Transferium Oost                A         6 43        7 10        8 10        9 10       10 10       11 10       12 10       13 10       14 10
-                                Lijnnummer            84          84          84          84          84          84         584         584         584
-                                Ritnummer          1040         1044       1048         1052        1056       1060 b        1064 b     1068 b      1072
-Assen, Station                            V        14 02       15 02       16 02       17 02       18 02       19 02       20 16       21 16       22 16
-Assen, Rotonde Hoofdlaan                           14 08       15 08       16 08       17 08       18 08       19 08         |           |           |
-Assen, Balkenweg                                   14 10       15 10       16 10       17 10       18 10       19 10         |           |           |
-Assen, Caro van Eyckrotonde                        14 14       15 14       16 14       17 14       18 14       19 14       20 24       21 24       22 24
-Assen, Domeinpad                                   14 17       15 17       16 17       17 17       18 17       19 17         |           |           |
-Huis ter Heide, Norgervaart                        14 21       15 21       16 21       17 21       18 21       19 21       20 34       21 34       22 34
-Veenhuizen, Kerklaan                               14 28       15 28       16 28       17 28       18 28       19 28       20 41       21 41       22 41
-Haulerwijk, Laweijstraat                           14 38       15 38       16 38       17 38       18 38       19 38       20 51       21 51       22 51
-Waskemeer, Waskemeer                               14 44       15 44       16 44       17 44       18 44       19 44       20 56       21 56       22 56
-Bakkeveen, Brink                                   14 49       15 49       16 49       17 49       18 49       19 49       21 00       22 00       23 00
-Wijnjewoude, Merkebuorren                            |           |           |           |           |           |         21 06       22 06       23 06
-Siegerswoude, Voorwerkersbrug                      14 52       15 52       16 52       17 52       18 52       19 52         |           |           |
-Frieschepalen, Frieschepalen                       14 55       15 55       16 55       17 55       18 55       19 55         |           |           |
-Ureterp, Centrum                                   15 01       16 01       17 01       18 01       19 00       20 00       21 13       22 13       23 13
-Drachten, Noorderend                               15 07       16 07       17 07       18 07       19 06       20 05       21 18       22 18       23 18
-Drachten, Transferium Oost                A        15 10       16 10       17 10       18 10       19 08       20 07       21 20       22 20       23 20
-                                Lijnnummer           584
-                                Ritnummer b         1076
-Assen, Station                            V        23 16
-Assen, Caro van Eyckrotonde                        23 24
-Huis ter Heide, Norgervaart                        23 34
-Veenhuizen, Kerklaan                               23 41
-Haulerwijk, Laweijstraat                           23 51
-Waskemeer, Waskemeer                               23 56
-Bakkeveen, Brink                                    0 00
-Wijnjewoude, Merkebuorren                           0 06
-Ureterp, Centrum                                    0 13
-Drachten, Noorderend                                0 18
-Drachten, Transferium Oost                A         0 20
-b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                      Leeuwarden, Mauritsplein              A     6 10    6 40    7 10    7 40    8 10    8 40    9 10    9 40   10 10
+                                                     Ritnummer   1039    1043    1047    1051    1055     1059   1063    1067     1071
+                      Leeuwarden, Busstation                V    10 30   11 00   11 30   12 00   12 30   13 00   13 30   14 00   14 30
+                      Leeuwarden, Snekertrekweg                  10 32   11 02   11 32   12 02   12 32   13 02   13 32   14 02   14 32
+                      Leeuwarden, Uiterdijksterweg               10 37   11 07   11 37   12 07   12 37   13 07   13 37   14 07   14 37
+                      Leeuwarden, Nijlânsdyk                     10 38   11 08   11 38   12 08   12 38   13 08   13 38   14 08   14 38
+                      Leeuwarden, Nijlânstate                    10 39   11 09   11 39   12 09   12 39   13 09   13 39   14 09   14 39
+                      Leeuwarden, Mauritsplein              A    10 40   11 10   11 40   12 10   12 40   13 10   13 40   14 10   14 40
+                                                     Ritnummer   1075    1079    1083    1087    1091     1095   1099
+                      Leeuwarden, Busstation                V    15 00   15 30   16 00   16 30   17 00   17 30   18 00
+                      Leeuwarden, Snekertrekweg                  15 02   15 32   16 02   16 32   17 02   17 32   18 02
+                      Leeuwarden, Uiterdijksterweg               15 07   15 37   16 07   16 37   17 07   17 37   18 07
+                      Leeuwarden, Nijlânsdyk                     15 08   15 38   16 08   16 38   17 08   17 38   18 08
+                      Leeuwarden, Nijlânstate                    15 09   15 39   16 09   16 39   17 09   17 39   18 09
+                      Leeuwarden, Mauritsplein              A    15 10   15 40   16 10   16 40   17 10   17 40   18 10
+Van Nijlân naar Busstation                                                                              Lijn 4b
+                                                                                       beperkt    Maandag t/m vrijdag
+                               Ritnummer   1004    1008     1012   1016    1020    1024          1028    1032     1036
+Leeuwarden, Mauritsplein              V     6 10    6 40    7 10    7 40    8 10    8 40         9 10     9 40   10 10
+Leeuwarden, Nijlânstate                     6 11    6 41    7 11    7 41    8 11    8 41         9 11     9 41   10 11
+Leeuwarden, Nijlânsdyk                      6 12    6 42    7 12    7 42    8 12    8 42         9 12     9 42   10 12
+Leeuwarden, Uiterdijksterweg                6 13    6 43    7 13    7 43    8 13    8 43         9 13     9 43   10 13
+Leeuwarden, Snekertrekweg                   6 18    6 48    7 18    7 48    8 18    8 48         9 18     9 48   10 18
+                                                                                                                         Maandag t/m vrijdag
+Leeuwarden, Busstation                A     6 20    6 50    7 20    7 50    8 20    8 50         9 20     9 50   10 20
+                               Ritnummer   1040    1044    1048    1052    1056    1060          1064    1068     1072
+Leeuwarden, Mauritsplein              V    10 40   11 10   11 40   12 10   12 40   13 10     13 40       14 10   14 40
+Leeuwarden, Nijlânstate                    10 41   11 11   11 41   12 11   12 41   13 11     13 41       14 11   14 41
+Leeuwarden, Nijlânsdyk                     10 42   11 12   11 42   12 12   12 42   13 12     13 42       14 12   14 42
+Leeuwarden, Uiterdijksterweg               10 43   11 13   11 43   12 13   12 43   13 13     13 43       14 13   14 43
+Leeuwarden, Snekertrekweg                  10 48   11 18   11 48   12 18   12 48   13 18     13 48       14 18   14 48
+Leeuwarden, Busstation                A    10 50   11 20   11 50   12 20   12 50   13 20     13 50       14 20   14 50
+                               Ritnummer   1076    1080    1084    1088    1092    1096          1100
+Leeuwarden, Mauritsplein              V    15 10   15 40   16 10   16 40   17 10   17 40     18 10
+Leeuwarden, Nijlânstate                    15 11   15 41   16 11   16 41   17 11   17 41     18 11
+Leeuwarden, Nijlânsdyk                     15 12   15 42   16 12   16 42   17 12   17 42     18 12
+Leeuwarden, Uiterdijksterweg               15 13   15 43   16 13   16 43   17 13   17 43     18 13
+Leeuwarden, Snekertrekweg                  15 18   15 48   16 18   16 48   17 18   17 48     18 18
+Leeuwarden, Busstation                A    15 20   15 50   16 20   16 50   17 20   17 50     18 20
+                      Lijn 6                                                                       van Busstation naar Bilgaard v.v.
+                       Maandag t/m vrijdag beperkt
+                                                   Ritnummer   1003     1007     1011   1015    1019    1023    1027     1031   1035
+                      Leeuwarden, Busstation               V    6 00     6 30    7 00    7 30    8 00    8 30    9 00    9 30   10 00
+                      Leeuwarden, Harmonie                      6 02     6 32    7 02    7 32    8 02    8 32    9 02    9 32   10 02
+                      Leeuwarden, Boterhoek                     6 03     6 33    7 03    7 33    8 03    8 33    9 03    9 33   10 03
+                      Leeuwarden, Wissesdwinger                 6 04     6 34    7 04    7 34    8 04    8 34    9 04    9 34   10 04
+                      Leeuwarden, Dirk Zeperweg                 6 06     6 36    7 06    7 36    8 06    8 36    9 06    9 36   10 06
+Maandag t/m vrijdag
+                      Leeuwarden, NHL Stenden                   6 08     6 38    7 08     |       |       |       |       |       |
+                      Leeuwarden, Wollegaast                    6 09     6 39    7 09    7 39    8 09    8 39    9 09    9 39   10 09
+                      Leeuwarden, Winkelcentrum Bilgaard        6 12     6 42    7 12    7 42    8 12    8 42    9 12    9 42   10 12
+                      Leeuwarden, De Kei                        6 14     6 44    7 14    7 44    8 14    8 44    9 14    9 44   10 14
+                      Leeuwarden, NHL Stenden                   6 18     6 48    7 18     |       |       |       |       |       |
+                      Leeuwarden, Dirk Zeperweg                 6 19     6 49    7 19    7 49    8 19    8 49    9 19    9 49   10 19
+                      Leeuwarden, Wissesdwinger                 6 20     6 50    7 21    7 51    8 21    8 51    9 21    9 51   10 21
+                      Leeuwarden, Boterhoek                     6 21     6 51    7 22    7 52    8 22    8 52    9 22    9 52   10 22
+                      Leeuwarden, Harmonie                      6 22     6 52    7 23    7 53    8 23    8 53    9 23    9 53   10 23
+                      Leeuwarden, Zaailand                      6 23     6 53    7 24    7 54    8 24    8 54    9 24    9 54   10 24
+                      Leeuwarden, Busstation               A    6 26     6 56    7 28    7 58    8 28    8 58    9 28    9 58   10 28
+                                                   Ritnummer   1039     1043    1047    1051    1055    1059    1063    1067     1071
+                      Leeuwarden, Busstation               V   10 30    11 00   11 30   12 00   12 30   13 00   13 30   14 00   14 30
+                      Leeuwarden, Harmonie                     10 32    11 02   11 32   12 02   12 32   13 02   13 32   14 02   14 32
+                      Leeuwarden, Boterhoek                    10 33    11 03   11 33   12 03   12 33   13 03   13 33   14 03   14 33
+                      Leeuwarden, Wissesdwinger                10 34    11 04   11 34   12 04   12 34   13 04   13 34   14 04   14 34
+                      Leeuwarden, Dirk Zeperweg                10 36    11 06   11 36   12 06   12 36   13 06   13 36   14 06   14 36
+                      Leeuwarden, Wollegaast                   10 39    11 09   11 39   12 09   12 39   13 09   13 39   14 09   14 39
+                      Leeuwarden, Winkelcentrum Bilgaard       10 42    11 12   11 42   12 12   12 42   13 12   13 42   14 12   14 42
+                      Leeuwarden, De Kei                       10 44    11 14   11 44   12 14   12 44   13 14   13 44   14 14   14 44
+                      Leeuwarden, Dirk Zeperweg                10 49    11 19   11 49   12 19   12 49   13 19   13 49   14 19   14 49
+                      Leeuwarden, Wissesdwinger                10 51    11 21   11 51   12 21   12 51   13 21   13 51   14 21   14 51
+                      Leeuwarden, Boterhoek                    10 52    11 22   11 52   12 22   12 52   13 22   13 52   14 22   14 52
+                      Leeuwarden, Harmonie                     10 53    11 23   11 53   12 23   12 53   13 23   13 53   14 23   14 53
+                      Leeuwarden, Zaailand                     10 54    11 24   11 54   12 24   12 54   13 24   13 54   14 24   14 54
+                      Leeuwarden, Busstation               A   10 58    11 28   11 58   12 28   12 58   13 28   13 58   14 28   14 58
+                                                   Ritnummer   1075     1079    1083    1087    1091     1395   1399     1103    1107
+                      Leeuwarden, Busstation               V   15 00    15 30   16 00   16 30   17 00   17 30   18 00   18 30   19 30
+                      Leeuwarden, Harmonie                     15 02    15 32   16 02   16 32   17 02   17 32   18 02   18 32   19 32
+                      Leeuwarden, Boterhoek                    15 03    15 33   16 03   16 33   17 03   17 33   18 03   18 33   19 33
+                      Leeuwarden, Wissesdwinger                15 04    15 34   16 04   16 34   17 04   17 34   18 04   18 34   19 34
+                      Leeuwarden, Dirk Zeperweg                15 06    15 36   16 06   16 36   17 06   17 36   18 06   18 36   19 36
+                      Leeuwarden, NHL Stenden                    |        |       |       |       |     17 38   18 08   18 38   19 38
+                      Leeuwarden, Wollegaast                   15 09    15 39   16 09   16 39   17 09   17 39   18 09   18 39   19 39
+                      Leeuwarden, Winkelcentrum Bilgaard       15 12    15 42   16 12   16 42   17 12   17 42   18 12   18 42   19 42
+                      Leeuwarden, De Kei                       15 14    15 44   16 14   16 44   17 14   17 44   18 14   18 44   19 44
+                      Leeuwarden, NHL Stenden                    |        |       |       |       |     17 48   18 18   18 48   19 48
+                      Leeuwarden, Dirk Zeperweg                15 19    15 49   16 19   16 49   17 19   17 49   18 19   18 49   19 49
+                      Leeuwarden, Wissesdwinger                15 21    15 51   16 21   16 51   17 21   17 51   18 20   18 50   19 50
+                      Leeuwarden, Boterhoek                    15 22    15 52   16 22   16 52   17 22   17 52   18 21   18 51   19 51
+                      Leeuwarden, Harmonie                     15 23    15 53   16 23   16 53   17 23   17 53   18 22   18 52   19 52
+                      Leeuwarden, Zaailand                     15 24    15 54   16 24   16 54   17 24   17 54   18 23   18 53   19 53
+                      Leeuwarden, Busstation               A   15 28    15 58   16 28   16 58   17 28   17 58   18 26   18 56   19 56
+                                                   Ritnummer     1111    1115    1119    1123    1127
+                      Leeuwarden, Busstation               V   20 30    21 30   22 30   23 30    0 30
+                      Leeuwarden, Harmonie                     20 32    21 32   22 32   23 32    0 32
+                      Leeuwarden, Boterhoek                    20 33    21 33   22 33   23 33    0 33
+                      Leeuwarden, Wissesdwinger                20 34    21 34   22 34   23 34    0 34
+                      Leeuwarden, Dirk Zeperweg                20 36    21 36   22 36   23 36    0 36
+                      Leeuwarden, NHL Stenden                  20 38    21 38   22 38   23 38    0 38
+                      Leeuwarden, Wollegaast                   20 39    21 39   22 39   23 39    0 39
+                      Leeuwarden, Winkelcentrum Bilgaard       20 42    21 42   22 42   23 42    0 42
+                      Leeuwarden, De Kei                       20 44    21 44   22 44   23 44    0 44
+                      Leeuwarden, NHL Stenden                  20 48    21 48   22 48   23 48    0 48
