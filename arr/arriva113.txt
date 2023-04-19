@@ -1,0 +1,200 @@
+                     Morra, Keechsdyk                          18 32   19 32   20 32
+                     Metslawier, Rotonde                       18 34   19 34   20 34
+                     Dokkum, Busstation                   A    18 41   19 41   20 41
+                     Dokkum, Busstation                   V    18 43   19 43   20 43   21 43
+                     Dokkum, Watertoren                        18 44   19 44   20 44   21 44
+                     Dokkum, Sionsberg                         18 46   19 46   20 46   21 46
+                     Feanwâlden, Station                  A    18 59   19 59   20 59   21 59
+                     Feanwâlden, Station                  V    19 01   20 01   21 01   22 01
+                     Quatrebras, Quatrebras West               19 04   20 04   21 04   22 04
+                     Tytsjerk, Swarteweisein                   19 10   20 10   21 10   22 10
+                     Leeuwarden, Oud Tolhuis                   19 15   20 15   21 15   22 15
+                     Leeuwarden, De Bleek                      19 18   20 18   21 18   22 18
+                     Leeuwarden, Koepelkerk                    19 20   20 20   21 20   22 20
+                     Leeuwarden, Blokhuisplein                 19 22   20 22   21 22   22 22
+                     Leeuwarden, Busstation               A    19 25   20 25   21 25   22 25
+Zon- en feestdagen
+Van Leeuwarden naar Lauwersoog                                                              Lijn 155b
+                                                                                             Zon- en feestdagen
+                              Ritnummer   7504    7508    7512    7516    7520    7524    7528     7532     7536
+Leeuwarden, Busstation                V    8 04           10 04   11 04   12 04   13 04   14 04    15 04    16 04
+Leeuwarden, Beursplein                     8 06           10 06   11 06   12 06   13 06   14 06    15 06    16 06
+Leeuwarden, Blokhuisplein                  8 07           10 07   11 07   12 07   13 07   14 07    15 07    16 07
+Leeuwarden, Bote van Bolswertstraat        8 09           10 09   11 09   12 09   13 09   14 09    15 09    16 09
+Leeuwarden, De Bleek                       8 11           10 11   11 11   12 11   13 11   14 11    15 11    16 11
+Leeuwarden, Oud Tolhuis                    8 14           10 14   11 14   12 14   13 14   14 14    15 14    16 14
+Tytsjerk, Swarteweisein                    8 20           10 20   11 20   12 20   13 20   14 20    15 20    16 20
+Quatrebras, Quatrebras West                8 26           10 26   11 26   12 26   13 26   14 26    15 26    16 26
+Feanwâlden, Station                   A    8 29           10 29   11 29   12 29   13 29   14 29    15 29    16 29
+Feanwâlden, Station                   V    8 31           10 31   11 31   12 31   13 31   14 31    15 31    16 31
+Dokkum, Sionsberg                          8 44           10 44   11 44   12 44   13 44   14 44    15 44    16 44
+Dokkum, Busstation                    A    8 48           10 48   11 48   12 48   13 48   14 48    15 48    16 48
+Dokkum, Busstation                    V    8 50    9 50   10 50   11 50   12 50   13 50   14 50    15 50    16 50
+Metslawier, Rotonde                        8 56    9 56   10 56   11 56   12 56   13 56   14 56    15 56    16 56
+Morra, Keechsdyk                           8 58    9 58   10 58   11 58   12 58   13 58   14 58    15 58    16 58
+Anjum, Nieuweweg                           9 00   10 00   11 00   12 00   13 00   14 00   15 00    16 00    17 00
+Lauwersoog, Veerhaven                      9 09   10 09   11 09   12 09   13 09   14 09   15 09    16 09    17 09
+Lauwersoog, Dorp                      A    9 12   10 12   11 12   12 12   13 12   14 12   15 12    16 12    17 12
+                              Ritnummer   7540    7544    7548    7552    7556    7560
+Leeuwarden, Busstation                V   17 04   18 04   19 04   20 04   21 04   22 04
+Leeuwarden, Beursplein                    17 06   18 06   19 06   20 06   21 06   22 06
+Leeuwarden, Blokhuisplein                 17 07   18 07   19 07   20 07   21 07   22 07
+Leeuwarden, Bote van Bolswertstraat       17 09   18 09   19 09   20 09   21 09   22 09
+Leeuwarden, De Bleek                      17 11   18 11   19 11   20 11   21 11   22 11
+Leeuwarden, Oud Tolhuis                   17 14   18 14   19 14   20 14   21 14   22 14
+Tytsjerk, Swarteweisein                   17 20   18 20   19 20   20 20   21 20   22 20
+Quatrebras, Quatrebras West               17 26   18 26   19 26   20 26   21 26   22 26
+Feanwâlden, Station                   A   17 29   18 29   19 29   20 29   21 29   22 29
+Feanwâlden, Station                   V   17 31   18 31   19 31   20 31   21 31   22 31
+Dokkum, Sionsberg                         17 44   18 44   19 44   20 44   21 44   22 44
+Dokkum, Busstation                    A   17 48   18 48   19 48   20 48   21 48   22 48
+Dokkum, Busstation                    V   17 50   18 50   19 50
+Metslawier, Rotonde                       17 56   18 56   19 56
+Morra, Keechsdyk                          17 58   18 58   19 58
+Anjum, Nieuweweg                          18 00   19 00   20 00
+Lauwersoog, Veerhaven                     18 09   19 09   20 09
+Lauwersoog, Dorp                      A   18 12   19 12   20 12
+                                                                                                                    Zon- en feestdagen
+                     Lijn 315a                                                                                          Van Emmeloord naar Groningen
+                     Lijn 324a                                                                     Van Emmeloord via Drachten naar Groningen
+                         Zon- en feestdagen
+                                                       Lijnnummer         324        324         324        324         324         324        324         324         324
+                                                       Ritnummer        7003       7007         7011       7015        7019       7023        7027        7031       7035
+                     Emmeloord, Busstation                     V                                           11 06      12 06       13 06       14 06      15 06       16 06
+                     Emmeloord, Begraafplaats                                                              11 07      12 07       13 07       14 07      15 07       16 07
+                     Bant, Rotonde                                                                         11 16      12 16       13 16       14 16      15 16       16 16
+                     Lemmer, Busstation                        A                                           11 25      12 25       13 25       14 25      15 25       16 25
+                     Lemmer, Busstation                        V                    9 28       10 28       11 27      12 27       13 27       14 27      15 27       16 27
+                     Joure, Busstation                                              9 41       10 41       11 41      12 41       13 41       14 41      15 41       16 41
+                     Heerenveen, Oost (A32)                                         9 49       10 49       11 49      12 49       13 49       14 49      15 49       16 49
+                     Heerenveen, Busstation                    A                    9 52       10 52       11 52      12 52       13 52       14 52      15 52       16 52
+                     Heerenveen, Busstation                    V         9 04      10 04       11 04       12 04      13 04       14 04       15 04      16 04       17 04
+                     Heerenveen, Oost (A32)                              9 06      10 06       11 06       12 06      13 06       14 06       15 06      16 06       17 06
+                     Drachten, Eikesingel                                9 22      10 22       11 22       12 22      13 22       14 22       15 22      16 22       17 22
+                     Drachten, Bertilla                                  9 24      10 24       11 24       12 24      13 24       14 24       15 24      16 24       17 24
+                     Drachten, Van Knobelsdorffplein                     9 26      10 26       11 26       12 26      13 26       14 26       15 26      16 26       17 26
+                     Drachten, Splitting                                 9 29      10 29       11 29       12 29      13 29       14 29       15 29      16 29       17 29
+                     Drachten, Transferium Oost                A         9 31      10 31       11 31       12 31      13 31       14 31       15 31      16 31       17 31
+                     Drachten, Transferium Oost                V         9 34      10 34       11 34       12 34      13 34       14 34       15 34      16 34       17 34
+                     Hoogkerk, P+R Hoogkerk A7                           9 55      10 55       11 55       12 55      13 55       14 55       15 55      16 55       17 55
+                     Groningen, Verzetsstrijderslaan                     9 59      10 59       11 59       12 59      13 59       14 59       15 59      16 59       17 59
+                     Groningen, Hoofdstation                   A        10 04      11 04       12 04       13 04      14 04       15 04       16 04      17 04       18 04
+                                                       Lijnnummer         315        324         315        324         315         324         315        324         315
+                                                       Ritnummer b      7037        7039 b      7041       7043 b      7045       7047 b      7049        7051 b     7053
+                     Emmeloord, Busstation                     V                   17 06                   18 06      18 44       19 06       19 44      20 06       20 44
+                     Emmeloord, Begraafplaats                                      17 07                   18 07      18 45       19 07       19 45      20 07       20 45
+                     Bant, Rotonde                                                 17 16                   18 16      18 54       19 16       19 54      20 16       20 54
+                     Lemmer, Busstation                        A                   17 25                   18 25      19 03       19 25       20 03      20 25       21 03
+                     Lemmer, Busstation                        V                   17 27                   18 27      19 04       19 27       20 04      20 27       21 04
+                     Joure, Busstation                                             17 41                   18 41      19 18       19 41       20 18      20 41       21 18
+                     Heerenveen, Oost (A32)                                        17 49                   18 49      19 26       19 49       20 26      20 49       21 26
+                     Heerenveen, Busstation                    A                   17 52                   18 52      19 29       19 52       20 29      20 52       21 29
+                     Heerenveen, Busstation                    V        17 31      18 04       18 31       19 04      19 31       20 04       20 31      21 04       21 31
+                     Heerenveen, Oost (A32)                             17 33      18 06       18 33       19 06      19 33       20 06       20 33      21 06       21 33
+                     Drachten, Eikesingel                                 |        18 22         |         19 22        |         20 22         |        21 22         |
+                     Drachten, Bertilla                                   |        18 24         |         19 24        |         20 24         |        21 24         |
+                     Drachten, Van Knobelsdorffplein                      |        18 26         |         19 26        |         20 26         |        21 26         |
+                     Drachten, Splitting                                  |        18 29         |         19 29        |         20 29         |        21 29         |
+                     Drachten, Transferium Oost                A          |        18 31         |         19 31        |         20 31         |        21 31         |
+                     Drachten, Transferium Oost                V          |        18 34         |         19 34        |         20 34         |        21 34         |
+                     Hoogkerk, P+R Hoogkerk A7                          18 07      18 55       19 07       19 55      20 07       20 55       21 07      21 55       22 07
+                     Groningen, Verzetsstrijderslaan                    18 11      18 59       19 11       19 59      20 11       20 59       21 11      21 59       22 11
+                     Groningen, Hoofdstation                   A        18 16      19 04       19 16       20 04      20 16       21 04       21 16      22 04       22 16
+                                                       Lijnnummer        324         315         324        324
+                                                       Ritnummer        7055 b      7057       7059        7063
+                     Emmeloord, Busstation                     V        21 06      21 44       22 06       23 00
+                     Emmeloord, Begraafplaats                           21 07      21 45       22 07       23 01
+                     Bant, Rotonde                                      21 16      21 54       22 16       23 10
+                     Lemmer, Busstation                        A        21 25      22 03       22 25       23 19
+                     Lemmer, Busstation                        V        21 27      22 04       22 27       23 19
+                     Joure, Busstation                                  21 41      22 18       22 41       23 33
+                     Heerenveen, Oost (A32)                             21 49      22 26       22 49       23 41
+                     Heerenveen, Busstation                    A        21 52      22 29       22 52       23 44
+Zon- en feestdagen
+                     Heerenveen, Busstation                    V        22 04      22 31       23 04
+                     Heerenveen, Oost (A32)                             22 06      22 33       23 06
+                     Drachten, Eikesingel                               22 22        |         23 22
+                     Drachten, Bertilla                                 22 24        |         23 24
+                     Drachten, Van Knobelsdorffplein                    22 26        |         23 26
+                     Drachten, Splitting                                22 29        |         23 29
+                     Drachten, Transferium Oost                A        22 31        |         23 31
+                     Drachten, Transferium Oost                V        22 34        |         23 34
+                     Hoogkerk, P+R Hoogkerk A7                          22 55      23 07       23 55
+                     Groningen, Verzetsstrijderslaan                    22 59      23 11       23 59
+                     Groningen, Hoofdstation                   A        23 04      23 16        0 04
+                     b    Rijdt niet op 1e en 2e Kerstdag, Oudjaarsdag, Nieuwjaarsdag, 1e Paasdag, Hemelvaartsdag,1e Pinksterdag en tijdens de zomervakantie van 23 juli tm
+                          27 augustus 2023
+Van Groningen naar Emmeloord                                                                    Lijn 315b
+Van Groningen naar Emmeloord via Drachten                                                       Lijn 324b
+                                                                                                  Zon- en feestdagen
+                                  Lijnnummer     324     324     324    324     324     324     324      324      324
+                                  Ritnummer    7004    7008    7012    7016    7020    7024    7028     7032     7036
+Groningen, Hoofdstation                   V     9 57   10 57   11 57   12 57   13 57   14 57   15 57    16 57    17 57
+Groningen, Verzetsstrijderslaan                10 01   11 01   12 01   13 01   14 01   15 01   16 01    17 01    18 01
+Hoogkerk, P+R Hoogkerk A7                      10 05   11 05   12 05   13 05   14 05   15 05   16 05    17 05    18 05
+Drachten, Transferium Oost                A    10 27   11 27   12 27   13 27   14 27   15 27   16 27    17 27    18 27
+Drachten, Transferium Oost                V    10 30   11 30   12 30   13 30   14 30   15 30   16 30    17 30    18 30
+Drachten, Splitting                            10 33   11 33   12 33   13 33   14 33   15 33   16 33    17 33    18 33
+Drachten, Van Knobelsdorffplein                10 35   11 35   12 35   13 35   14 35   15 35   16 35    17 35    18 35
+Drachten, Bertilla                             10 36   11 36   12 36   13 36   14 36   15 36   16 36    17 36    18 36
+Drachten, Eikesingel                           10 38   11 38   12 38   13 38   14 38   15 38   16 38    17 38    18 38
+Heerenveen, Oost (A32)                         10 55   11 55   12 55   13 55   14 55   15 55   16 55    17 55    18 55
+Heerenveen, Busstation                    A    10 58   11 58   12 58   13 58   14 58   15 58   16 58    17 58    18 58
+Heerenveen, Busstation                    V    11 06   12 06   13 06   14 06   15 06   16 06   17 06    18 06    19 06
+Heerenveen, Oost (A32)                         11 08   12 08   13 08   14 08   15 08   16 08   17 08    18 08    19 08
+Joure, Busstation                         A    11 18   12 18   13 18   14 18   15 18   16 18   17 18    18 18    19 18
+Joure, Busstation                         V    11 20   12 20   13 20   14 20   15 20   16 20   17 20    18 20    19 20
+Lemmer, Busstation                        A    11 32   12 32   13 32   14 32   15 32   16 32   17 32    18 32    19 32
+Lemmer, Busstation                        V    11 36   12 36   13 36   14 36   15 36   16 36   17 36    18 36    19 36
+Bant, Rotonde                                  11 45   12 45   13 45   14 45   15 45   16 45   17 45    18 45    19 45
+Emmeloord, Begraafplaats                       11 52   12 52   13 52   14 52   15 52   16 52   17 52    18 52    19 52
+Emmeloord, Busstation                     A    11 55   12 55   13 55   14 55   15 55   16 55   17 55    18 55    19 55
+                                  Lijnnummer     324     324     324    324     324     324
+                                  Ritnummer    7040    7044    7048    7052    7056    7060
+Groningen, Hoofdstation                   V    18 57   19 57   20 57   21 57   22 57   23 57
+Groningen, Verzetsstrijderslaan                19 01   20 01   21 01   22 01   23 01    0 01
+Hoogkerk, P+R Hoogkerk A7                      19 05   20 05   21 05   22 05   23 05    0 05
+Drachten, Transferium Oost                A    19 27   20 27   21 27   22 27   23 27    0 27
+Drachten, Transferium Oost                V    19 30   20 30   21 30   22 30   23 30    0 30
+Drachten, Splitting                            19 33   20 33   21 33   22 33   23 33    0 33
+Drachten, Van Knobelsdorffplein                19 35   20 35   21 35   22 35   23 35    0 35
+Drachten, Bertilla                             19 36   20 36   21 36   22 36   23 36    0 36
+Drachten, Eikesingel                           19 38   20 38   21 38   22 38   23 38    0 38
+Heerenveen, Oost (A32)                         19 55   20 55   21 55   22 55   23 55    0 55
+Heerenveen, Busstation                    A    19 58   20 58   21 58   22 58   23 58    0 58
+Heerenveen, Busstation                    V    20 06   21 06   22 06
+Heerenveen, Oost (A32)                         20 08   21 08   22 08
+Joure, Busstation                         A    20 18   21 18   22 18
+Joure, Busstation                         V    20 20   21 20   22 20
+Lemmer, Busstation                        A    20 32   21 32   22 32
+Lemmer, Busstation                        V    20 36   21 36   22 36
+Bant, Rotonde                                  20 45   21 45   22 45
+Emmeloord, Begraafplaats                       20 52   21 52   22 52
+Emmeloord, Busstation                     A    20 55   21 55   22 55
+                                                                                                                         Zon- en feestdagen
+                     Lijn 320a                                                      Van Leeuwarden via Drachten naar Heerenveen
+                       Zon- en feestdagen
+                                                       Ritnummer   7003    7007     7011   7015    7019    7023    7027    7031    7035
+                     Leeuwarden, Busstation                   V                                                    14 18   15 18   16 20
+                     Leeuwarden, Huizumerlaan                                                                      14 22   15 22   16 24
+                     Leeuwarden, Henri Dunantweg                                                                   14 26   15 26   16 27
+                     Drachten, Transferium Oost               A                                                    14 46   15 46   16 46
+                     Drachten, Transferium Oost               V     8 48    9 48   10 48   11 48   12 48   13 48   14 48   15 48   16 48
+                     Drachten, Splitting                            8 51    9 51   10 51   11 51   12 51   13 51   14 51   15 51   16 51
+                     Drachten, Van Knobelsdorffplein                8 54    9 54   10 54   11 54   12 54   13 54   14 54   15 54   16 54
+                     Drachten, Bertilla                             8 55    9 55   10 55   11 55   12 55   13 55   14 55   15 55   16 55
+                     Drachten, Eikesingel                           8 57    9 57   10 57   11 57   12 57   13 57   14 57   15 57   16 57
+                     Heerenveen, Saturnus                           9 10   10 10   11 10   12 10   13 10   14 10   15 10   16 10   17 10
+                     Heerenveen, Oost (A32)                         9 14   10 14   11 14   12 14   13 14   14 14   15 14   16 14   17 14
+                     Heerenveen, Busstation                   A     9 17   10 17   11 17   12 17   13 17   14 17   15 17   16 17   17 17
+                                                       Ritnummer   7039    7043    7047    7051    7055    7059    7063
+                     Leeuwarden, Busstation                   V    17 20   18 20   19 20   20 20   21 20   22 20
+                     Leeuwarden, Huizumerlaan                      17 24   18 24   19 24   20 24   21 24   22 24
+                     Leeuwarden, Henri Dunantweg                   17 27   18 27   19 27   20 27   21 27   22 27
+                     Drachten, Transferium Oost               A    17 46   18 46   19 46   20 46   21 46   22 46
+                     Drachten, Transferium Oost               V    17 48   18 48   19 48   20 48   21 48   22 48   23 48
+                     Drachten, Splitting                           17 51   18 51   19 51   20 51   21 51   22 51   23 51
+                     Drachten, Van Knobelsdorffplein               17 54   18 54   19 54   20 54   21 54   22 54   23 54
+                     Drachten, Bertilla                            17 55   18 55   19 55   20 55   21 55   22 55   23 55
+                     Drachten, Eikesingel                          17 57   18 57   19 57   20 57   21 57   22 57   23 57
+                     Heerenveen, Saturnus                          18 10   19 10   20 10   21 10   22 10   23 10    0 10

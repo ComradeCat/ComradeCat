@@ -1,0 +1,200 @@
+                      Buitenpost, Station                       V               6 40                                  9 57              11 57
+                      Twijzel, Bank                                             6 47                                 10 04              12 04
+                      Kootstermolen, Kootstermolen                              6 50                                 10 07              12 07
+                      Kootstertille, Âlde Dyk                   A               6 54                                 10 11              12 11
+                                                      Ritnummer b     1033 b   1039 b    1041 b   1047 b    1049
+Maandag t/m vrijdag
+                      Grootegast, Centrum                       V              15 13              17 13
+                      Lutjegast, Stationsweg                                   15 20              17 20
+                      Stroobos, Hoendiep NZ                                    15 26              17 26
+                      Gerkesklooster, Molenstraat                              15 27              17 27
+                      Augustinusga, Blauwverlaat                               15 32              17 32
+                      Buitenpost, Station                       A              15 39              17 39
+                      Buitenpost, Station                       V     13 57             15 57               17 57
+                      Twijzel, Bank                                   14 04             16 04               18 04
+                      Kootstermolen, Kootstermolen                    14 07             16 07               18 07
+                      Kootstertille, Âlde Dyk                   A     14 11             16 11               18 11
+                      b   Rijdt NIET in de kerst- en zomervakantie.
+Van Kootstertille naar Grootegast via Buitenpost                                                                Lijn 101b
+                                                                                             in de vakanties    Maandag t/m vrijdag
+                                Ritnummer b     1004 b   1010 b   1016 b   1018 b   1024 b      1026 b         1032 b   1034 b   1040
+Kootstertille, Âlde Dyk                   V      6 54             10 18             12 18                  14 18                 16 18
+Kootstermolen, Kootstermolen                     6 58             10 22             12 22                  14 22                 16 22
+Twijzel, Bank                                    7 01             10 25             12 25                  14 25                 16 25
+Buitenpost, Station                       A      7 08             10 32             12 32                  14 32                 16 32
+Buitenpost, Station                       V               8 47             10 47               12 47                    14 47
+Augustinusga, Blauwverlaat                                8 54             10 54               12 54                    14 54
+Gerkesklooster, Molenstraat                               8 59             10 59               12 59                    14 59
+Stroobos, Hoendiep NZ                                     9 00             11 00               13 00                    15 00
+Lutjegast, Stationsweg                                    9 06             11 06               13 06                    15 06
+Grootegast, Centrum                       A               9 13             11 13               13 13                    15 13
+                                Ritnummer b     1042 b   1048 b   1050
+                                                                                                                                         Maandag t/m vrijdag
+Kootstertille, Âlde Dyk                   V              18 18
+Kootstermolen, Kootstermolen                             18 22
+Twijzel, Bank                                            18 25
+Buitenpost, Station                       A              18 32
+Buitenpost, Station                       V     16 47             18 47
+Augustinusga, Blauwverlaat                      16 54             18 54
+Gerkesklooster, Molenstraat                     16 59             18 59
+Stroobos, Hoendiep NZ                     A     17 00             19 00
+Lutjegast, Stationsweg                          17 06
+Grootegast, Centrum                       A     17 13
+b   Rijdt NIET in de kerst- en zomervakantie.
+                      Lijn 102a                                                                  Van Makkum naar Hindeloopen
+                       Maandag t/m vrijdag in de vakanties
+                                                    Ritnummer   1003   1007    1011   1015    1019    1223
+                      Makkum, Sporthal                     V    6 52   8 55   11 55   13 55   15 55   17 31
+                      Makkum, Avondrust                          |     8 56   11 56   13 56   15 56     |
+                      Makkum, Dominee L. Touwenlaan             6 53   8 58   11 58   13 58   15 58   17 33
+                      Makkum, Botterstraat                      6 54   8 58   11 58   13 58   15 58   17 34
+                      Idsegahuizum, Idsegahuizum                6 56   9 00   12 00   14 00   16 00   17 36
+                      Idsegahuizum, Dorp                        6 58   9 02   12 02   14 02   16 02   17 38
+                      Piaam, Piaam                              7 02   9 06   12 06   14 06   16 06   17 40
+                      Gaast, Gaast                              7 05   9 09   12 09   14 09   16 09   17 43
+                      Ferwoude, Ferwoude                        7 11   9 15   12 15   14 15   16 15   17 47
+                      Workum, Merk                              7 18   9 22   12 22   14 22   16 22   17 51
+                      Workum, Hearewei                          7 21   9 25   12 25   14 25   16 25   17 53
+                      Workum, Station                      A    7 23   9 27   12 27   14 27   16 27   17 57
+                      It Heidenskip, Brânburren                 7 29   9 33   12 33   14 33   16 33
+Maandag t/m vrijdag
+                      Hindeloopen, Hindeloopen Hoek             7 35   9 39   12 39   14 39   16 39
+                      Hindeloopen, Station                      7 37   9 41   12 41   14 41   16 41
+                      Hindeloopen, Museum Hidde Nijland    A    7 40   9 44   12 44   14 44   16 44
+Van Hindeloopen naar Makkum                                                                        Lijn 102b
+                                                                                 in de vakanties   Maandag t/m vrijdag
+                              Ritnummer   1204   1208     1212    1216   1220       1224
+Hindeloopen, Museum Hidde Nijland    V    7 42    9 46   12 46   14 46   16 46
+Hindeloopen, Station                      7 45    9 49   12 49   14 49   16 49
+Hindeloopen, Hindeloopen Hoek             7 47    9 51   12 51   14 51   16 51
+It Heidenskip, Brânburren                 7 53    9 57   12 57   14 57   16 57
+Workum, Station                           7 59   10 03   13 03   15 03   17 03     18 00
+Workum, Hearewei                          8 02   10 06   13 06   15 06   17 06     18 04
+Workum, Merk                              8 05   10 09   13 09   15 09   17 09     18 06
+Ferwoude, Ferwoude                        8 11   10 15   13 15   15 15   17 15     18 10
+Gaast, Gaast                              8 16   10 20   13 20   15 20   17 20     18 14
+Piaam, Piaam                              8 18   10 22   13 22   15 22   17 22     18 17
+Idsegahuizum, Dorp                        8 21   10 25   13 25   15 25   17 25     18 19
+Idsegahuizum, Idsegahuizum                8 23   10 27   13 27   15 27   17 27     18 21
+Makkum, Botterstraat                      8 25   10 29   13 29   15 29   17 29     18 23
+                                                                                                                         Maandag t/m vrijdag
+Makkum, Sporthal                     A    8 27   10 31   13 31   15 31   17 31     18 25
+                      Lijn 103a                                                                      Van Stavoren naar Hemelum
+                       Maandag t/m vrijdag in de vakanties
+                                                Ritnummer     1011   1015    1019    1023    1027       1031   1035    1039    1043
+                      Stavoren, Station                 V     9 17   10 17   11 17   12 17   13 17     14 17   15 17   16 17   17 17
+                      Stavoren, Postbrug                      9 19   10 19   11 19   12 19   13 19     14 19   15 19   16 19   17 19
+                      Stavoren, Coop                          9 22   10 22   11 22   12 22   13 22     14 22   15 22   16 22   17 22
+                      Warns, Buorren                          9 27   10 27   11 27   12 27   13 27     14 27   15 27   16 27   17 27
+                      Warns, Laaksum                          9 31   10 31   11 31   12 31   13 31     14 31   15 31   16 31   17 31
+                      Mirns, Murnserdyk                       9 34   10 34   11 34   12 34   13 34     14 34   15 34   16 34   17 34
+                      Bakhuizen, Bakhuizen                    9 37   10 37   11 37   12 37   13 37     14 37   15 37   16 37   17 37
+                      Hemelum, Hemelum                        9 39   10 39   11 39   12 39   13 39     14 39   15 39   16 39   17 39
+                      Hemelum, Nijbuorren                     9 41   10 41   11 41   12 41   13 41     14 41   15 41   16 41   17 41
+                      Hemelum, Flinkeboskje             A     9 44   10 44   11 44   12 44   13 44     14 44   15 44   16 44   17 44
+                                                Ritnummer    1047    1051
+Maandag t/m vrijdag
+                      Stavoren, Station                 V    18 17   19 17
+                      Stavoren, Postbrug                     18 19   19 19
+                      Stavoren, Coop                         18 22   19 22
+                      Warns, Buorren                         18 27   19 27
+                      Warns, Laaksum                         18 31   19 31
+                      Mirns, Murnserdyk                      18 34   19 34
+                      Bakhuizen, Bakhuizen                   18 37   19 37
+                      Hemelum, Hemelum                       18 39   19 39
+                      Hemelum, Nijbuorren                    18 41   19 41
+                      Hemelum, Flinkeboskje             A    18 44   19 44
+Van Hemelum naar Stavoren                                                                     Lijn 103b
+                                                                            in de vakanties    Maandag t/m vrijdag
+                        Ritnummer   1004    1008     1012   1016    1020       1024           1028    1032     1036
+Hemelum, Flinkeboskje          V     6 46    7 46    8 46    9 46   10 46     11 46       12 46      13 46    14 46
+Hemelum, Nijbuorren                  6 48    7 48    8 48    9 48   10 48     11 48       12 48      13 48    14 48
+Hemelum, Hemelum                     6 51    7 51    8 51    9 51   10 51     11 51       12 51      13 51    14 51
+Bakhuizen, Bakhuizen                 6 54    7 54    8 54    9 54   10 54     11 54       12 54      13 54    14 54
+Mirns, Murnserdyk                    6 56    7 56    8 56    9 56   10 56     11 56       12 56      13 56    14 56
+Warns, Laaksum                       7 01    8 01    9 01   10 01   11 01     12 01       13 01      14 01    15 01
+Warns, Buorren                       7 05    8 05    9 05   10 05   11 05     12 05       13 05      14 05    15 05
+Stavoren, Station              A     7 13    8 13    9 13   10 13   11 13     12 13       13 13      14 13    15 13
+                        Ritnummer   1040    1044    1048    1052
+Hemelum, Flinkeboskje          V    15 46   16 46   17 46   18 46
+Hemelum, Nijbuorren                 15 48   16 48   17 48   18 48
+                                                                                                                      Maandag t/m vrijdag
+Hemelum, Hemelum                    15 51   16 51   17 51   18 51
+Bakhuizen, Bakhuizen                15 54   16 54   17 54   18 54
+Mirns, Murnserdyk                   15 56   16 56   17 56   18 56
+Warns, Laaksum                      16 01   17 01   18 01   19 01
+Warns, Buorren                      16 05   17 05   18 05   19 05
+Stavoren, Station              A    16 13   17 13   18 13   19 13
+                      Lijn 104a                                                             Van Tijnje via Gorredijk naar Allardsoog
+                       Maandag t/m vrijdag in de vakanties
+                                                       Ritnummer   8007    1011   1015    1019    1023
+                      Tijnje, Winia Ikkers                    V           11 15   13 15   15 15   17 15
+                      Terwispel, De Streek                                11 21   13 21   15 21   17 21
+                      Gorredijk, Busstation                               11 25   13 25   15 25   17 25
+                      Gorredijk, Winkelcentrum                A           11 26   13 26   15 26   17 26
+                      Gorredijk, Winkelcentrum                V    9 27   11 27   13 27   15 27   17 27
+                      Gorredijk, Busstation                        9 28   11 28   13 28   15 28   17 28
+                      Gorredijk, Trimbeets                         9 29   11 29   13 29   15 29   17 29
+                      Lippenhuizen, De Driehoek                    9 31   11 31   13 31   15 31   17 31
+                      Lippenhuizen, De Buorren                     9 34   11 34   13 34   15 34   17 34
+                      Hemrik, De Manege                            9 38   11 38   13 38   15 38   17 38
+                      Wijnjewoude, Opperhaudmare                   9 43   11 43   13 43   15 43   17 43
+                      Wijnjewoude, Duurswoude                      9 45   11 45   13 45   15 45   17 45
+                      Bakkeveen, Brink                             9 50   11 50   13 50   15 50   17 50
+Maandag t/m vrijdag
+                      Allardsoog, Natuurvriendenhuis          A    9 57   11 57   13 57   15 57   17 57
+Van Allardsoog naar Tijnje via Gorredijk                                                               Lijn 104b
+                                                                                     in de vakanties    Maandag t/m vrijdag
+                                 Ritnummer   1008    1010     1012   1014    1016       1018           1020    1022     1024
+Allardsoog, Natuurvriendenhuis          V    10 09           12 09           14 09                 16 09               18 09
+Bakkeveen, Brink                             10 16           12 16           14 16                 16 16               18 16
+Wijnjewoude, Duurswoude                      10 21           12 21           14 21                 16 21               18 21
+Wijnjewoude, Opperhaudmare                   10 23           12 23           14 23                 16 23               18 23
+Hemrik, De Manege                            10 28           12 28           14 28                 16 28               18 28
+Lippenhuizen, De Buorren                     10 32           12 32           14 32                 16 32               18 32
+Lippenhuizen, De Driehoek                    10 35           12 35           14 35                 16 35               18 35
+Gorredijk, Trimbeets                         10 38           12 38           14 38                 16 38               18 38
+Gorredijk, Busstation                        10 39           12 39           14 39                 16 39               18 39
+Gorredijk, Winkelcentrum                A    10 40           12 40           14 40                 16 40               18 40
+Gorredijk, Winkelcentrum                V            11 02           13 02             15 02                  17 02
+Gorredijk, Busstation                                11 03           13 03             15 03                  17 03
+Terwispel, De Streek                                 11 06           13 06             15 06                  17 06
+                                                                                                                               Maandag t/m vrijdag
+Tijnje, Winia Ikkers                    A            11 13           13 13             15 13                  17 13
+                      Lijn 108                                                                        van Wolvega naar Wolvega
+                       Maandag t/m vrijdag in de vakanties
+                                                  Ritnummer   8003    8007     1011   1015    1019     1023    1027    8031    8035
+                      Wolvega, Station                   V             7 55    9 37   10 37   11 37    12 37   13 37   14 37   15 37
+                      Wolvega, Van Harenstraat                         7 57    9 39   10 39   11 39    12 39   13 39   14 39   15 39
+                      Wolvega, Kruistraat                              7 59    9 41   10 41   11 41    12 41   13 41   14 41   15 41
+                      Oldetrijne, Oldetrijne                   7 04    8 07    9 47   10 47   11 47    12 47   13 47   14 47   15 47
+                      Oldelamer, Oldelamerbrug                 7 08    8 11    9 51   10 51   11 51    12 51   13 51   14 51   15 51
+                      Munnekeburen, Kerk                       7 09    8 12    9 52   10 52   11 52    12 52   13 52   14 52   15 52
+                      Munnekeburen, Kerkeweg                   7 11    8 14    9 54   10 54   11 54    12 54   13 54   14 54   15 54
+                      Scherpenzeel, Centrum                    7 12    8 15    9 55   10 55   11 55    12 55   13 55   14 55   15 55
+                      Scherpenzeel, Landerij                   7 13    8 16    9 56   10 56   11 56    12 56   13 56   14 56   15 56
+                      Scherpenzeel, Hoek Spanga                7 15    8 18    9 57   10 57   11 57    12 57   13 57   14 57   15 57
+                      Langelille, Speeltuin                    7 21    8 24   10 03   11 03   12 03    13 03   14 03   15 03   16 03
+                      Langelille, De Driesprong                7 24    8 27   10 06   11 06   12 06    13 06   14 06   15 06   16 06
+                      Oldelamer, Oldelamerbrug                 7 29    8 32   10 10   11 10   12 10    13 10   14 10   15 10   16 10
+Maandag t/m vrijdag
+                      Oldelamer, Oldelamer                     7 34    8 37   10 15   11 15   12 15    13 15   14 15   15 15   16 15
+                      Wolvega, Station                   A     7 42    8 45   10 23   11 23   12 23    13 23   14 23   15 23   16 23
+                                                  Ritnummer   1039    1043    1047
+                      Wolvega, Station                   V    16 37   17 37   18 37
+                      Wolvega, Van Harenstraat                16 39   17 39   18 39
+                      Wolvega, Kruistraat                     16 41   17 41   18 41
+                      Oldetrijne, Oldetrijne                  16 47   17 47   18 47
+                      Oldelamer, Oldelamerbrug                16 51   17 51   18 51
+                      Munnekeburen, Kerk                      16 52   17 52   18 52
+                      Munnekeburen, Kerkeweg                  16 54   17 54   18 54
+                      Scherpenzeel, Centrum                   16 55   17 55   18 55
+                      Scherpenzeel, Landerij                  16 56   17 56   18 56
+                      Scherpenzeel, Hoek Spanga               16 57   17 57   18 57
+                      Langelille, Speeltuin                   17 03   18 03   19 03
+                      Langelille, De Driesprong               17 06   18 06   19 06
+                      Oldelamer, Oldelamerbrug                17 10   18 10   19 10
+                      Oldelamer, Oldelamer                    17 15   18 15   19 15
+                      Wolvega, Station                   A    17 23   18 23   19 23
+                      Lijn 115a                                                                          Van Heerenveen via Oosterwolde naar Assen
+                      Lijn 515a                                                                                              Van Heerenveen naar Jubbega

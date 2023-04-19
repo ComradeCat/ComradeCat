@@ -1,0 +1,200 @@
+Sneek, Oppenhuizerweg                         8 38          9 08    9 38             10 08       10 38               11 08
+Sneek, Prins Hendrikkade                      8 41          9 11    9 41             10 11       10 41               11 11
+Sneek, Busstation                        A    8 44          9 14    9 44             10 14       10 44               11 14
+Sneek, Busstation                        V    8 46          9 16    9 46             10 16       10 46               11 16
+Sneek, Antonius Ziekenhuis                    8 50          9 20    9 50             10 20       10 50               11 20
+Folsgare, Folsgare Rijksweg                   8 56          9 25    9 55             10 25       10 55               11 25
+Nijland, Nijland Rijksweg                     8 58          9 27    9 57             10 27       10 57               11 27
+Bolsward, Kloosterlaan                        9 01          9 30   10 00             10 30       11 00               11 30
+Bolsward, Bargefenne                          9 05          9 34   10 04             10 34       11 04               11 34
+Bolsward, Busstation Twibaksdyk          A    9 08          9 37   10 07             10 37       11 07               11 37
+Bolsward, Busstation Twibaksdyk          V    9 10   9 16          10 09   10 16                 11 09      11 16
+Schettens, Schettens                          9 14   9 20          10 13   10 20                 11 13      11 20
+Witmarsum, Kievitshorne                       9 16   9 22          10 15   10 22                 11 15      11 22
+Witmarsum, Kaatsplein                         9 19    |            10 18     |                   11 18        |
+Arum, Schoolstraat                            9 26    |            10 25     |                   11 25        |
+Kimswerd, Kimswerd                            9 29    |            10 28     |                   11 28        |
+Kimswerd, Carpe Diem                          9 31    |            10 30     |                   11 30        |
+Harlingen, De Batting                         9 34    |            10 33     |                   11 33        |
+Harlingen, Station                            9 37    |            10 36     |                   11 36        |
+Harlingen, Veerbootterminal              A    9 42    |            10 41     |                   11 41        |
+Wons, Salverdastraat                                 9 25                  10 25                            11 25
+Makkum, Botterstraat                                 9 30                  10 30                            11 30
+Makkum, Sporthal                                     9 32                  10 32                            11 32
+Cornwerd, Cornwerd                                   9 38                  10 38                            11 38
+Afsluitdijk, Kop Afsluitdijk             A           9 42                  10 42                            11 42
+                      Lijn 98b                                                        Van Bolsward naar Kop Afsluitdijk via Makkum
+                      Lijn 99b                                                                        Van Heerenveen naar Harlingen
+                      Lijn 199b                                                                       Van Heerenveen naar Harlingen
+                      Lijn 698b                                                                              Van Sneek naar Makkum
+                       Maandag t/m vrijdag in de vakanties
+                                                       Lijnnummer      99     98       99      99     98       99      99     98       99
+                                                       Ritnummer    1100    1028    1108     1116   1032     1124    1132   1036    1140
+                      Heerenveen, Busstation                   V    11 04           11 34   12 04           12 34   13 04           13 33
+                      Heerenveen, Oost (A32)                        11 06           11 36   12 06           12 36   13 06           13 36
+                      Joure, Busstation                        A    11 17           11 47   12 17           12 47   13 17           13 47
+                      Joure, Busstation                        V    11 18           11 48   12 18           12 48   13 18           13 48
+Maandag t/m vrijdag
+                      Joure, Scheen                                 11 21           11 51   12 21           12 51   13 21           13 51
+                      Joure, Brugstraat                             11 23           11 53   12 23           12 53   13 23           13 53
+                      Uitwellingerga, Uitwellingerga                11 32           12 02   12 32           13 02   13 32           14 02
+                      Oppenhuizen, Oppenhuizen                      11 33           12 03   12 33           13 03   13 33           14 03
+                      Sneek, Oppenhuizerweg                         11 38           12 08   12 38           13 08   13 38           14 08
+                      Sneek, Prins Hendrikkade                      11 41           12 11   12 41           13 11   13 41           14 11
+                      Sneek, Busstation                        A    11 44           12 14   12 44           13 14   13 44           14 14
+                      Sneek, Busstation                        V    11 46           12 16   12 46           13 16   13 46           14 16
+                      Sneek, Antonius Ziekenhuis                    11 50           12 20   12 50           13 20   13 50           14 20
+                      Folsgare, Folsgare Rijksweg                   11 55           12 26   12 56           13 26   13 56           14 26
+                      Nijland, Nijland Rijksweg                     11 57           12 28   12 58           13 28   13 58           14 28
+                      Bolsward, Kloosterlaan                        12 00           12 32   13 02           13 32   14 02           14 33
+                      Bolsward, Bargefenne                          12 04           12 36   13 06           13 36   14 06           14 37
+                      Bolsward, Busstation Twibaksdyk          A    12 07           12 39   13 09           13 39   14 09           14 40
+                      Bolsward, Busstation Twibaksdyk          V    12 09   12 16           13 11   13 16           14 11   14 16
+                      Schettens, Schettens                          12 13   12 20           13 15   13 20           14 15   14 20
+                      Witmarsum, Kievitshorne                       12 15   12 22           13 17   13 22           14 17   14 22
+                      Witmarsum, Kaatsplein                         12 18     |             13 20     |             14 20     |
+                      Arum, Schoolstraat                            12 25     |             13 27     |             14 27     |
+                      Kimswerd, Kimswerd                            12 28     |             13 30     |             14 30     |
+                      Kimswerd, Carpe Diem                          12 30     |             13 32     |             14 32     |
+                      Harlingen, De Batting                         12 33     |             13 35     |             14 35     |
+                      Harlingen, Station                            12 36     |             13 38     |             14 38     |
+                      Harlingen, Veerbootterminal              A    12 41     |             13 43     |             14 43     |
+                      Wons, Salverdastraat                                  12 25                   13 25                   14 25
+                      Makkum, Botterstraat                                  12 30                   13 30                   14 30
+                      Makkum, Sporthal                                      12 32                   13 32                   14 32
+                      Cornwerd, Cornwerd                                    12 38                   13 38                   14 38
+                      Afsluitdijk, Kop Afsluitdijk             A            12 42                   13 42                   14 42
+Van Bolsward naar Kop Afsluitdijk via Makkum                                                             Lijn 98b
+Van Heerenveen naar Harlingen                                                                            Lijn 99b
+Van Heerenveen naar Harlingen                                                                           Lijn 199b
+Van Sneek naar Makkum                                                                                   Lijn 698b
+                                                                                      in de vakanties    Maandag t/m vrijdag
+                                 Lijnnummer      99     98       99      99     98         99            99       98       99
+                                 Ritnummer     1148   1040     1156    1164   1044        1172          1180    1048     1188
+Heerenveen, Busstation                   V    14 03           14 33   15 03             15 33       16 03               16 33
+Heerenveen, Oost (A32)                        14 06           14 36   15 06             15 36       16 06               16 36
+Joure, Busstation                        A    14 17           14 47   15 17             15 47       16 17               16 47
+Joure, Busstation                        V    14 18           14 48   15 18             15 48       16 18               16 48
+                                                                                                                                Maandag t/m vrijdag
+Joure, Scheen                                 14 21           14 51   15 21             15 51       16 21               16 51
+Joure, Brugstraat                             14 23           14 53   15 23             15 53       16 23               16 53
+Uitwellingerga, Uitwellingerga                14 32           15 02   15 32             16 02       16 32               17 02
+Oppenhuizen, Oppenhuizen                      14 33           15 03   15 33             16 03       16 33               17 03
+Sneek, Oppenhuizerweg                         14 38           15 08   15 38             16 08       16 38               17 08
+Sneek, Prins Hendrikkade                      14 41           15 11   15 41             16 11       16 41               17 11
+Sneek, Busstation                        A    14 44           15 14   15 44             16 14       16 44               17 14
+Sneek, Busstation                        V    14 46           15 16   15 46             16 16       16 46               17 16
+Sneek, Antonius Ziekenhuis                    14 50           15 20   15 50             16 20       16 50               17 20
+Folsgare, Folsgare Rijksweg                   14 56           15 26   15 56             16 26       16 56               17 25
+Nijland, Nijland Rijksweg                     14 58           15 28   15 58             16 28       16 58               17 27
+Bolsward, Kloosterlaan                        15 03           15 33   16 03             16 32       17 02               17 31
+Bolsward, Bargefenne                          15 07           15 37   16 07             16 36       17 06               17 35
+Bolsward, Busstation Twibaksdyk          A    15 10           15 40   16 10             16 39       17 09               17 38
+Bolsward, Busstation Twibaksdyk          V    15 12   15 16           16 12   16 16                 17 11      17 16
+Schettens, Schettens                          15 16   15 20           16 16   16 20                 17 15      17 20
+Witmarsum, Kievitshorne                       15 18   15 22           16 18   16 22                 17 17      17 22
+Witmarsum, Kaatsplein                         15 21     |             16 21     |                   17 20        |
+Arum, Schoolstraat                            15 28     |             16 28     |                   17 27        |
+Kimswerd, Kimswerd                            15 31     |             16 31     |                   17 30        |
+Kimswerd, Carpe Diem                          15 33     |             16 33     |                   17 32        |
+Harlingen, De Batting                         15 36     |             16 36     |                   17 35        |
+Harlingen, Station                            15 39     |             16 39     |                   17 38        |
+Harlingen, Veerbootterminal              A    15 44     |             16 44     |                   17 43        |
+Wons, Salverdastraat                                  15 25                   16 25                            17 25
+Makkum, Botterstraat                                  15 30                   16 30                            17 30
+Makkum, Sporthal                                      15 32                   16 32                            17 32
+Cornwerd, Cornwerd                                    15 38                   16 38                            17 38
+Afsluitdijk, Kop Afsluitdijk             A            15 42                   16 42                            17 42
+                      Lijn 98b                                                        Van Bolsward naar Kop Afsluitdijk via Makkum
+                      Lijn 99b                                                                        Van Heerenveen naar Harlingen
+                      Lijn 199b                                                                       Van Heerenveen naar Harlingen
+                      Lijn 698b                                                                              Van Sneek naar Makkum
+                       Maandag t/m vrijdag in de vakanties
+                                                       Lijnnummer      99     98       99      99     98      199     199     199     199
+                                                       Ritnummer     1196   1052    1204     1212   1056    1228    1244    1260    1276
+                      Heerenveen, Busstation                   V    17 03           17 34   18 05           19 00   20 01   21 01   22 02
+                      Heerenveen, Motel                               |               |       |             19 03   20 04   21 04   22 05
+                      Nijehaske, Nijehaske                            |               |       |             19 07   20 08   21 08   22 09
+                      Oudehaske, Badweg                               |               |       |             19 10   20 11   21 11   22 12
+                      Haskerhorne, Haskerhorne
+Maandag t/m vrijdag
+                                                                      |               |       |             19 14   20 15   21 15   22 16
+                      Heerenveen, Oost (A32)                        17 06           17 36   18 07             |       |       |       |
+                      Joure, Busstation                        A    17 17           17 47   18 18           19 18   20 19   21 19   22 20
+                      Joure, Busstation                        V    17 18           17 48   18 19           19 18   20 19   21 19   22 20
+                      Joure, Scheen                                 17 21           17 51   18 22           19 21   20 22   21 22   22 23
+                      Joure, Brugstraat                             17 23           17 53   18 23           19 22   20 23   21 23   22 24
+                      Uitwellingerga, Uitwellingerga                17 32           18 02   18 32           19 31   20 32   21 32   22 32
+                      Oppenhuizen, Oppenhuizen                      17 33           18 03   18 33           19 32   20 33   21 33   22 33
+                      Sneek, Oppenhuizerweg                         17 38           18 08   18 38           19 37   20 38   21 38   22 38
+                      Sneek, Prins Hendrikkade                      17 41           18 11   18 41           19 40   20 41   21 41   22 41
+                      Sneek, Busstation                        A    17 44           18 14   18 44           19 43   20 43   21 43   22 43
+                      Sneek, Busstation                        V    17 46           18 16   18 46           19 46   20 46   21 46   22 46
+                      Sneek, Antonius Ziekenhuis                    17 50           18 19   18 49           19 49   20 49   21 49   22 49
+                      Folsgare, Folsgare Rijksweg                   17 55           18 24   18 54           19 54   20 54   21 54   22 54
+                      Nijland, Nijland Rijksweg                     17 57           18 26   18 56           19 56   20 56   21 56   22 56
+                      Bolsward, Kloosterlaan                        18 00           18 29   18 59           19 59   20 59   21 59   22 59
+                      Bolsward, Bargefenne                          18 04           18 33   19 03           20 03   21 03   22 03   23 03
+                      Bolsward, Busstation Twibaksdyk          A    18 07           18 36   19 06           20 06   21 06   22 06   23 06
+                      Bolsward, Busstation Twibaksdyk          V    18 10   18 16           19 09   19 16   20 09   21 09   22 09   23 09
+                      Schettens, Schettens                          18 14   18 20           19 13   19 20   20 13   21 13   22 13   23 13
+                      Witmarsum, Kievitshorne                       18 16   18 22           19 15   19 22   20 15   21 15   22 15   23 15
+                      Witmarsum, Kaatsplein                         18 19     |             19 18     |     20 18   21 18   22 18   23 18
+                      Arum, Schoolstraat                            18 26     |             19 25     |     20 24   21 24   22 24   23 24
+                      Kimswerd, Kimswerd                            18 29     |             19 28     |     20 27   21 27   22 27   23 27
+                      Kimswerd, Carpe Diem                          18 31     |             19 30     |     20 29   21 29   22 29   23 29
+                      Harlingen, De Batting                         18 34     |             19 33     |     20 32   21 32   22 32   23 32
+                      Harlingen, Station                            18 37     |             19 36     |     20 35   21 35   22 35   23 35
+                      Harlingen, Veerbootterminal              A    18 42     |             19 41     |     20 40   21 40   22 40   23 40
+                      Wons, Salverdastraat                                  18 25                   19 25
+                      Makkum, Botterstraat                                  18 30                   19 30
+                      Makkum, Sporthal                                      18 32                   19 32
+                      Cornwerd, Cornwerd                                    18 38                   19 38
+                      Afsluitdijk, Kop Afsluitdijk             A            18 42                   19 42
+Van Bolsward naar Kop Afsluitdijk via Makkum                                   Lijn 98b
+Van Heerenveen naar Harlingen                                                  Lijn 99b
+Van Heerenveen naar Harlingen                                                 Lijn 199b
+Van Sneek naar Makkum                                                         Lijn 698b
+                                                            in de vakanties   Maandag t/m vrijdag
+                                 Ritnummer   1292    1308
+Heerenveen, Busstation                  V    23 02   0 02
+Heerenveen, Motel                            23 05   0 05
+Nijehaske, Nijehaske                         23 09   0 09
+Oudehaske, Badweg                            23 12   0 12
+Haskerhorne, Haskerhorne                     23 16   0 16
+Joure, Busstation                       A    23 20   0 20
+                                                                                                    Maandag t/m vrijdag
+Joure, Busstation                       V    23 20   0 20
+Joure, Scheen                                23 23   0 23
+Joure, Brugstraat                            23 24   0 24
+Uitwellingerga, Uitwellingerga               23 32   0 32
+Oppenhuizen, Oppenhuizen                     23 33   0 33
+Sneek, Oppenhuizerweg                        23 38   0 37
+Sneek, Prins Hendrikkade                     23 41   0 40
+Sneek, Busstation                       A    23 43   0 42
+Sneek, Busstation                       V    23 46
+Sneek, Antonius Ziekenhuis                   23 49
+Folsgare, Folsgare Rijksweg                  23 54
+Nijland, Nijland Rijksweg                    23 56
+Bolsward, Kloosterlaan                       23 59
+Bolsward, Bargefenne                          0 03
+Bolsward, Busstation Twibaksdyk         A     0 06
+Bolsward, Busstation Twibaksdyk         V     0 09
+Schettens, Schettens                          0 13
+Witmarsum, Kievitshorne                       0 15
+Witmarsum, Kaatsplein                         0 18
+Arum, Schoolstraat                            0 24
+Kimswerd, Kimswerd                            0 27
+Kimswerd, Carpe Diem                          0 29
+Harlingen, De Batting                         0 32
+Harlingen, Station                            0 35
+Harlingen, Veerbootterminal             A     0 40
+                      Lijn 101a                                                         Van Grootegast via Buitenpost naar Kootstertille
+                       Maandag t/m vrijdag in de vakanties
+                                                      Ritnummer b     1003 b   1005 b    1007 b    1011 b   1015 b    1017 b   1023 b   1025 b    1031
+                      Grootegast, Centrum                       V                                  8 13      9 13              11 13             13 13
+                      Lutjegast, Stationsweg                                                       8 20      9 20              11 20             13 20
+                      Stroobos, Hoendiep NZ                            6 26              7 26      8 26      9 26              11 26             13 26
+                      Gerkesklooster, Molenstraat                      6 27              7 27      8 27      9 27              11 27             13 27
+                      Augustinusga, Blauwverlaat                       6 32              7 32      8 32      9 32              11 32             13 32
+                      Buitenpost, Station                       A      6 39              7 39      8 39      9 39              11 39             13 39

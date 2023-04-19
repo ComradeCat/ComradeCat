@@ -1,0 +1,200 @@
+                     Uitwellingerga, Uitwellingerga               10 57   11 57   12 57   13 57   14 57   15 57   16 57   17 57   18 57
+                     Joure, Brugstraat                            11 06   12 06   13 06   14 06   15 06   16 06   17 06   18 06   19 06
+                     Joure, Scheen                                11 07   12 07   13 07   14 07   15 07   16 07   17 07   18 07   19 07
+                     Joure, Busstation                       A    11 10   12 10   13 10   14 10   15 10   16 10   17 10   18 10   19 10
+                     Joure, Busstation                       V    11 11   12 11   13 11   14 11   15 11   16 11   17 11   18 11   19 11
+                     Haskerhorne, Haskerhorne                     11 14   12 14   13 14   14 14   15 14   16 14   17 14   18 14   19 14
+                     Oudehaske, Badweg                            11 18   12 18   13 18   14 18   15 18   16 18   17 18   18 18   19 18
+                     Nijehaske, Nijehaske                         11 20   12 20   13 20   14 20   15 20   16 20   17 20   18 20   19 20
+                     Heerenveen, Motel                            11 24   12 24   13 24   14 24   15 24   16 24   17 24   18 24   19 24
+                     Heerenveen, Busstation                  A    11 28   12 28   13 28   14 28   15 28   16 28   17 28   18 28   19 28
+                                                      Ritnummer   7039    7043    7047    7051    7055
+                     Harlingen, Veerbootterminal             V    18 49   19 49   20 49   21 49   22 49
+                     Harlingen, Station                           18 53   19 53   20 53   21 53   22 53
+                     Harlingen, De Batting                        18 55   19 55   20 55   21 55   22 55
+                     Kimswerd, Carpe Diem                         18 58   19 58   20 58   21 58   22 58
+                     Kimswerd, Kimswerd                           19 00   20 00   21 00   22 00   23 00
+                     Arum, Schoolstraat                           19 04   20 04   21 04   22 04   23 04
+                     Witmarsum, Kaatsplein                        19 10   20 10   21 10   22 10   23 10
+                     Witmarsum, Kievitshorne                      19 13   20 13   21 13   22 13   23 13
+                     Schettens, Schettens                         19 15   20 15   21 15   22 15   23 15
+                     Bolsward, Busstation Twibaksdyk         A    19 20   20 20   21 20   22 20   23 20
+Zon- en feestdagen
+                     Bolsward, Busstation Twibaksdyk         V    19 23   20 23   21 23   22 23   23 23
+                     Bolsward, Bargefenne                         19 25   20 25   21 25   22 25   23 25
+                     Bolsward, Kloosterlaan                       19 30   20 30   21 30   22 30   23 30
+                     Nijland, Nijland Rijksweg                    19 33   20 33   21 33   22 33   23 33
+                     Folsgare, Folsgare Rijksweg                  19 35   20 35   21 35   22 35   23 35
+                     Sneek, Antonius Ziekenhuis                   19 40   20 40   21 40   22 40   23 40
+                     Sneek, Busstation                       A    19 43   20 43   21 43   22 43   23 43
+                     Sneek, Busstation                       V    19 46   20 46   21 46   22 46   23 46
+                     Sneek, Prins Hendrikkade                     19 48   20 48   21 48   22 48   23 48
+                     Sneek, Oppenhuizerweg                        19 51   20 51   21 51   22 51   23 51
+                     Oppenhuizen, Oppenhuizen                     19 56   20 56   21 56   22 56   23 56
+                     Uitwellingerga, Uitwellingerga               19 57   20 57   21 57   22 57   23 57
+                     Joure, Brugstraat                            20 06   21 06   22 06   23 06    0 06
+                     Joure, Scheen                                20 07   21 07   22 07   23 07    0 07
+                     Joure, Busstation                       A    20 10   21 10   22 10   23 10    0 10
+                     Joure, Busstation                       V    20 11   21 11   22 11   23 11    0 11
+                     Haskerhorne, Haskerhorne                     20 14   21 14   22 14   23 14    0 14
+                     Oudehaske, Badweg                            20 18   21 18   22 18   23 18    0 18
+                     Nijehaske, Nijehaske                         20 20   21 20   22 20   23 20    0 20
+                     Heerenveen, Motel                            20 24   21 24   22 24   23 24    0 24
+                     Heerenveen, Busstation                  A    20 28   21 28   22 28   23 28    0 28
+Van Heerenveen naar Harlingen                                                                    Lijn 199b
+                                                                                                Zon- en feestdagen
+                                 Ritnummer   7004    7008    7012    7016    7020    7024    7028     7032     7036
+Heerenveen, Busstation                  V    10 02   11 02   12 02   13 02   14 02   15 02   16 02    17 02    18 02
+Heerenveen, Motel                            10 05   11 05   12 05   13 05   14 05   15 05   16 05    17 05    18 05
+Nijehaske, Nijehaske                         10 09   11 09   12 09   13 09   14 09   15 09   16 09    17 09    18 09
+Oudehaske, Badweg                            10 12   11 12   12 12   13 12   14 12   15 12   16 12    17 12    18 12
+Haskerhorne, Haskerhorne                     10 16   11 16   12 16   13 16   14 16   15 16   16 16    17 16    18 16
+Joure, Busstation                       A    10 19   11 19   12 19   13 19   14 19   15 19   16 19    17 19    18 19
+Joure, Busstation                       V    10 19   11 19   12 19   13 19   14 19   15 19   16 19    17 19    18 19
+Joure, Scheen                                10 22   11 22   12 22   13 22   14 22   15 22   16 22    17 22    18 22
+Joure, Brugstraat                            10 23   11 23   12 23   13 23   14 23   15 23   16 23    17 23    18 23
+Uitwellingerga, Uitwellingerga               10 32   11 32   12 32   13 32   14 32   15 32   16 32    17 32    18 32
+Oppenhuizen, Oppenhuizen                     10 33   11 33   12 33   13 33   14 33   15 33   16 33    17 33    18 33
+Sneek, Oppenhuizerweg                        10 37   11 37   12 37   13 37   14 37   15 37   16 37    17 37    18 37
+Sneek, Prins Hendrikkade                     10 41   11 41   12 41   13 41   14 41   15 41   16 41    17 41    18 41
+Sneek, Busstation                       A    10 43   11 43   12 43   13 43   14 43   15 43   16 43    17 43    18 43
+Sneek, Busstation                       V    10 47   11 47   12 47   13 47   14 47   15 47   16 47    17 47    18 47
+Sneek, Antonius Ziekenhuis                   10 50   11 50   12 50   13 50   14 50   15 50   16 50    17 50    18 50
+Folsgare, Folsgare Rijksweg                  10 55   11 55   12 55   13 55   14 55   15 55   16 55    17 55    18 55
+Nijland, Nijland Rijksweg                    10 57   11 57   12 57   13 57   14 57   15 57   16 57    17 57    18 57
+Bolsward, Kloosterlaan                       11 01   12 01   13 01   14 01   15 01   16 01   17 01    18 01    19 01
+Bolsward, Bargefenne                         11 05   12 05   13 05   14 05   15 05   16 05   17 05    18 05    19 05
+Bolsward, Busstation Twibaksdyk         A    11 07   12 07   13 07   14 07   15 07   16 07   17 07    18 07    19 07
+Bolsward, Busstation Twibaksdyk         V    11 09   12 09   13 09   14 09   15 09   16 09   17 09    18 09    19 09
+Schettens, Schettens                         11 13   12 13   13 13   14 13   15 13   16 13   17 13    18 13    19 13
+Witmarsum, Kievitshorne                      11 16   12 16   13 16   14 16   15 16   16 16   17 16    18 16    19 16
+Witmarsum, Kaatsplein                        11 19   12 19   13 19   14 19   15 19   16 19   17 19    18 19    19 19
+Arum, Schoolstraat                           11 25   12 25   13 25   14 25   15 25   16 25   17 25    18 25    19 25
+Kimswerd, Kimswerd                           11 29   12 29   13 29   14 29   15 29   16 29   17 29    18 29    19 29
+Kimswerd, Carpe Diem                         11 32   12 32   13 32   14 32   15 32   16 32   17 32    18 32    19 32
+Harlingen, De Batting                        11 35   12 35   13 35   14 35   15 35   16 35   17 35    18 35    19 35
+Harlingen, Station                           11 37   12 37   13 37   14 37   15 37   16 37   17 37    18 37    19 37
+Harlingen, Veerbootterminal             A    11 41   12 41   13 41   14 41   15 41   16 41   17 41    18 41    19 41
+                                 Ritnummer   7040    7044    7048    7052    7056    7060
+Heerenveen, Busstation                  V    19 02   20 02   21 02   22 02   23 02    0 02
+Heerenveen, Motel                            19 05   20 05   21 05   22 05   23 05    0 05
+Nijehaske, Nijehaske                         19 09   20 09   21 09   22 09   23 09    0 09
+Oudehaske, Badweg                            19 12   20 12   21 12   22 12   23 12    0 12
+Haskerhorne, Haskerhorne                     19 16   20 16   21 16   22 16   23 16    0 16
+Joure, Busstation                       A    19 19   20 19   21 19   22 19   23 19    0 19
+Joure, Busstation                       V    19 19   20 19   21 19   22 19   23 19    0 19
+Joure, Scheen                                19 22   20 22   21 22   22 22   23 22    0 22
+Joure, Brugstraat                            19 23   20 23   21 23   22 23   23 23    0 23
+Uitwellingerga, Uitwellingerga               19 32   20 32   21 32   22 32   23 32    0 32
+                                                                                                                       Zon- en feestdagen
+Oppenhuizen, Oppenhuizen                     19 33   20 33   21 33   22 33   23 33    0 33
+Sneek, Oppenhuizerweg                        19 37   20 37   21 37   22 37   23 37    0 37
+Sneek, Prins Hendrikkade                     19 41   20 41   21 41   22 41   23 41    0 41
+Sneek, Busstation                       A    19 43   20 43   21 43   22 43   23 43    0 43
+Sneek, Busstation                       V    19 47   20 47   21 47   22 47   23 47
+Sneek, Antonius Ziekenhuis                   19 50   20 50   21 50   22 50   23 50
+Folsgare, Folsgare Rijksweg                  19 55   20 55   21 55   22 55   23 55
+Nijland, Nijland Rijksweg                    19 57   20 57   21 57   22 57   23 57
+Bolsward, Kloosterlaan                       20 01   21 01   22 01   23 01    0 01
+Bolsward, Bargefenne                         20 05   21 05   22 05   23 05    0 05
+Bolsward, Busstation Twibaksdyk         A    20 07   21 07   22 07   23 07    0 07
+Bolsward, Busstation Twibaksdyk         V    20 09   21 09   22 09   23 09    0 09
+Schettens, Schettens                         20 13   21 13   22 13   23 13    0 12
+Witmarsum, Kievitshorne                      20 16   21 16   22 16   23 16    0 15
+Witmarsum, Kaatsplein                        20 19   21 19   22 19   23 19    0 18
+Arum, Schoolstraat                           20 25   21 25   22 25   23 25    0 24
+Kimswerd, Kimswerd                           20 29   21 29   22 29   23 29    0 28
+Kimswerd, Carpe Diem                         20 32   21 32   22 32   23 32    0 31
+Harlingen, De Batting                        20 35   21 35   22 35   23 35    0 33
+Harlingen, Station                           20 37   21 37   22 37   23 37    0 35
+Harlingen, Veerbootterminal             A    20 41   21 41   22 41   23 41    0 39
+                     Lijn 515a                                                                                                   Van Heerenveen naar Jubbega
+                         Zon- en feestdagen
+                                                      Ritnummer b        7003 b       7011 b      7019 b     7027 b      7035 b      7043 b       7051 b     7059 b      7067
+                     Heerenveen, Busstation                     V        10 36       11 36       12 36       13 36       14 36       15 36       16 36       17 36       18 36
+                     Heerenveen, Oost (A32)                              10 38       11 38       12 38       13 38       14 38       15 38       16 38       17 38       18 38
+                     Heerenveen, Burgemeester Kuperusplein               10 41       11 41       12 41       13 41       14 41       15 41       16 41       17 41       18 41
+                     Heerenveen, Dominee Kingweg                         10 44       11 44       12 44       13 44       14 44       15 44       16 44       17 44       18 44
+                     Heerenveen, Thialf                                  10 49       11 49       12 49       13 49       14 49       15 49       16 49       17 49       18 49
+                     Oudeschoot, Centrum                                 10 51       11 51       12 51       13 51       14 51       15 51       16 51       17 51       18 51
+                     Mildam, Mildam                                      10 56       11 56       12 56       13 56       14 56       15 56       16 56       17 56       18 56
+                     Katlijk, Bisschopslaan                              10 57       11 57       12 57       13 57       14 57       15 57       16 57       17 57       18 57
+                     Nieuwehorne, Sportpark                              11 02       12 02       13 02       14 02       15 02       16 02       17 02       18 02       19 02
+                     Oudehorne, Oldeberkoperweg                          11 05       12 05       13 05       14 05       15 05       16 05       17 05       18 05       19 05
+                     Jubbega-Schurega, Zwanenburgreed                    11 09       12 09       13 09       14 09       15 09       16 09       17 09       18 09       19 09
+                     Jubbega 3e Sluis, Bramenstraat             A        11 13       12 13       13 13       14 13       15 13       16 13       17 13       18 13       19 13
+                                                      Ritnummer b        7075 b      7083 b       7091 b     7099
+                     Heerenveen, Busstation                     V        19 36       20 36       21 36       22 36
+                     Heerenveen, Oost (A32)                              19 38       20 38       21 38       22 38
+                     Heerenveen, Burgemeester Kuperusplein               19 41       20 41       21 41       22 41
+                     Heerenveen, Dominee Kingweg                         19 44       20 44       21 44       22 44
+                     Heerenveen, Thialf                                  19 49       20 49       21 49       22 49
+                     Oudeschoot, Centrum                                 19 51       20 51       21 51       22 51
+                     Mildam, Mildam                                      19 56       20 56       21 56       22 56
+                     Katlijk, Bisschopslaan                              19 57       20 57       21 57       22 57
+                     Nieuwehorne, Sportpark                              20 02       21 02       22 02       23 02
+                     Oudehorne, Oldeberkoperweg                          20 05       21 05       22 05       23 05
+                     Jubbega-Schurega, Zwanenburgreed                    20 09       21 09       22 09       23 09
+                     Jubbega 3e Sluis, Bramenstraat             A        20 13       21 13       22 13       23 13
+                     b    Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+Zon- en feestdagen
+Van Jubbega naar Heerenveen                                                                                                    Lijn 515b
+                                                                                                                               Zon- en feestdagen
+                                Ritnummer b        7004 b       7012 b     7020 b      7028 b      7036 b      7044 b      7052 b      7060 b      7068
+Jubbega 3e Sluis, Bramenstraat            V        11 13       12 13       13 13       14 13       15 13       16 13       17 13       18 13       19 13
+Jubbega, Hendrik de Vosweg                         11 19       12 19       13 19       14 19       15 19       16 19       17 19       18 19       19 19
+Oudehorne, Oldeberkoperweg                         11 22       12 22       13 22       14 22       15 22       16 22       17 22       18 22       19 22
+Nieuwehorne, Sportpark                             11 25       12 25       13 25       14 25       15 25       16 25       17 25       18 25       19 25
+Katlijk, Bisschopslaan                             11 30       12 30       13 30       14 30       15 30       16 30       17 30       18 30       19 30
+Mildam, Mildam                                     11 31       12 31       13 31       14 31       15 31       16 31       17 31       18 31       19 31
+Oudeschoot, Centrum                                11 36       12 36       13 36       14 36       15 36       16 36       17 36       18 36       19 36
+Heerenveen, Thialf                                 11 38       12 38       13 38       14 38       15 38       16 38       17 38       18 38       19 38
+Heerenveen, Dominee Kingweg                        11 42       12 42       13 42       14 42       15 42       16 42       17 42       18 42       19 42
+Heerenveen, Burgemeester Kuperusplein              11 45       12 45       13 45       14 45       15 45       16 45       17 45       18 45       19 45
+Heerenveen, Oost (A32)                             11 48       12 48       13 48       14 48       15 48       16 48       17 48       18 48       19 48
+Heerenveen, Busstation                    A        11 51       12 51       13 51       14 51       15 51       16 51       17 51       18 51       19 51
+                                Ritnummer b        7076 b      7084 b      7092 b      7100
+Jubbega 3e Sluis, Bramenstraat            V        20 13       21 13       22 13       23 13
+Jubbega, Hendrik de Vosweg                         20 19       21 19       22 19       23 19
+Oudehorne, Oldeberkoperweg                         20 22       21 22       22 22       23 22
+Nieuwehorne, Sportpark                             20 25       21 25       22 25       23 25
+Katlijk, Bisschopslaan                             20 30       21 30       22 30       23 30
+Mildam, Mildam                                     20 31       21 31       22 31       23 31
+Oudeschoot, Centrum                                20 36       21 36       22 36       23 36
+Heerenveen, Thialf                                 20 38       21 38       22 38       23 38
+Heerenveen, Dominee Kingweg                        20 42       21 42       22 42       23 42
+Heerenveen, Burgemeester Kuperusplein              20 45       21 45       22 45       23 45
+Heerenveen, Oost (A32)                             20 48       21 48       22 48       23 48
+Heerenveen, Busstation                    A        20 51       21 51       22 51       23 51
+b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+                                                                                                                                                           Zon- en feestdagen
+                     Lijn 155a                                                                 Van Lauwersoog naar Leeuwarden
+                       Zon- en feestdagen
+                                                   Ritnummer   7503    7507     7511   7515     7519   7523    7527    7531    7535
+                     Lauwersoog, Dorp                     V     9 13   10 13   11 13   12 13   13 13   14 13   15 13   16 13   17 13
+                     Lauwersoog, Visafslag                      9 16   10 16   11 16   12 16   13 16   14 16   15 16   16 16   17 16
+                     Lauwersoog, Veerhaven                A     9 18   10 18   11 18   12 18   13 18   14 18   15 18   16 18   17 18
+                     Lauwersoog, Veerhaven                V     9 22   10 22   11 22   12 22   13 22   14 22   15 22   16 22   17 22
+                     Anjum, Nieuweweg                           9 30   10 30   11 30   12 30   13 30   14 30   15 30   16 30   17 30
+                     Morra, Keechsdyk                           9 32   10 32   11 32   12 32   13 32   14 32   15 32   16 32   17 32
+                     Metslawier, Rotonde                        9 34   10 34   11 34   12 34   13 34   14 34   15 34   16 34   17 34
+                     Dokkum, Busstation                   A     9 41   10 41   11 41   12 41   13 41   14 41   15 41   16 41   17 41
+                     Dokkum, Busstation                   V     9 43   10 43   11 43   12 43   13 43   14 43   15 43   16 43   17 43
+                     Dokkum, Sionsberg                          9 46   10 46   11 46   12 46   13 46   14 46   15 46   16 46   17 46
+                     Feanwâlden, Station                  A     9 59   10 59   11 59   12 59   13 59   14 59   15 59   16 59   17 59
+                     Feanwâlden, Station                  V    10 01   11 01   12 01   13 01   14 01   15 01   16 01   17 01   18 01
+                     Quatrebras, Quatrebras West               10 04   11 04   12 04   13 04   14 04   15 04   16 04   17 04   18 04
+                     Tytsjerk, Swarteweisein                   10 10   11 10   12 10   13 10   14 10   15 10   16 10   17 10   18 10
+                     Leeuwarden, Oud Tolhuis                   10 15   11 15   12 15   13 15   14 15   15 15   16 15   17 15   18 15
+                     Leeuwarden, De Bleek                      10 18   11 18   12 18   13 18   14 18   15 18   16 18   17 18   18 18
+                     Leeuwarden, Koepelkerk                    10 20   11 20   12 20   13 20   14 20   15 20   16 20   17 20   18 20
+                     Leeuwarden, Blokhuisplein                 10 22   11 22   12 22   13 22   14 22   15 22   16 22   17 22   18 22
+                     Leeuwarden, Busstation               A    10 25   11 25   12 25   13 25   14 25   15 25   16 25   17 25   18 25
+                                                   Ritnummer   7539    7543    7547    7551
+                     Lauwersoog, Dorp                     V    18 13   19 13   20 13
+                     Lauwersoog, Visafslag                     18 16   19 16   20 16
+                     Lauwersoog, Veerhaven                A    18 18   19 18   20 18
+                     Lauwersoog, Veerhaven                V    18 22   19 22   20 22
+                     Anjum, Nieuweweg                          18 30   19 30   20 30

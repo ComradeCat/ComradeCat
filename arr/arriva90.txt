@@ -1,0 +1,200 @@
+Heerenveen, Busstation                   V             5 44    6 14    6 43    7 10      7 38           8 09    8 42     9 12
+Heerenveen, Oost (A32)                                 5 46    6 16    6 45    7 12      7 41           8 12    8 44     9 14
+Heerenveen, Saturnus                                   5 50    6 20    6 49    7 16      7 45           8 16    8 48     9 18
+Drachten, Eikesingel                                   6 05    6 35    7 04    7 31      8 00           8 31    9 03     9 33
+Drachten, Bertilla                                     6 07    6 37    7 06    7 33      8 02           8 33    9 05     9 35
+Drachten, Van Knobelsdorffplein          A             6 09    6 39    7 08    7 35      8 05           8 36    9 07     9 37
+Drachten, Van Knobelsdorffplein          V     5 39    6 09    6 39    7 08    7 36      8 06           8 37    9 08     9 38
+Drachten, Splitting                            5 41    6 11    6 41    7 10    7 39      8 09           8 40    9 10     9 40
+Drachten, Transferium Oost               A     5 44    6 14    6 44    7 13    7 43      8 13           8 44    9 14     9 44
+Drachten, Transferium Oost               V     5 46    6 16    6 46    7 15    7 45      8 15           8 46    9 16     9 46
+Leeuwarden, Henri Dunantweg                    6 07    6 37    7 07    7 38    8 08      8 36           9 07    9 37    10 05
+Leeuwarden, Huizumerlaan                       6 10    6 40    7 11    7 42    8 12      8 40           9 11    9 41    10 09
+Leeuwarden, Busstation                   A     6 13    6 43    7 14    7 47    8 17      8 45           9 15    9 45    10 13
+                                                                                                                                Maandag t/m vrijdag
+                                  Ritnummer   1072    1080    1088    1096    1104        1112          1120    1128     1136
+Heerenveen, Busstation                   V     9 42   10 12   10 42   11 12   11 42     12 12       12 42      13 12    13 42
+Heerenveen, Oost (A32)                         9 44   10 14   10 44   11 14   11 44     12 14       12 44      13 14    13 44
+Heerenveen, Saturnus                           9 48   10 18   10 48   11 18   11 48     12 18       12 48      13 18    13 48
+Drachten, Eikesingel                          10 03   10 33   11 03   11 33   12 03     12 33       13 03      13 33    14 03
+Drachten, Bertilla                            10 05   10 35   11 05   11 35   12 05     12 35       13 05      13 35    14 05
+Drachten, Van Knobelsdorffplein          A    10 07   10 37   11 07   11 37   12 07     12 37       13 07      13 37    14 07
+Drachten, Van Knobelsdorffplein          V    10 08   10 38   11 08   11 38   12 08     12 38       13 08      13 38    14 08
+Drachten, Splitting                           10 10   10 40   11 10   11 40   12 10     12 40       13 10      13 40    14 10
+Drachten, Transferium Oost               A    10 14   10 44   11 14   11 44   12 14     12 44       13 14      13 44    14 14
+Drachten, Transferium Oost               V    10 16   10 46   11 16   11 46   12 16     12 46       13 16      13 46    14 16
+Leeuwarden, Henri Dunantweg                   10 35   11 05   11 35   12 05   12 35     13 05       13 37      14 07    14 37
+Leeuwarden, Huizumerlaan                      10 39   11 09   11 39   12 09   12 39     13 09       13 41      14 11    14 41
+Leeuwarden, Busstation                   A    10 43   11 13   11 43   12 13   12 43     13 13       13 45      14 15    14 47
+                                  Ritnummer    1144    1152   1160     1168    1176      1184           1192    1200     1208
+Heerenveen, Busstation                   V    14 11   14 41   15 10   15 40   16 10     16 40       17 09      17 43    18 14
+Heerenveen, Oost (A32)                        14 13   14 43   15 13   15 43   16 13     16 43       17 12      17 45    18 16
+Heerenveen, Saturnus                          14 17   14 47   15 17   15 47   16 17     16 47       17 16      17 49    18 20
+Drachten, Eikesingel                          14 32   15 02   15 32   16 02   16 32     17 02       17 31      18 04    18 34
+Drachten, Bertilla                            14 34   15 04   15 34   16 04   16 34     17 04       17 33      18 06    18 36
+Drachten, Van Knobelsdorffplein          A    14 36   15 06   15 36   16 06   16 36     17 06       17 36      18 08    18 38
+Drachten, Van Knobelsdorffplein          V    14 37   15 07   15 37   16 07   16 37     17 07       17 37      18 09    18 39
+Drachten, Splitting                           14 40   15 10   15 40   16 10   16 40     17 10       17 40      18 11    18 41
+Drachten, Transferium Oost               A    14 44   15 14   15 44   16 14   16 44     17 14       17 44      18 14    18 44
+Drachten, Transferium Oost               V    14 46   15 16   15 46   16 16   16 46     17 16       17 46      18 16    18 46
+Leeuwarden, Henri Dunantweg                   15 07   15 37   16 07   16 38   17 08     17 37       18 06      18 36    19 06
+Leeuwarden, Huizumerlaan                      15 11   15 41   16 11   16 42   17 12     17 41       18 09      18 39    19 09
+Leeuwarden, Busstation                   A    15 17   15 47   16 17   16 48   17 18     17 47       18 12      18 42    19 12
+                                  Ritnummer    1216   1224    1232    1248    1264       1280           1296    1312
+Heerenveen, Busstation                   V    18 44   19 15   19 44   20 44   21 45     22 45       23 36       0 36
+Heerenveen, Oost (A32)                        18 46   19 17   19 46   20 46   21 47     22 47       23 38       0 38
+Heerenveen, Saturnus                          18 49   19 20   19 49   20 49   21 50     22 50       23 41       0 41
+Drachten, Eikesingel                          19 03   19 34   20 03   21 03   22 04     23 04       23 55       0 55
+Drachten, Bertilla                            19 05   19 36   20 05   21 05   22 06     23 06       23 57       0 57
+Drachten, Van Knobelsdorffplein          A    19 07   19 38   20 07   21 07   22 08     23 08       23 59       0 59
+Drachten, Van Knobelsdorffplein          V    19 07   19 38   20 07   21 07   22 08     23 08       23 59       0 59
+Drachten, Splitting                           19 09   19 40   20 09   21 09   22 10     23 10        0 01       1 01
+Drachten, Transferium Oost               A    19 12   19 43   20 12   21 12   22 13     23 13        0 04       1 04
+Drachten, Transferium Oost               V    19 14           20 14   21 14
+Leeuwarden, Henri Dunantweg                   19 34           20 34   21 34
+Leeuwarden, Huizumerlaan                      19 37           20 37   21 37
+Leeuwarden, Busstation                   A    19 40           20 40   21 40
+                      Lijn 350a                                                                                                 Van Alkmaar naar Leeuwarden
+                       Maandag t/m vrijdag in de vakanties
+                                                       Ritnummer           1003         1011        1015         1019        1023        1027 b      4031 b      4035 b       4039
+                      Alkmaar, Station                           V          5 28        6 23        7 23         8 26        9 28       10 28        11 28       12 28       13 28
+                      Alkmaar, Kanaalkade                                   5 30        6 26        7 26         8 29        9 30       10 30        11 30       12 30       13 30
+                      Heerhugowaard, Broekerweg                             5 39        6 36        7 36         8 39        9 40       10 40        11 40       12 40       13 40
+                      Heerhugowaard, Sluis                                  5 43        6 41        7 41         8 44        9 45       10 45        11 45       12 45       13 45
+                      Heerhugowaard, Smuigelweg                             5 45        6 43        7 43         8 46        9 47       10 47        11 47       12 47       13 47
+                      Heerhugowaard, Verlaat                                5 47        6 45        7 45         8 48        9 49       10 49        11 49       12 49       13 49
+                      Nieuwe Niedorp, Transferium                           5 51        6 49        7 49         8 52        9 53       10 53        11 53       12 53       13 53
+                      Middenmeer, Alkmaarseweg                              5 59        6 57        7 57         9 00       10 01       11 01        12 01       13 01       14 01
+                      Wieringerwerf, Motel                                  6 04        7 03        8 03         9 06       10 06       11 06        12 06       13 06       14 06
+                      Den Oever, Busstation                      A          6 12        7 12        8 12         9 15       10 15       11 15        12 15       13 15       14 15
+                      Den Oever, Busstation                      V          6 13        7 13        8 13         9 16       10 16       11 16        12 16       13 16       14 16
+                      Afsluitdijk, Kornwerderzand                           6 31        7 31        8 31         9 34       10 34       11 34        12 34       13 34       14 34
+                      Afsluitdijk, Kop Afsluitdijk               A          6 40        7 40        8 40         9 43       10 43       11 43        12 43       13 43       14 43
+Maandag t/m vrijdag
+                      Afsluitdijk, Kop Afsluitdijk               V          6 41        7 41        8 41         9 44       10 44       11 44        12 44       13 44       14 44
+                      Leeuwarden, Busstation                     A          7 08        8 15        9 15        10 16       11 16       12 16        13 21       14 26       15 38
+                                                       Ritnummer b         4043 b      4047 b       4051 b      4055 b      4059         1063        1067         1071
+                      Alkmaar, Station                           V        14 26        15 24       16 19        17 19       18 27       19 30        20 30       21 30
+                      Alkmaar, Kanaalkade                                 14 29        15 27       16 22        17 22       18 30       19 32        20 32       21 32
+                      Heerhugowaard, Broekerweg                           14 39        15 39       16 35        17 35       18 40       19 41        20 41       21 41
+                      Heerhugowaard, Sluis                                14 44        15 44       16 42        17 42       18 45       19 45        20 45       21 45
+                      Heerhugowaard, Smuigelweg                           14 46        15 46       16 45        17 45       18 47       19 47        20 47       21 47
+                      Heerhugowaard, Verlaat                              14 48        15 48       16 47        17 47       18 49       19 49        20 49       21 49
+                      Nieuwe Niedorp, Transferium                         14 52        15 52       16 52        17 52       18 53       19 53        20 53       21 53
+                      Middenmeer, Alkmaarseweg                            15 00        16 00       17 00        18 00       19 01       20 01        21 01       22 01
+                      Wieringerwerf, Motel                                15 06        16 06       17 06        18 06       19 06       20 06        21 06       22 06
+                      Den Oever, Busstation                      A        15 15        16 15       17 15        18 15       19 15       20 15        21 15       22 15
+                      Den Oever, Busstation                      V        15 16        16 16       17 16        18 16       19 16       20 16        21 16       22 16
+                      Afsluitdijk, Kornwerderzand                         15 34        16 34       17 34        18 34       19 33       20 33        21 33       22 33
+                      Afsluitdijk, Kop Afsluitdijk               A        15 43        16 43       17 43        18 43       19 42       20 42        21 42       22 42
+                      Afsluitdijk, Kop Afsluitdijk               V        15 44        16 44       17 44        18 44       19 43       20 43        21 43       22 43
+                      Leeuwarden, Busstation                     A        16 48        17 48       18 46        19 36       20 25       21 10        22 10       23 10
+                      b   Indien door vertraging op de Afsluitdijk (op donderdag en vrijdag) de aansluiting op lijn 71 niet gehaald kan worden, rijdt lijn 350 voor uitstappers via
+                          Harlingen, Station.
+Van Leeuwarden naar Alkmaar                                                                          Lijn 350b
+                                                                                   in de vakanties    Maandag t/m vrijdag
+                               Ritnummer   1004    1008     1012   1016    1020       1024           1028    1032     1036
+Leeuwarden, Busstation                V     6 11    7 11    8 13    9 15   10 15     11 15       12 15      13 15    14 15
+Afsluitdijk, Kop Afsluitdijk          A     6 39    7 39    8 42    9 42   10 42     11 42       12 42      13 42    14 42
+Afsluitdijk, Kop Afsluitdijk          V     6 40    7 40    8 43    9 43   10 43     11 43       12 43      13 43    14 43
+Afsluitdijk, Kornwerderzand                 6 44    7 44    8 47    9 47   10 47     11 47       12 47      13 47    14 47
+Den Oever, Busstation                 A     7 12    8 12    9 15   10 15   11 15     12 15       13 15      14 15    15 15
+Den Oever, Busstation                 V     7 13    8 13    9 16   10 16   11 16     12 16       13 16      14 16    15 16
+Wieringerwerf, Motel                        7 20    8 20    9 23   10 23   11 23     12 23       13 23      14 23    15 23
+Middenmeer, Alkmaarseweg                    7 26    8 25    9 28   10 28   11 28     12 28       13 28      14 28    15 28
+Nieuwe Niedorp, Transferium                 7 36    8 34    9 37   10 37   11 37     12 37       13 37      14 37    15 37
+Heerhugowaard, Verlaat                      7 40    8 38    9 41   10 41   11 41     12 41       13 41      14 41    15 41
+Heerhugowaard, Smuigelweg                   7 43    8 40    9 43   10 43   11 43     12 43       13 43      14 43    15 43
+Heerhugowaard, Sluis                        7 45    8 42    9 45   10 45   11 45     12 45       13 45      14 45    15 45
+Heerhugowaard, Broekerweg                   7 51    8 47    9 50   10 50   11 50     12 50       13 50      14 50    15 50
+                                                                                                                             Maandag t/m vrijdag
+Alkmaar, Kanaalkade                         8 04    9 00   10 03   11 03   12 03     13 03       14 04      15 04    16 03
+Alkmaar, Station                      A     8 08    9 03   10 06   11 06   12 06     13 06       14 08      15 08    16 07
+                               Ritnummer   1040    1044    1048    1052    1056       1060           1064    1068
+Leeuwarden, Busstation                V    15 15   16 14   17 14   18 18   19 19     20 19       21 19      22 19
+Afsluitdijk, Kop Afsluitdijk          A    15 42   16 42   17 42   18 45   19 46     20 46       21 46      22 46
+Afsluitdijk, Kop Afsluitdijk          V    15 43   16 43   17 43   18 46   19 47     20 47       21 47      22 47
+Afsluitdijk, Kornwerderzand                15 47   16 47   17 47   18 50   19 51     20 51       21 51      22 51
+Den Oever, Busstation                 A    16 15   17 15   18 15   19 15   20 15     21 15       22 15      23 15
+Den Oever, Busstation                 V    16 16   17 16   18 16   19 16   20 16     21 16       22 16      23 16
+Wieringerwerf, Motel                       16 23   17 23   18 23   19 23   20 23     21 23       22 23      23 23
+Middenmeer, Alkmaarseweg                   16 28   17 28   18 28   19 28   20 28     21 28       22 28      23 28
+Nieuwe Niedorp, Transferium                16 36   17 36   18 36   19 36   20 36     21 36       22 36      23 36
+Heerhugowaard, Verlaat                     16 40   17 40   18 40   19 40   20 40     21 39       22 39      23 39
+Heerhugowaard, Smuigelweg                  16 42   17 42   18 42   19 42   20 42     21 41       22 41      23 41
+Heerhugowaard, Sluis                       16 44   17 44   18 44   19 44   20 44     21 43       22 43      23 43
+Heerhugowaard, Broekerweg                  16 49   17 49   18 49   19 49   20 49     21 47       22 47      23 47
+Alkmaar, Kanaalkade                        17 01   18 01   18 59   19 59   20 58     21 55       22 55      23 55
+Alkmaar, Station                      A    17 05   18 05   19 02   20 02   21 01     21 58       22 58      23 57
+                      Lijn 517a                                                                            Van Wolvega via De Blesse naar Steenwijk
+                      Lijn 519a                                                                      Van Wolvega via Oldeberkoop naar Steenwijk
+                       Maandag t/m vrijdag in de vakanties
+                                                      Lijnnummer           519         517         519         517         519
+                                                      Ritnummer b         1059 b      1063 b      1067 b      1071 b      1075
+                      Wolvega, Station                        V          18 56       19 56       20 56       21 56       22 56
+                      Wolvega, Om den Noort                              18 57         |         20 57         |         22 57
+                      Oldeholtpade, Oldeholtpade Prov. weg               19 02         |         21 02         |         23 02
+                      Nijeholtpade, Nijeholtpade Prov. weg               19 04         |         21 04         |         23 04
+                      Oldeberkoop, Oldeberkoop Provinciale weg           19 08         |         21 08         |         23 08
+                      Zandhuizen, Zandhuizerweg                          19 11         |         21 11         |         23 11
+                      De Blesse, Noord                                     |         20 01         |         22 01         |
+                      Peperga, Kerk                                        |         20 03         |         22 03         |
+                      Steggerda, Mulderstraat                              |         20 05         |         22 05         |
+Maandag t/m vrijdag
+                      Vinkega, Schoollaan                                  |         20 08         |         22 08         |
+                      Noordwolde, Vlechtmuseum                A          19 14       20 13       21 14       22 13       23 14
+                      Noordwolde, Vlechtmuseum                  V        19 16       20 15       21 16       22 15
+                      Noordwolde-Zuid, Zuiderweg                         19 20       20 19       21 20       22 19
+                      Wilhelminaoord, De Menning                         19 23       20 22       21 23       22 22
+                      Frederiksoord, Beukenlaan                          19 26       20 25       21 26       22 25
+                      Nijensleek, Schoolweg                              19 28       20 27       21 28       22 27
+                      Eesveen, De Eese                                   19 31       20 30       21 31       22 30
+                      Steenwijk, Station                        A        19 37       20 36       21 37       22 36
+                      b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+Van Steenwijk naar Wolvega via De Blesse                                                                                      Lijn 517b
+Van Steenwijk naar Wolvega via Oldeberkoop                                                                                    Lijn 519b
+                                                                                                            in de vakanties   Maandag t/m vrijdag
+                                Lijnnummer           519         517         519         517         519
+                                Ritnummer b         1064 b     1068 b       1072 b      1076 b     1080
+Steenwijk, Station                        V                    19 52       20 51       21 52       22 51
+Eesveen, De Eese                                               19 59       20 58       21 59       22 58
+Nijensleek, Schoolweg                                          20 02       21 01       22 02       23 01
+Frederiksoord, Beukenlaan                                      20 04       21 03       22 04       23 03
+Wilhelminaoord, De Menning                                     20 08       21 07       22 08       23 07
+Noordwolde-Zuid, Zuiderweg                                     20 11       21 10       22 11       23 10
+Noordwolde, Vlechtmuseum                  A                    20 14       21 13       22 14       23 13
+Noordwolde, Vlechtmuseum                V          19 15       20 16       21 15       22 16       23 15
+Zandhuizen, Zandhuizerweg                          19 18         |         21 18         |         23 18
+                                                                                                                                                          Maandag t/m vrijdag
+Oldeberkoop, Oldeberkoop Provinciale weg           19 21         |         21 21         |         23 21
+Nijeholtpade, Nijeholtpade Prov. weg               19 25         |         21 24         |         23 24
+Oldeholtpade, Oldeholtpade Prov. weg               19 28         |         21 27         |         23 27
+Wolvega, Om den Noort                              19 32         |         21 31         |         23 31
+Vinkega, Schoollaan                                  |         20 20         |         22 20         |
+Steggerda, Mulderstraat                              |         20 24         |         22 24         |
+Peperga, Kerk                                        |         20 26         |         22 26         |
+De Blesse, Noord                                     |         20 29         |         22 29         |
+Wolvega, Station                        A          19 34       20 35       21 33       22 35       23 33
+b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+                      Lijn 573                                                                                              Van Stiens naar Oudebildtzijl vv
+                       Maandag t/m vrijdag in de vakanties
+                                                      Ritnummer b        1003 b      1007 b       1011 b      1035 b      1039 b      1043 b      1047
+                      Stiens, Wythusterwei                      V         6 32        7 32        8 40       15 08       16 10       17 10       18 10
+                      Stiens, Nije Poarte                                 6 34        7 34        8 42       15 10       16 12       17 12       18 12
+                      Vrouwbuurtstermolen,                                6 38        7 38        8 46       15 14       16 16       17 16       18 16
+                      Vrouwenparochie, Vrouwenparochie                    6 39        7 39        8 47         |           |           |           |
+                      Sint Annaparochie, Gemeentehuis                     6 44        7 44        8 52         |           |           |           |
+                      Nij Altoenae, Stadhoudersweg                        6 48        7 48        8 56         |           |           |           |
+                      Oudebildtzijl, De Kolk                              6 56        7 56        9 04         |           |           |           |
+                      Alde Leie, Brug                                     7 01        8 01        9 09         |           |           |           |
+                      Alde Leie, Brug                                      |           |           |         15 16       16 18       17 18       18 18
+                      Oudebildtzijl, De Kolk                               |           |           |         15 23       16 25       17 25       18 25
+                      Nij Altoenae, Stadhoudersweg                         |           |           |         15 31       16 33       17 33       18 33
+                      Sint Annaparochie, Gemeentehuis                      |           |           |         15 35       16 37       17 37       18 37
+                      Vrouwenparochie, Vrouwenparochie                     |           |           |         15 40       16 42       17 42       18 42
+Maandag t/m vrijdag
+                      Vrouwbuurtstermolen,                                7 04        8 04        9 12       15 41       16 43       17 43       18 43
+                      Stiens, Nije Poarte                                 7 08        8 08        9 16       15 45       16 47       17 47       18 47
+                      Stiens, Wythusterwei                      A         7 11        8 11        9 19       15 48       16 50       17 50       18 50

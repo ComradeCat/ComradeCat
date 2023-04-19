@@ -1,0 +1,200 @@
+           Sint Nicolaasga, Centrum                     9 55   10 55   11 55   12 55   13 55   14 55   15 55   16 55   17 55
+           Sint Nicolaasga, Huisterheide                9 58   10 58   11 58   12 58   13 58   14 58   15 58   16 58   17 58
+           Scharsterbrug, Schoolstraat                 10 01   11 01   12 01   13 01   14 01   15 01   16 01   17 01   18 01
+           Joure, Scheen                               10 06   11 06   12 06   13 06   14 06   15 06   16 06   17 06   18 06
+           Joure, Busstation                           10 09   11 09   12 09   13 09   14 09   15 09   16 09   17 09   18 09
+           Heerenveen, Oost (A32)                      10 17   11 17   12 17   13 17   14 17   15 17   16 17   17 17   18 17
+           Heerenveen, Busstation                 A    10 20   11 20   12 20   13 20   14 20   15 20   16 20   17 20   18 20
+                                           Ritnummer   6039    6043    6047
+           Balk, Harich Rotonde                   V    18 31   19 31   20 31
+           Balk, Meineszleane                          18 36   19 36   20 36
+           Wijckel, Hervormde Kerk                     18 40   19 40   20 40
+           Sloten, Sloten                              18 43   19 43   20 43
+           Tjerkgaast, Tjerkgaast                      18 46   19 46   20 46
+           Spannenburg, Spannenburg               A    18 49   19 49   20 49
+           Spannenburg, Spannenburg               V    18 49   19 49   20 49
+Zaterdag
+           Sint Nicolaasga, Centrum                    18 55   19 55   20 55
+           Sint Nicolaasga, Huisterheide               18 58   19 58   20 58
+           Scharsterbrug, Schoolstraat                 19 01   20 01   21 01
+           Joure, Scheen                               19 06   20 06   21 06
+           Joure, Busstation                           19 09   20 09   21 09
+           Heerenveen, Oost (A32)                      19 17   20 17   21 17
+           Heerenveen, Busstation                 A    19 20   20 20   21 20
+Van Heerenveen naar Balk                                                                            Lijn 41b
+                                                                                                     Zaterdag
+                                Ritnummer   6004    6008    6012    6016    6020    6024    6028      6032      6036
+Heerenveen, Busstation                 V    10 38   11 38   12 38   13 39   14 39   15 39   16 39     17 39     18 39
+Heerenveen, Oost (A32)                      10 40   11 40   12 40   13 41   14 41   15 41   16 41     17 41     18 41
+Joure, Busstation                           10 51   11 51   12 51   13 52   14 52   15 52   16 52     17 52     18 52
+Joure, Scheen                               10 54   11 54   12 54   13 55   14 55   15 55   16 55     17 55     18 55
+Scharsterbrug, Schoolstraat                 10 59   11 59   12 59   14 00   15 00   16 00   17 00     18 00     19 00
+Sint Nicolaasga, Huisterheide               11 02   12 02   13 02   14 03   15 03   16 03   17 03     18 03     19 03
+Sint Nicolaasga, Centrum                    11 05   12 05   13 05   14 06   15 06   16 06   17 06     18 06     19 06
+Spannenburg, Spannenburg               A    11 11   12 11   13 11   14 12   15 12   16 12   17 12     18 12     19 12
+Spannenburg, Spannenburg               V    11 11   12 11   13 11   14 12   15 12   16 12   17 12     18 12     19 12
+Tjerkgaast, Tjerkgaast                      11 14   12 14   13 14   14 15   15 15   16 15   17 15     18 15     19 15
+Sloten, Sloten                              11 17   12 17   13 17   14 18   15 18   16 18   17 18     18 18     19 18
+Wijckel, Hervormde Kerk                     11 20   12 20   13 20   14 21   15 21   16 21   17 21     18 21     19 21
+Balk, Meineszleane                          11 24   12 24   13 24   14 25   15 25   16 25   17 25     18 25     19 25
+Balk, Harich Rotonde                   A    11 29   12 29   13 29   14 30   15 30   16 30   17 30     18 30     19 30
+                                Ritnummer   6040    6044    6048
+Heerenveen, Busstation                 V    19 39   20 39   21 39
+Heerenveen, Oost (A32)                      19 41   20 41   21 41
+Joure, Busstation                           19 52   20 52   21 52
+Joure, Scheen                               19 55   20 55   21 55
+Scharsterbrug, Schoolstraat                 20 00   21 00   22 00
+Sint Nicolaasga, Huisterheide               20 03   21 03   22 03
+Sint Nicolaasga, Centrum                    20 06   21 06   22 06
+                                                                                                                        Zaterdag
+Spannenburg, Spannenburg               A    20 12   21 12   22 12
+Spannenburg, Spannenburg               V    20 12   21 12   22 12
+Tjerkgaast, Tjerkgaast                      20 15   21 15   22 15
+Sloten, Sloten                              20 18   21 18   22 18
+Wijckel, Hervormde Kerk                     20 21   21 21   22 21
+Balk, Meineszleane                          20 25   21 25   22 25
+Balk, Harich Rotonde                   A    20 30   21 30   22 30
+           Lijn 544a                                                                                                      Van Bolsward naar Sondel
+                   Zaterdag
+                                           Ritnummer b        6203 b      6207 b       6211 b      6215 b      6219 b      6223 b      6227 b      6231 b      6235
+           Bolsward, Busstation Twibaksdyk           V         8 48        9 48       10 48       11 48       12 48       13 48       14 48       15 48       16 48
+           Tjerkwerd, Tjerkwerd                                8 53        9 53       10 53       11 53       12 53       13 53       14 53       15 53       16 53
+           Parrega, Parrega Provinciale weg                    8 56        9 56       10 56       11 56       12 56       13 56       14 56       15 56       16 56
+           Workum, Station                           A         9 02       10 02       11 02       12 02       13 02       14 02       15 02       16 02       17 02
+           Workum, Station                           V         9 04       10 04       11 04       12 04       13 04       14 04       15 04       16 04       17 04
+           Workum, Hearewei                                    9 07       10 07       11 07       12 07       13 07       14 07       15 07       16 07       17 07
+           Hindeloopen, Hindeloopen Hoek                       9 13       10 13       11 13       12 13       13 13       14 13       15 13       16 13       17 13
+           Koudum, Chr. Scholengemeenschap                     9 16       10 16       11 16       12 16       13 16       14 16       15 16       16 16       17 16
+           Koudum, Centrum                                     9 17       10 17       11 17       12 17       13 17       14 17       15 17       16 17       17 17
+           Koudum, Galamadammen                                9 19       10 19       11 19       12 19       13 19       14 19       15 19       16 19       17 19
+           Hemelum, Flinkeboskje                               9 22       10 22       11 22       12 22       13 22       14 22       15 22       16 22       17 22
+           Hemelum, Nijbuorren                                 9 24       10 24       11 24       12 24       13 24       14 24       15 24       16 24       17 24
+           Bakhuizen, Bakhuizen                                9 26       10 26       11 26       12 26       13 26       14 26       15 26       16 26       17 26
+           Mirns, Mirns                                        9 28       10 28       11 28       12 28       13 28       14 28       15 28       16 28       17 28
+           Rijs, Hotel Jans                                    9 31       10 31       11 31       12 31       13 31       14 31       15 31       16 31       17 31
+           Oudemirdum, Oudemirdum                              9 35       10 35       11 35       12 35       13 35       14 35       15 35       16 35       17 35
+           Nijemirdum, Nijemirdum                              9 39       10 39       11 39       12 39       13 39       14 39       15 39       16 39       17 39
+           Sondel, Sondel                                      9 42       10 42       11 42       12 42       13 42       14 42       15 42       16 42       17 42
+           Sondel, De Vinkebuorren                   A         9 44       10 44       11 44       12 44       13 44       14 44       15 44       16 44       17 44
+                                           Ritnummer b         6239
+           Bolsward, Busstation Twibaksdyk           V        17 48
+           Tjerkwerd, Tjerkwerd                               17 53
+Zaterdag
+           Parrega, Parrega Provinciale weg                   17 56
+           Workum, Station                           A        18 02
+           Workum, Station                           V        18 04
+           Workum, Hearewei                                   18 07
+           Hindeloopen, Hindeloopen Hoek                      18 13
+           Koudum, Chr. Scholengemeenschap                    18 16
+           Koudum, Centrum                                    18 17
+           Koudum, Galamadammen                               18 19
+           Hemelum, Flinkeboskje                              18 22
+           Hemelum, Nijbuorren                                18 24
+           Bakhuizen, Bakhuizen                               18 26
+           Mirns, Mirns                                       18 28
+           Rijs, Hotel Jans                                   18 31
+           Oudemirdum, Oudemirdum                             18 35
+           Nijemirdum, Nijemirdum                             18 39
+           Sondel, Sondel                                     18 42
+           Sondel, De Vinkebuorren                   A        18 44
+           b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+               één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+Van Sondel naar Bolsward                                                                                                      Lijn 544b
+                                                                                                                                     Zaterdag
+                                Ritnummer b        6004 b      6008 b       6012 b      6016 b     6020 b      6024 b      6028 b      6032 b      6036
+Sondel, De Vinkebuorren                   V         8 47        9 47       10 47       11 47       12 47       13 47       14 47       15 47       16 47
+Sondel, Sondel                                      8 49        9 49       10 49       11 49       12 49       13 49       14 49       15 49       16 49
+Nijemirdum, Nijemirdum                              8 52        9 52       10 52       11 52       12 52       13 52       14 52       15 52       16 52
+Oudemirdum, Oudemirdum                              8 56        9 56       10 56       11 56       12 56       13 56       14 56       15 56       16 56
+Rijs, Hotel Jans                                    9 00       10 00       11 00       12 00       13 00       14 00       15 00       16 00       17 00
+Mirns, Mirns                                        9 03       10 03       11 03       12 03       13 03       14 03       15 03       16 03       17 03
+Bakhuizen, Bakhuizen                                9 05       10 05       11 05       12 05       13 05       14 05       15 05       16 05       17 05
+Hemelum, Nijbuorren                                 9 07       10 07       11 07       12 07       13 07       14 07       15 07       16 07       17 07
+Hemelum, Flinkeboskje                               9 09       10 09       11 09       12 09       13 09       14 09       15 09       16 09       17 09
+Koudum, Galamadammen                                9 12       10 12       11 12       12 12       13 12       14 12       15 12       16 12       17 12
+Koudum, Centrum                                     9 14       10 14       11 14       12 14       13 14       14 14       15 14       16 14       17 14
+Koudum, Chr. Scholengemeenschap                     9 15       10 15       11 15       12 15       13 15       14 15       15 15       16 15       17 15
+Hindeloopen, Hindeloopen Hoek                       9 18       10 18       11 18       12 18       13 18       14 18       15 18       16 18       17 18
+Workum, Hearewei                                    9 24       10 24       11 24       12 24       13 24       14 24       15 24       16 24       17 24
+Workum, Station                           A         9 26       10 26       11 26       12 26       13 26       14 26       15 26       16 26       17 26
+Workum, Station                           V         9 27       10 27       11 27       12 27       13 27       14 27       15 27       16 27       17 27
+Parrega, Parrega Provinciale weg                    9 32       10 32       11 32       12 32       13 32       14 32       15 32       16 32       17 32
+Tjerkwerd, Tjerkwerd                                9 35       10 35       11 35       12 35       13 35       14 35       15 35       16 35       17 35
+Bolsward, Kloosterlaan                              9 40       10 40       11 40       12 40       13 40       14 40       15 40       16 40       17 40
+Bolsward, Bargefenne                                9 45       10 45       11 45       12 45       13 45       14 45       15 45       16 45       17 45
+Bolsward, Busstation Twibaksdyk           A         9 47       10 47       11 47       12 47       13 47       14 47       15 47       16 47       17 47
+                                Ritnummer b        6040
+                                                                                                                                                           Zaterdag
+Sondel, De Vinkebuorren                   V        17 47
+Sondel, Sondel                                     17 49
+Nijemirdum, Nijemirdum                             17 52
+Oudemirdum, Oudemirdum                             17 56
+Rijs, Hotel Jans                                   18 00
+Mirns, Mirns                                       18 03
+Bakhuizen, Bakhuizen                               18 05
+Hemelum, Nijbuorren                                18 07
+Hemelum, Flinkeboskje                              18 09
+Koudum, Galamadammen                               18 12
+Koudum, Centrum                                    18 14
+Koudum, Chr. Scholengemeenschap                    18 15
+Hindeloopen, Hindeloopen Hoek                      18 18
+Workum, Hearewei                                   18 24
+Workum, Station                           A        18 26
+Workum, Station                           V        18 27
+Parrega, Parrega Provinciale weg                   18 32
+Tjerkwerd, Tjerkwerd                               18 35
+Bolsward, Kloosterlaan                             18 40
+Bolsward, Bargefenne                               18 45
+Bolsward, Busstation Twibaksdyk           A        18 47
+b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+           Lijn 47a                                                               Van Sneek via Balk naar Lemmer
+                  Zaterdag
+                                      Ritnummer   6003    6007    6011    6015    6019    6023    6027    6031    6035
+           Sneek, Busstation                 V     7 46    8 46    9 46   10 46   11 46   12 46   13 46   14 46   15 46
+           Sneek, Prins Hendrikkade                7 48    8 48    9 48   10 48   11 48   12 48   13 48   14 48   15 48
+           Sneek, Oosterdijk                       7 50    8 50    9 50   10 50   11 50   12 50   13 50   14 50   15 50
+           Sneek, Frieswijkstraat                  7 52    8 52    9 52   10 52   11 52   12 52   13 52   14 52   15 52
+           Jutrijp, Jutrijp                        7 56    8 56    9 56   10 56   11 56   12 56   13 56   14 56   15 56
+           Hommerts, Weg naar Heeg                 7 58    8 58    9 58   10 58   11 58   12 58   13 58   14 58   15 58
+           Woudsend, Wellebrug                     8 03    9 03   10 03   11 03   12 03   13 03   14 03   15 03   16 03
+           Woudsend, Centrum                       8 05    9 05   10 05   11 05   12 05   13 05   14 05   15 05   16 05
+           Ypecolsgea, Waterloo                    8 09    9 09   10 09   11 09   12 09   13 09   14 09   15 09   16 09
+           Balk, Harich Rotonde                    8 13    9 13   10 13   11 13   12 13   13 13   14 13   15 13   16 13
+           Balk, Meineszleane                      8 18    9 18   10 18   11 18   12 18   13 18   14 18   15 18   16 18
+           Sondel, De Vinkebuorren                 8 23    9 23   10 23   11 23   12 23   13 23   14 23   15 23   16 23
+           Lemmer, Urkerstraat                     8 31    9 31   10 31   11 31   12 31   13 31   14 31   15 31   16 31
+           Lemmer, Busstation                A     8 36    9 36   10 36   11 36   12 36   13 36   14 36   15 36   16 36
+                                      Ritnummer   6039    6043    6047    6051    6055    6059    6063    6067
+           Sneek, Busstation                 V    16 46   17 46   18 46   19 46   20 46   21 46   22 46   23 46
+           Sneek, Prins Hendrikkade               16 48   17 48   18 48   19 48   20 48   21 48   22 48   23 48
+           Sneek, Oosterdijk                      16 50   17 50   18 50   19 50   20 50   21 50   22 50   23 50
+           Sneek, Frieswijkstraat                 16 52   17 52   18 52   19 52   20 52   21 52   22 52   23 52
+           Jutrijp, Jutrijp                       16 56   17 56   18 56   19 56   20 56   21 56   22 56   23 56
+           Hommerts, Weg naar Heeg                16 58   17 58   18 58   19 58   20 58   21 58   22 58   23 58
+           Woudsend, Wellebrug                    17 03   18 03   19 03   20 03   21 03   22 03   23 03    0 03
+Zaterdag
+           Woudsend, Centrum                      17 05   18 05   19 05   20 05   21 05   22 05   23 05    0 05
+           Ypecolsgea, Waterloo                   17 09   18 09   19 09   20 09   21 09   22 09   23 09    0 09
+           Balk, Harich Rotonde                   17 13   18 13   19 13   20 13   21 13   22 13   23 13    0 13
+           Balk, Meineszleane                A    17 18   18 18   19 18   20 18   21 18   22 18   23 18    0 18
+           Sondel, De Vinkebuorren                17 23   18 23   19 23   20 23   21 23   22 23   23 23
+           Lemmer, Urkerstraat                    17 31   18 31   19 31   20 31   21 31   22 31   23 31
+           Lemmer, Busstation                A    17 36   18 36   19 36   20 36   21 36   22 36   23 36
+Van Lemmer naar Sneek via Balk                                                                 Lijn 47b
+                                                                                                Zaterdag
+                           Ritnummer   6004    6008    6012    6016    6020    6024    6028      6032      6036
+Lemmer, Busstation                V     7 36    8 36    9 36   10 36   11 36   12 36   13 36     14 36     15 36
+Lemmer, Urkerstraat                     7 39    8 39    9 39   10 39   11 39   12 39   13 39     14 39     15 39
+Sondel, De Vinkebuorren                 7 48    8 48    9 48   10 48   11 48   12 48   13 48     14 48     15 48
+Balk, Meineszleane                      7 53    8 53    9 53   10 53   11 53   12 53   13 53     14 53     15 53
+Balk, Harich Rotonde                    7 58    8 58    9 58   10 58   11 58   12 58   13 58     14 58     15 58
+Ypecolsgea, Waterloo                    8 01    9 01   10 01   11 01   12 01   13 01   14 01     15 01     16 01
+Woudsend, Centrum                       8 05    9 05   10 05   11 05   12 05   13 05   14 05     15 05     16 05
+Woudsend, Wellebrug                     8 07    9 07   10 07   11 07   12 07   13 07   14 07     15 07     16 07
+Hommerts, Weg naar Heeg                 8 13    9 13   10 13   11 13   12 13   13 13   14 13     15 13     16 13
+Jutrijp, Jutrijp                        8 15    9 15   10 15   11 15   12 15   13 15   14 15     15 15     16 15
+Sneek, Frieswijkstraat                  8 20    9 20   10 20   11 20   12 20   13 20   14 20     15 20     16 20
+Sneek, Oosterdijk                       8 22    9 22   10 22   11 22   12 22   13 22   14 22     15 22     16 22
+Sneek, Prins Hendrikkade                8 23    9 23   10 23   11 23   12 23   13 23   14 23     15 23     16 23
+Sneek, Busstation                 A     8 26    9 26   10 26   11 26   12 27   13 27   14 27     15 27     16 27

@@ -1,0 +1,200 @@
+Huns, Huns Provinciale weg                 15 10   15 40   16 10   16 40   17 10     17 41       18 11      18 41    19 41
+Winsum, Busstation                         15 14   15 44   16 14   16 44   17 14     17 45       18 15      18 45    19 45
+Spannum, Laekwerterwei                     15 17   15 47   16 17   16 47   17 17     17 48       18 18      18 48    19 48
+Wommels, Provinciale weg                   15 21   15 51   16 21   16 51   17 21     17 52       18 22      18 52    19 52
+Burgwerd, Burgwerderhoek                   15 24   15 54   16 24   16 54   17 24     17 55       18 25      18 55    19 55
+Bolsward, Ugolaan                          15 28   15 58   16 28   16 58   17 28     17 59       18 29      18 59    19 59
+Bolsward, Bargefenne                       15 32   16 02   16 32   17 02   17 32     18 03       18 33      19 03    20 03
+Bolsward, Busstation Twibaksdyk       A    15 37   16 07   16 37   17 07   17 37     18 07       18 37      19 06    20 06
+                               Ritnummer    1120    1128    1136    1144
+Leeuwarden, Busstation                V    20 29   21 29   22 29   23 30
+Leeuwarden, Snekertrekweg                  20 31   21 31   22 31   23 32
+Boksum, Boksum Provinciale weg             20 37   21 37   22 37   23 38
+Hilaard, Hilaard Provinciale weg           20 39   21 39   22 39   23 40
+Huns, Huns Provinciale weg                 20 41   21 41   22 41   23 42
+Winsum, Busstation                         20 45   21 45   22 45   23 45
+Spannum, Laekwerterwei                     20 48   21 48   22 48   23 48
+Wommels, Provinciale weg                   20 52   21 52   22 52   23 52
+Burgwerd, Burgwerderhoek                   20 55   21 55   22 55   23 55
+Bolsward, Ugolaan                          20 59   21 59   22 59   23 59
+Bolsward, Bargefenne                       21 03   22 03   23 03    0 03
+Bolsward, Busstation Twibaksdyk       A    21 06   22 06   23 06    0 06
+                      Lijn 594a                                                                                                        Van Sneek naar Reduzum
+                       Maandag t/m vrijdag in de vakanties
+                                                      Ritnummer b        1003 b      1007 b       1011 b      1031 b      1035 b      1039 b      1043 b      1047 b      1051
+                      Sneek, Busstation                      V            6 00        7 06        8 08       13 12       14 10       15 11       16 11       17 11       18 09
+                      Sneek, Prins Hendrikkade                            6 02        7 08        8 10       13 14       14 12       15 13       16 13       17 13       18 11
+                      Scharnegoutum, Rotonde Provinciale weg              6 08        7 14        8 16       13 20       14 18       15 19       16 19       17 19       18 17
+                      Goënga, It Mediel                                   6 11        7 17        8 19       13 23       14 21       15 22       16 22       17 22       18 20
+                      Gauw, De Eker                                       6 14        7 20        8 22       13 26       14 24       15 25       16 25       17 25       18 23
+                      Sibrandabuorren, Beekhuisstraat                     6 18        7 24        8 26       13 30       14 28       15 29       16 29       17 29       18 27
+                      Tersoal, Westerein                                  6 19        7 26        8 27       13 31       14 30       15 30       16 30       17 30       18 28
+                      Poppenwier, Poppenwier                              6 22        7 29        8 30       13 34       14 33       15 33       16 33       17 33       18 31
+                      Raerd, Selanswei                                    6 25        7 32        8 33       13 37       14 36       15 36       16 36       17 36       18 34
+                      Reduzum, Blauwe Tent                   A            6 30        7 37        8 38       13 42       14 41       15 41       16 41       17 41       18 39
+                      b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+Maandag t/m vrijdag
+Van Reduzum naar Sneek                                                                                                          Lijn 594b
+                                                                                                             in de vakanties    Maandag t/m vrijdag
+                                Ritnummer b        1004 b      1008 b       1012 b      1032 b      1036 b      1040 b         1044 b   1048 b      1052
+Reduzum, Blauwe Tent                   V            6 49        7 41        8 49       13 48       14 49       15 49       16 49        17 49      18 49
+Raerd, Selanswei                                    6 53        7 47        8 53       13 52       14 53       15 53       16 53        17 53      18 53
+Poppenwier, Poppenwier                              6 56        7 50        8 56       13 55       14 56       15 56       16 56        17 56      18 56
+Tersoal, Westerein                                  6 59        7 53        8 59       13 58       14 59       15 59       16 59        17 59      18 59
+Sibrandabuorren, Beekhuisstraat                     7 00        7 54        9 00       13 59       15 00       16 00       17 00        18 00      19 00
+Gauw, De Eker                                       7 04        7 58        9 04       14 03       15 04       16 04       17 04        18 04      19 04
+Goënga, It Mediel                                   7 07        8 01        9 07       14 06       15 07       16 07       17 07        18 07      19 07
+Scharnegoutum, Rotonde Provinciale weg              7 10        8 04        9 10       14 09       15 10       16 10       17 10        18 10      19 10
+Sneek, Prins Hendrikkade                            7 16        8 10        9 16       14 15       15 16       16 16       17 16        18 16      19 16
+Sneek, Busstation                      A            7 19        8 14        9 20       14 18       15 20       16 20       17 20        18 19      19 19
+b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                                                                                                                                                           Maandag t/m vrijdag
+    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+                      Lijn 95a                                                                          Van Heerenveen via Joure naar Leeuwarden
+                       Maandag t/m vrijdag in de vakanties
+                                                       Ritnummer          1003         1011 b   1007       1019   1023    1027     1031   1035    1039
+                      Heerenveen, Busstation                     V         5 57                  6 56      7 56    8 57    9 57   10 57   11 57   12 57
+                      Heerenveen, Motel                                    6 00                  6 59      7 59    9 00   10 00   11 00   12 00   13 00
+                      Nijehaske, Nijehaske                                 6 05                  7 04      8 04    9 04   10 04   11 04   12 04   13 04
+                      Oudehaske, Badweg                                    6 08                  7 07      8 07    9 07   10 07   11 07   12 07   13 07
+                      Haskerhorne, Haskerhorne                             6 12                  7 11      8 11    9 11   10 11   11 11   12 11   13 11
+                      Joure, Busstation                          A         6 18                  7 17      8 17    9 17   10 17   11 17   12 17   13 17
+                      Joure, Busstation                          V         6 19        7 09                8 18    9 18   10 18   11 18   12 18   13 18
+                      Joure, De Merk                                       6 21        7 11                8 20    9 20   10 20   11 20   12 20   13 20
+                      Joure, Tolhûswei                                     6 25        7 15                8 24    9 24   10 24   11 24   12 24   13 24
+                      Snikzwaag, Snikzwaag                                 6 26        7 16                8 25    9 25   10 25   11 25   12 25   13 25
+                      Broek, Broek Noord                                   6 27        7 17                8 26    9 26   10 26   11 26   12 26   13 26
+                      Akmarijp, Akmarijp                                   6 29        7 19                8 28    9 28   10 28   11 28   12 28   13 28
+                      Terkaple, Terkaple                                   6 30        7 20                8 29    9 29   10 29   11 29   12 29   13 29
+Maandag t/m vrijdag
+                      Goingarijp, Goingarijp                               6 31        7 21                8 30    9 30   10 30   11 30   12 30   13 30
+                      Terherne, Gravinnewei                                6 34        7 25                8 33    9 33   10 33   11 33   12 33   13 33
+                      Akkrum, Meskenwier                                   6 38        7 29                8 37    9 37   10 37   11 37   12 37   13 37
+                      Jirnsum, Douwemastrjitte                             6 43        7 35                8 43    9 42   10 42   11 42   12 42   13 42
+                      Friens, Friens                                       6 46        7 38                8 46    9 45   10 45   11 45   12 45   13 45
+                      Reduzum, Blauwe Tent                                 6 48        7 40                8 48    9 47   10 47   11 47   12 47   13 47
+                      Reduzum, Reduzum                                     6 49        7 42                8 50    9 48   10 48   11 48   12 48   13 48
+                      Wytgaard, Wytgaard                                   6 53        7 46                8 54    9 52   10 52   11 52   12 52   13 52
+                      Wirdum, Wirdum Rijksweg                              6 57        7 50                8 58    9 56   10 56   11 56   12 56   13 56
+                      Leeuwarden, Techum                                   7 01        7 55                9 02   10 00   11 00   12 00   13 00   14 00
+                      Leeuwarden, Julianalaan                               |           |                   |       |       |     12 05   13 05   14 05
+                      Leeuwarden, Snekertrekweg                             |           |                   |       |       |     12 08   13 08   14 08
+                      Leeuwarden, Oostergoplein                            7 05        7 59                9 06   10 04   11 04     |       |       |
+                      Leeuwarden, Huizumerlaan                             7 09        8 04                9 09   10 07   11 07     |       |       |
+                      Leeuwarden, Busstation                     A         7 12        8 10                9 15   10 11   11 11   12 11   13 11   14 11
+                                                       Ritnummer          1043        1047      1051       1055   1059
+                      Heerenveen, Busstation                     V        13 56       14 57     15 57     16 57   17 58
+                      Heerenveen, Motel                                   13 59       15 00     16 00     17 00   18 01
+                      Nijehaske, Nijehaske                                14 04       15 04     16 04     17 04   18 05
+                      Oudehaske, Badweg                                   14 07       15 07     16 07     17 07   18 08
+                      Haskerhorne, Haskerhorne                            14 11       15 11     16 11     17 11   18 12
+                      Joure, Busstation                          A        14 17       15 17     16 17     17 17   18 18
+                      Joure, Busstation                          V        14 18       15 18     16 18     17 18   18 19
+                      Joure, De Merk                                      14 20       15 20     16 20     17 20   18 21
+                      Joure, Tolhûswei                                    14 24       15 24     16 24     17 24   18 25
+                      Snikzwaag, Snikzwaag                                14 25       15 25     16 25     17 25   18 26
+                      Broek, Broek Noord                                  14 26       15 26     16 26     17 26   18 27
+                      Akmarijp, Akmarijp                                  14 28       15 28     16 28     17 28   18 29
+                      Terkaple, Terkaple                                  14 29       15 29     16 29     17 29   18 30
+                      Goingarijp, Goingarijp                              14 30       15 30     16 30     17 30   18 31
+                      Terherne, Gravinnewei                               14 33       15 33     16 33     17 33   18 34
+                      Akkrum, Meskenwier                                  14 37       15 37     16 37     17 37   18 38
+                      Jirnsum, Douwemastrjitte                            14 43       15 43     16 43     17 43   18 44
+                      Friens, Friens                                      14 46       15 46     16 46     17 46   18 47
+                      Reduzum, Blauwe Tent                                14 48       15 48     16 48     17 48   18 49
+                      Reduzum, Reduzum                                    14 49       15 49     16 49     17 49   18 50
+                      Wytgaard, Wytgaard                                  14 53       15 53     16 53     17 53   18 54
+                      Wirdum, Wirdum Rijksweg                             14 58       15 58     16 58     17 57   18 58
+                      Leeuwarden, Techum                                  15 02       16 02     17 02     18 01   19 02
+                      Leeuwarden, Julianalaan                             15 07       16 07     17 07     18 06   19 07
+                      Leeuwarden, Snekertrekweg                           15 10       16 10     17 10     18 09   19 10
+                      Leeuwarden, Busstation                     A        15 15       16 15     17 15     18 11   19 12
+                      b   Rijdt na Joure door als lijn 99 naar Sneek, Bolsward en Harlingen.
+Van Leeuwarden naar Heerenveen via Joure                                                              Lijn 95b
+                                                                                in de vakanties    Maandag t/m vrijdag
+                            Ritnummer   1004    1008     1012   1014    1018       1022           1026    1030     1034
+Leeuwarden, Busstation             V                     6 09            7 15      8 15        9 17      10 17    11 17
+Leeuwarden, Snekertrekweg                                6 11            7 17      8 17        9 19      10 19    11 19
+Leeuwarden, Julianalaan                                  6 15            7 21      8 21        9 23      10 23    11 23
+Leeuwarden, Techum                                       6 19            7 25      8 26        9 28      10 28    11 28
+Wirdum, Wirdum Rijksweg                                  6 23            7 30      8 31        9 33      10 33    11 33
+Wytgaard, Wytgaard                                       6 27            7 34      8 35        9 37      10 37    11 37
+Reduzum, Reduzum                                         6 31            7 38      8 39        9 41      10 41    11 41
+Reduzum, Blauwe Tent                                     6 33            7 40      8 41        9 43      10 43    11 43
+Friens, Friens                                           6 34            7 41      8 42        9 44      10 44    11 44
+Jirnsum, Douwemastrjitte                                 6 37            7 44      8 45        9 47      10 47    11 47
+Akkrum, Meskenwier                                       6 42            7 49      8 50        9 52      10 52    11 52
+Terherne, Gravinnewei                                    6 47            7 54      8 55        9 57      10 57    11 57
+Goingarijp, Goingarijp                                   6 51            7 58      8 58       10 00      11 00    12 00
+                                                                                                                          Maandag t/m vrijdag
+Terkaple, Terkaple                                       6 52            7 59      8 59       10 01      11 01    12 01
+Akmarijp, Akmarijp                                       6 53            8 00      9 00       10 02      11 02    12 02
+Broek, Broek Noord                                       6 55            8 02      9 02       10 04      11 04    12 04
+Snikzwaag, Snikzwaag                                     6 56            8 03      9 03       10 05      11 05    12 05
+Joure, Tolhûswei                                         6 57            8 04      9 04       10 06      11 06    12 06
+Joure, De Merk                                           7 01            8 08      9 08       10 10      11 10    12 10
+Joure, Busstation                  A                     7 06            8 13      9 13       10 13      11 13    12 13
+Joure, Busstation                  V     6 05    6 35            7 07    8 13      9 13       10 13      11 13    12 13
+Haskerhorne, Haskerhorne                 6 10    6 40            7 12    8 18      9 18       10 18      11 18    12 18
+Oudehaske, Badweg                        6 14    6 44            7 16    8 22      9 22       10 22      11 22    12 22
+Nijehaske, Nijehaske                     6 16    6 46            7 18    8 24      9 24       10 24      11 24    12 24
+Heerenveen, Motel                        6 20    6 50            7 23    8 29      9 28       10 28      11 28    12 28
+Heerenveen, Busstation             A     6 25    6 55            7 28    8 34      9 33       10 32      11 32    12 32
+                            Ritnummer   1038    1042    1046    1050    1054       1058           1062
+Leeuwarden, Busstation             V    12 18   13 18   14 16   15 17   16 16     17 17       18 13
+Leeuwarden, Huizumerlaan                12 21   13 21   14 20   15 21   16 20     17 20       18 18
+Leeuwarden, Oostergoplein               12 24   13 24   14 23   15 24   16 23     17 23       18 21
+Leeuwarden, Techum                      12 28   13 28   14 27   15 28   16 27     17 27       18 25
+Wirdum, Wirdum Rijksweg                 12 33   13 33   14 32   15 33   16 32     17 32       18 30
+Wytgaard, Wytgaard                      12 37   13 37   14 36   15 37   16 36     17 36       18 34
+Reduzum, Reduzum                        12 41   13 41   14 40   15 41   16 40     17 40       18 38
+Reduzum, Blauwe Tent                    12 43   13 43   14 42   15 43   16 42     17 42       18 40
+Friens, Friens                          12 44   13 44   14 43   15 44   16 43     17 43       18 41
+Jirnsum, Douwemastrjitte                12 47   13 47   14 46   15 47   16 46     17 46       18 44
+Akkrum, Meskenwier                      12 52   13 52   14 51   15 52   16 51     17 51       18 49
+Terherne, Gravinnewei                   12 57   13 57   14 56   15 57   16 56     17 56       18 54
+Goingarijp, Goingarijp                  13 00   14 00   14 59   16 00   16 59     17 59       18 57
+Terkaple, Terkaple                      13 01   14 01   15 00   16 01   17 00     18 00       18 58
+Akmarijp, Akmarijp                      13 02   14 02   15 01   16 02   17 01     18 01       18 59
+Broek, Broek Noord                      13 04   14 04   15 03   16 04   17 03     18 03       19 01
+Snikzwaag, Snikzwaag                    13 05   14 05   15 04   16 05   17 04     18 04       19 02
+Joure, Tolhûswei                        13 06   14 06   15 05   16 06   17 05     18 05       19 03
+Joure, De Merk                          13 10   14 10   15 09   16 10   17 09     18 09       19 07
+Joure, Busstation                  A    13 13   14 13   15 13   16 13   17 13     18 13       19 10
+Joure, Busstation                  V    13 14   14 14   15 14   16 14   17 14     18 14
+Haskerhorne, Haskerhorne                13 19   14 19   15 19   16 19   17 19     18 19
+Oudehaske, Badweg                       13 23   14 23   15 23   16 23   17 23     18 23
+Nijehaske, Nijehaske                    13 25   14 25   15 25   16 25   17 25     18 25
+Heerenveen, Motel                       13 29   14 29   15 30   16 30   17 30     18 30
+Heerenveen, Busstation             A    13 33   14 34   15 35   16 35   17 35     18 35
+                      Lijn 96a                                                                                 Van Makkum naar Bolsward
+                       Maandag t/m vrijdag in de vakanties
+                                                      Ritnummer b       8003     8007   8011   8035    8039     8043    8047    8051
+                      Makkum, Camping Holle Poarte              V         6 04   7 20   8 20   14 12   15 12    16 12   17 12   18 12
+                      Makkum, Botterstraat                                6 09   7 25   8 25   14 17   15 17    16 17   17 17   18 17
+                      Makkum, Sporthal                                    6 11   7 27   8 27   14 19   15 19    16 19   17 19   18 19
+                      Makkum, Botterstraat                                6 13   7 29   8 29   14 21   15 21    16 21   17 21   18 21
+                      Idsegahuizum, Idsegahuizum                          6 17   7 34   8 33   14 25   15 25    16 25   17 25   18 25
+                      Allingawier, Allingawier                            6 19   7 36   8 35   14 27   15 27    16 27   17 27   18 27
+                      Exmorra, Exmorra                                    6 22   7 39   8 38   14 30   15 30    16 30   17 30   18 30
+                      Bolsward, Busstation Twibaksdyk           A         6 29   7 47   8 46   14 38   15 38    16 38   17 38   18 37
+                      b   Rijdt na Bolsward door als lijn 92 naar Leeuwarden.
+Maandag t/m vrijdag
+Van Bolsward naar Makkum                                                                             Lijn 96b
+                                                                               in de vakanties   Maandag t/m vrijdag
+                              Ritnummer   8004   8008   8012   8036    8040      8044        8048       8052
+Bolsward, Busstation Twibaksdyk      V    5 38   6 54   7 54   13 46   14 46     15 46       16 46     17 46
+Exmorra, Exmorra                          5 44   7 00   8 00   13 52   14 52     15 52       16 52     17 52
+Allingawier, Allingawier                  5 47   7 03   8 03   13 55   14 55     15 55       16 55     17 55
+Idsegahuizum, Idsegahuizum                5 49   7 05   8 05   13 57   14 57     15 57       16 57     17 57
+Makkum, Botterstraat                      5 53   7 09   8 09   14 01   15 01     16 01       17 01     18 01
+Makkum, Sporthal                          5 55   7 11   8 11   14 03   15 03     16 03       17 03     18 03
+Makkum, Botterstraat                      5 57   7 13   8 13   14 05   15 05     16 05       17 05     18 05
+Makkum, Camping Holle Poarte         A    6 04   7 20   8 20   14 12   15 12     16 12       17 12     18 12
+                                                                                                                       Maandag t/m vrijdag
+                      Lijn 97a                                                             van Harlingen via Franeker naar Leeuwarden
+                       Maandag t/m vrijdag in de vakanties
+                                                       Ritnummer   1003     1011   1015        1021   1023    1025    1029    1037    1045
+                      Harlingen, Station                      V             6 22    6 50               7 27    7 50    8 20
+                      Herbaijum, Herbaijum                                  6 29    6 57               7 34    7 57    8 27

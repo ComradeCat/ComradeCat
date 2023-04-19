@@ -1,0 +1,200 @@
+Koarnjum, Koarnjum                       18 15   19 15   20 15
+Britsum, Britsum                         18 17   19 17   20 17
+Stiens, Griene Leane                     18 19   19 19   20 19
+Stiens, Lege Hearewei                    18 23   19 23   20 23
+Stiens, Nije Poarte                      18 24   19 24   20 24
+Vrouwbuurtstermolen                      18 28   19 28   20 28
+Vrouwenparochie, Vrouwenparochie         18 29   19 29   20 29
+Sint Annaparochie, Gemeentehuis          18 34   19 34   20 34
+Sint Annaparochie, De Wissel        A    18 36   19 36   20 36
+                                                                                                                   Zon- en feestdagen
+                     Lijn 584a                                                                               Van Drachten via Veenhuizen naar Assen
+                         Zon- en feestdagen
+                                                      Ritnummer b        7003 b      7007 b       7011 b      7015 b      7019 b     7023 b      7027 b       7031 b     7035
+                     Drachten, Transferium Oost                 V         8 40        9 40       10 40       11 40       12 40       13 40       14 40       15 40       16 40
+                     Drachten, Noorderend                                 8 42        9 42       10 42       11 42       12 42       13 42       14 42       15 42       16 42
+                     Ureterp, Centrum                                     8 47        9 47       10 47       11 47       12 47       13 47       14 47       15 47       16 47
+                     Wijnjewoude, Merkebuorren                            8 54        9 54       10 54       11 54       12 54       13 54       14 54       15 54       16 54
+                     Bakkeveen, Brink                                     9 00       10 00       11 00       12 00       13 00       14 00       15 00       16 00       17 00
+                     Waskemeer, Waskemeer                                 9 04       10 04       11 04       12 04       13 04       14 04       15 04       16 04       17 04
+                     Haulerwijk, Laweijstraat                             9 10       10 10       11 10       12 10       13 10       14 10       15 10       16 10       17 10
+                     Veenhuizen, Kerklaan                                 9 19       10 19       11 19       12 19       13 19       14 19       15 19       16 19       17 19
+                     Huis ter Heide, Norgervaart                          9 26       10 26       11 26       12 26       13 26       14 26       15 26       16 26       17 26
+                     Assen, Caro van Eyckrotonde                          9 36       10 36       11 36       12 36       13 36       14 36       15 36       16 36       17 36
+                     Assen, Station                             A         9 44       10 44       11 44       12 44       13 44       14 44       15 44       16 44       17 44
+                                                      Ritnummer b        7039 b      7043 b      7047 b       7051 b     7055 b      7059
+                     Drachten, Transferium Oost                 V        17 40       18 40       19 40       20 40       21 40       22 40
+                     Drachten, Noorderend                                17 42       18 42       19 42       20 42       21 42       22 42
+                     Ureterp, Centrum                                    17 47       18 47       19 47       20 47       21 47       22 47
+                     Wijnjewoude, Merkebuorren                           17 54       18 54       19 54       20 54       21 54       22 54
+                     Bakkeveen, Brink                                    18 00       19 00       20 00       21 00       22 00       23 00
+                     Waskemeer, Waskemeer                                18 04       19 04       20 04       21 04       22 04       23 04
+                     Haulerwijk, Laweijstraat                   A        18 10       19 10       20 10       21 10       22 10       23 10
+                     Veenhuizen, Kerklaan                                18 19       19 19       20 19       21 19       22 19
+                     Huis ter Heide, Norgervaart                         18 26       19 26       20 26       21 26       22 26
+                     Assen, Caro van Eyckrotonde                         18 36       19 36       20 36       21 36       22 36
+                     Assen, Station                             A        18 44       19 44       20 44       21 44       22 44
+                     b    Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+Zon- en feestdagen
+Van Assen naar Drachten via Veenhuizen                                                                                        Lijn 584b
+                                                                                                                               Zon- en feestdagen
+                                Ritnummer b        7004 b      7008 b       7012 b      7016 b     7020 b      7024 b      7028 b      7032 b      7036
+Assen, Station                            V                    10 17       11 17       12 17       13 17       14 17       15 17       16 17       17 17
+Assen, Caro van Eyckrotonde                                    10 25       11 25       12 25       13 25       14 25       15 25       16 25       17 25
+Huis ter Heide, Norgervaart                                    10 35       11 35       12 35       13 35       14 35       15 35       16 35       17 35
+Veenhuizen, Kerklaan                                           10 42       11 42       12 42       13 42       14 42       15 42       16 42       17 42
+Haulerwijk, Laweijstraat                            9 51       10 51       11 51       12 51       13 51       14 51       15 51       16 51       17 51
+Waskemeer, Waskemeer                                9 56       10 56       11 56       12 56       13 56       14 56       15 56       16 56       17 56
+Bakkeveen, Brink                                   10 00       11 00       12 00       13 00       14 00       15 00       16 00       17 00       18 00
+Wijnjewoude, Merkebuorren                          10 06       11 06       12 06       13 06       14 06       15 06       16 06       17 06       18 06
+Ureterp, Centrum                                   10 13       11 13       12 13       13 13       14 13       15 13       16 13       17 13       18 13
+Drachten, Noorderend                               10 18       11 18       12 18       13 18       14 18       15 18       16 18       17 18       18 18
+Drachten, Transferium Oost                A        10 20       11 20       12 20       13 20       14 20       15 20       16 20       17 20       18 20
+                                Ritnummer b        7040 b      7044 b      7048 b      7052 b      7056 b      7060
+Assen, Station                            V        18 17       19 17       20 17       21 17       22 17       23 17
+Assen, Caro van Eyckrotonde                        18 25       19 25       20 25       21 25       22 25       23 25
+Huis ter Heide, Norgervaart                        18 35       19 35       20 35       21 35       22 35       23 35
+Veenhuizen, Kerklaan                               18 42       19 42       20 42       21 42       22 42       23 42
+Haulerwijk, Laweijstraat                           18 51       19 51       20 51       21 51       22 51       23 51
+Waskemeer, Waskemeer                               18 56       19 56       20 56       21 56       22 56       23 56
+Bakkeveen, Brink                                   19 00       20 00       21 00       22 00       23 00        0 00
+Wijnjewoude, Merkebuorren                          19 06       20 06       21 06       22 06       23 06        0 06
+Ureterp, Centrum                                   19 13       20 13       21 13       22 13       23 13        0 13
+Drachten, Noorderend                               19 18       20 18       21 18       22 18       23 18        0 18
+Drachten, Transferium Oost                A        19 20       20 20       21 20       22 20       23 20        0 20
+b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+                                                                                                                                                           Zon- en feestdagen
+                     Lijn 92a                                                                     Van Bolsward naar Leeuwarden
+                     Lijn 192a                                                                    Van Bolsward naar Leeuwarden
+                       Zon- en feestdagen
+                                                    Ritnummer   7003    7007     7011   7015    7019    7023    7027    7031    7035
+                     Bolsward, Busstation Twibaksdyk       V     9 23   10 23   11 23   12 23   13 23   14 23   15 23   16 23   17 23
+                     Bolsward, Bargefenne                        9 25   10 25   11 25   12 25   13 25   14 25   15 25   16 25   17 25
+                     Bolsward, Ugolaan                           9 29   10 29   11 29   12 29   13 29   14 29   15 29   16 29   17 29
+                     Burgwerd, Burgwerderhoek                    9 33   10 33   11 33   12 33   13 33   14 33   15 33   16 33   17 33
+                     Wommels, Provinciale weg                    9 36   10 36   11 36   12 36   13 36   14 36   15 36   16 36   17 36
+                     Spannum, Laekwerterwei                      9 40   10 40   11 40   12 40   13 40   14 40   15 40   16 40   17 40
+                     Winsum, Busstation                          9 44   10 44   11 44   12 44   13 44   14 44   15 44   16 44   17 44
+                     Huns, Huns Provinciale weg                  9 47   10 47   11 47   12 47   13 47   14 47   15 47   16 47   17 47
+                     Hilaard, Hilaard Provinciale weg            9 49   10 49   11 49   12 49   13 49   14 49   15 49   16 49   17 49
+                     Boksum, Boksum Provinciale weg              9 51   10 51   11 51   12 51   13 51   14 51   15 51   16 51   17 51
+                     Leeuwarden, Snekertrekweg                   9 56   10 56   11 56   12 56   13 56   14 56   15 56   16 56   17 56
+                     Leeuwarden, Busstation                A     9 59   10 59   11 59   12 59   13 59   14 59   15 59   16 59   17 59
+                                                    Ritnummer   7039    7043    7047    7051    7055    7059
+                     Bolsward, Busstation Twibaksdyk       V    18 23   19 23   20 23   21 23   22 23   23 23
+                     Bolsward, Bargefenne                       18 25   19 25   20 25   21 25   22 25   23 25
+                     Bolsward, Ugolaan                          18 29   19 29   20 29   21 29   22 29   23 29
+                     Burgwerd, Burgwerderhoek                   18 33   19 33   20 33   21 33   22 33   23 33
+                     Wommels, Provinciale weg                   18 36   19 36   20 36   21 36   22 36   23 36
+                     Spannum, Laekwerterwei                     18 40   19 40   20 40   21 40   22 40   23 40
+                     Winsum, Busstation                         18 44   19 44   20 44   21 44   22 44   23 44
+                     Huns, Huns Provinciale weg                 18 47   19 47   20 47   21 47   22 47   23 47
+                     Hilaard, Hilaard Provinciale weg           18 49   19 49   20 49   21 49   22 49   23 49
+                     Boksum, Boksum Provinciale weg             18 51   19 51   20 51   21 51   22 51   23 51
+                     Leeuwarden, Snekertrekweg                  18 56   19 56   20 56   21 56   22 56   23 56
+                     Leeuwarden, Busstation                A    18 59   19 59   20 59   21 59   22 59   23 59
+Zon- en feestdagen
+Van Leeuwarden naar Bolsward                                                                  Lijn 92b
+Van Leeuwarden naar Bolsward                                                                 Lijn 192b
+                                                                                              Zon- en feestdagen
+                               Ritnummer   7004    7008    7012    7016    7020    7024    7028     7032     7036
+Leeuwarden, Busstation                V     9 29   10 29   11 29   12 29   13 29   14 29   15 29    16 29    17 29
+Leeuwarden, Snekertrekweg                   9 31   10 31   11 31   12 31   13 31   14 31   15 31    16 31    17 31
+Boksum, Boksum Provinciale weg              9 37   10 37   11 37   12 37   13 37   14 37   15 37    16 37    17 37
+Hilaard, Hilaard Provinciale weg            9 39   10 39   11 39   12 39   13 39   14 39   15 39    16 39    17 39
+Huns, Huns Provinciale weg                  9 41   10 41   11 41   12 41   13 41   14 41   15 41    16 41    17 41
+Winsum, Busstation                          9 44   10 44   11 44   12 44   13 44   14 44   15 44    16 44    17 44
+Spannum, Laekwerterwei                      9 47   10 47   11 47   12 47   13 47   14 47   15 47    16 47    17 47
+Wommels, Provinciale weg                    9 51   10 51   11 51   12 51   13 51   14 51   15 51    16 51    17 51
+Burgwerd, Burgwerderhoek                    9 55   10 55   11 55   12 55   13 55   14 55   15 55    16 55    17 55
+Bolsward, Ugolaan                           9 59   10 59   11 59   12 59   13 59   14 59   15 59    16 59    17 59
+Bolsward, Bargefenne                       10 03   11 03   12 03   13 03   14 03   15 03   16 03    17 03    18 03
+Bolsward, Busstation Twibaksdyk       A    10 05   11 05   12 05   13 05   14 05   15 05   16 05    17 05    18 05
+                               Ritnummer   7040    7044    7048    7052    7056    7060
+Leeuwarden, Busstation                V    18 29   19 29   20 29   21 29   22 29   23 29
+Leeuwarden, Snekertrekweg                  18 31   19 31   20 31   21 31   22 31   23 31
+Boksum, Boksum Provinciale weg             18 37   19 37   20 37   21 37   22 37   23 37
+Hilaard, Hilaard Provinciale weg           18 39   19 39   20 39   21 39   22 39   23 39
+Huns, Huns Provinciale weg                 18 41   19 41   20 41   21 41   22 41   23 41
+Winsum, Busstation                         18 44   19 44   20 44   21 44   22 44   23 44
+Spannum, Laekwerterwei                     18 47   19 47   20 47   21 47   22 47   23 47
+Wommels, Provinciale weg                   18 51   19 51   20 51   21 51   22 51   23 51
+Burgwerd, Burgwerderhoek                   18 55   19 55   20 55   21 55   22 55   23 55
+Bolsward, Ugolaan                          18 59   19 59   20 59   21 59   22 59   23 59
+Bolsward, Bargefenne                       19 03   20 03   21 03   22 03   23 03    0 03
+Bolsward, Busstation Twibaksdyk       A    19 05   20 05   21 05   22 05   23 05    0 05
+                                                                                                                     Zon- en feestdagen
+                     Lijn 97a                                                                      van Franeker naar Leeuwarden
+                       Zon- en feestdagen
+                                                      Ritnummer   7003    7007     7011   7015    7019    7023    7027    7031    7035
+                     Franeker, Froonacker                    V     9 33   10 33   11 33   12 34   13 35   14 35   15 35   16 35   17 35
+                     Franeker, Harlingerweg                        9 36   10 36   11 36   12 37   13 38   14 38   15 38   16 38   17 38
+                     Franeker, Voorstraat                          9 37   10 37   11 37   12 38   13 39   14 39   15 39   16 39   17 39
+                     Franeker, Hertog van Saxenlaan                9 39   10 39   11 39   12 40   13 41   14 41   15 41   16 41   17 41
+                     Franeker, Watertoren                          9 41   10 41   11 41   12 42   13 43   14 43   15 43   16 43   17 43
+                     Zweins, Zweins                                9 44   10 44   11 44   12 45   13 46   14 46   15 46   16 46   17 46
+                     Dronryp, Hoek Dronryp                         9 48   10 48   11 48   12 49   13 50   14 50   15 50   16 50   17 50
+                     Menaam, Orxmasingel                           9 52   10 52   11 52   12 53   13 54   14 54   15 54   16 54   17 54
+                     Leeuwarden, Westeinde                        10 02   11 02   12 02   13 03   14 04   15 04   16 04   17 04   18 04
+                     Leeuwarden, WTC/Heliconweg                   10 04   11 04   12 04   13 05   14 06   15 06   16 06   17 06   18 06
+                     Leeuwarden, Busstation                  A    10 07   11 07   12 07   13 08   14 09   15 10   16 10   17 10   18 10
+                                                      Ritnummer   7039    7043    7047    7051    7055    7059    7063
+                     Franeker, Froonacker                    V    18 35   19 34   20 34   21 34   22 34   23 34    0 34
+                     Franeker, Harlingerweg                       18 38   19 37   20 37   21 37   22 37   23 37    0 37
+                     Franeker, Voorstraat                         18 39   19 38   20 38   21 38   22 38   23 38    0 38
+                     Franeker, Hertog van Saxenlaan               18 41   19 40   20 40   21 40   22 40   23 40    0 40
+                     Franeker, Watertoren                         18 43   19 42   20 42   21 42   22 42   23 42    0 42
+                     Zweins, Zweins                               18 46   19 45   20 45   21 45   22 45   23 45    0 45
+                     Dronryp, Hoek Dronryp                        18 50   19 49   20 49   21 49   22 49   23 49    0 49
+                     Menaam, Orxmasingel                          18 54   19 53   20 53   21 53   22 53   23 53    0 53
+                     Leeuwarden, Westeinde                        19 04   20 03   21 03   22 03   23 03    0 03    1 03
+                     Leeuwarden, WTC/Heliconweg                   19 06   20 05   21 05   22 05   23 05    0 05    1 05
+                     Leeuwarden, Busstation                  A    19 10   20 09   21 09   22 09   23 09    0 08    1 08
+Zon- en feestdagen
+van Leeuwarden naar Franeker                                                                     Lijn 97b
+                                                                                            Zon- en feestdagen
+                             Ritnummer   7004    7008    7012    7016    7020    7024    7028      7032    7036
+Leeuwarden, Busstation              V     9 04   10 04   11 04   12 04   13 05   14 05   15 05     16 05   17 05
+Leeuwarden, WTC/Heliconweg                9 07   10 07   11 07   12 07   13 08   14 08   15 08     16 08   17 08
+Leeuwarden, Westeinde                     9 09   10 09   11 09   12 10   13 11   14 11   15 11     16 11   17 11
+Menaam, Orxmasingel                       9 20   10 20   11 20   12 21   13 22   14 22   15 22     16 22   17 22
+Dronryp, Hoek Dronryp                     9 24   10 24   11 24   12 25   13 26   14 26   15 26     16 26   17 26
+Zweins, Zweins                            9 28   10 28   11 28   12 29   13 30   14 30   15 30     16 30   17 30
+Franeker, Watertoren                      9 31   10 31   11 31   12 32   13 33   14 33   15 33     16 33   17 33
+Franeker, Froonacker                A     9 33   10 33   11 33   12 34   13 35   14 35   15 35     16 35   17 35
+                             Ritnummer   7040    7044    7048    7052    7056    7060    7064
+Leeuwarden, Busstation              V    18 05   19 04   20 04   21 04   22 04   23 04    0 04
+Leeuwarden, WTC/Heliconweg               18 08   19 07   20 07   21 07   22 07   23 07    0 07
+Leeuwarden, Westeinde                    18 11   19 10   20 10   21 10   22 10   23 10    0 10
+Menaam, Orxmasingel                      18 22   19 21   20 21   21 21   22 21   23 21    0 21
+Dronryp, Hoek Dronryp                    18 26   19 25   20 25   21 25   22 25   23 25    0 25
+Zweins, Zweins                           18 30   19 29   20 29   21 29   22 29   23 29    0 29
+Franeker, Watertoren                     18 33   19 32   20 32   21 32   22 32   23 32    0 32
+Franeker, Froonacker                A    18 35   19 34   20 34   21 34   22 34   23 34    0 34
+                                                                                                                   Zon- en feestdagen
+                      Lijn 199a                                                                      Van Harlingen naar Heerenveen
+                       Zon- en feestdagen
+                                                      Ritnummer   7003    7007     7011   7015    7019    7023    7027    7031    7035
+                     Harlingen, Veerbootterminal             V     9 50   10 50   11 50   12 50   13 49   14 49   15 49   16 49   17 49
+                     Harlingen, Station                            9 54   10 54   11 54   12 54   13 53   14 53   15 53   16 53   17 53
+                     Harlingen, De Batting                         9 56   10 56   11 56   12 56   13 55   14 55   15 55   16 55   17 55
+                     Kimswerd, Carpe Diem                          9 59   10 59   11 59   12 59   13 58   14 58   15 58   16 58   17 58
+                     Kimswerd, Kimswerd                           10 01   11 01   12 01   13 01   14 00   15 00   16 00   17 00   18 00
+                     Arum, Schoolstraat                           10 04   11 04   12 04   13 04   14 04   15 04   16 04   17 04   18 04
+                     Witmarsum, Kaatsplein                        10 10   11 10   12 10   13 10   14 10   15 10   16 10   17 10   18 10
+                     Witmarsum, Kievitshorne                      10 13   11 13   12 13   13 13   14 13   15 13   16 13   17 13   18 13
+                     Schettens, Schettens                         10 15   11 15   12 15   13 15   14 15   15 15   16 15   17 15   18 15
+                     Bolsward, Busstation Twibaksdyk         A    10 20   11 20   12 20   13 20   14 20   15 20   16 20   17 20   18 20
+                     Bolsward, Busstation Twibaksdyk         V    10 23   11 23   12 23   13 23   14 23   15 23   16 23   17 23   18 23
+                     Bolsward, Bargefenne                         10 25   11 25   12 25   13 25   14 25   15 25   16 25   17 25   18 25
+                     Bolsward, Kloosterlaan                       10 30   11 30   12 30   13 30   14 30   15 30   16 30   17 30   18 30
+                     Nijland, Nijland Rijksweg                    10 33   11 33   12 33   13 33   14 33   15 33   16 33   17 33   18 33
+                     Folsgare, Folsgare Rijksweg                  10 35   11 35   12 35   13 35   14 35   15 35   16 35   17 35   18 35
+                     Sneek, Antonius Ziekenhuis                   10 40   11 40   12 40   13 40   14 40   15 40   16 40   17 40   18 40
+                     Sneek, Busstation                       A    10 43   11 43   12 43   13 43   14 43   15 43   16 43   17 43   18 43
+                     Sneek, Busstation                       V    10 46   11 46   12 46   13 46   14 46   15 46   16 46   17 46   18 46
+                     Sneek, Prins Hendrikkade                     10 48   11 48   12 48   13 48   14 48   15 48   16 48   17 48   18 48
+                     Sneek, Oppenhuizerweg                        10 51   11 51   12 51   13 51   14 51   15 51   16 51   17 51   18 51
+                     Oppenhuizen, Oppenhuizen                     10 56   11 56   12 56   13 56   14 56   15 56   16 56   17 56   18 56

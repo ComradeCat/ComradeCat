@@ -1,0 +1,200 @@
+           Leeuwarden, Harmonie                     16 52   17 22   17 52   18 22   18 52   19 52   20 52   21 52   22 52
+           Leeuwarden, Zaailand                     16 53   17 23   17 53   18 23   18 53   19 53   20 53   21 53   22 53
+           Leeuwarden, Busstation               A   16 57   17 27   17 57   18 27   18 57   19 57   20 57   21 57   22 55
+                                        Ritnummer    6111    6115
+           Leeuwarden, Busstation               V   23 30    0 30
+           Leeuwarden, Harmonie                     23 32    0 32
+           Leeuwarden, Boterhoek                    23 33    0 33
+           Leeuwarden, Wissesdwinger                23 34    0 34
+           Leeuwarden, Dirk Zeperweg                23 36    0 36
+           Leeuwarden, NHL Stenden                  23 38    0 38
+           Leeuwarden, Wollegaast                   23 39    0 39
+           Leeuwarden, Winkelcentrum Bilgaard       23 42    0 42
+           Leeuwarden, De Kei                       23 44    0 44
+           Leeuwarden, NHL Stenden                  23 47    0 47
+           Leeuwarden, Dirk Zeperweg                23 49    0 49
+           Leeuwarden, Wissesdwinger                23 50    0 50
+           Leeuwarden, Boterhoek                    23 51    0 51
+           Leeuwarden, Harmonie                     23 52    0 52
+           Leeuwarden, Zaailand                     23 53    0 53
+           Leeuwarden, Busstation               A   23 55    0 55
+           Lijn 7a                                                                    Van Busstation naar Zuiderburen
+                   Zaterdag
+                                          Ritnummer   6203    6207     6211   6215    6219    6223    6227    6231    6235
+           Leeuwarden, Busstation                V     7 22    8 22    9 22   10 22   11 22   12 22   13 22   14 22   15 22
+           Leeuwarden, Vegelinstraat                   7 25    8 25    9 25   10 25   11 25   12 25   13 25   14 25   15 25
+           Leeuwarden, Knoopstraat                     7 27    8 27    9 27   10 27   11 27   12 27   13 27   14 27   15 27
+           Leeuwarden, Tijnjedijk                      7 29    8 29    9 29   10 29   11 29   12 29   13 29   14 29   15 29
+           Leeuwarden, De Boorne                       7 34    8 34    9 34   10 34   11 34   12 34   13 34   14 34   15 34
+           Leeuwarden, Suder Stienplaat          A     7 39    8 39    9 39   10 39   11 39   12 39   13 39   14 39   15 39
+                                          Ritnummer   6239    6243    6247    6251    6255    6259    6263    6267
+           Leeuwarden, Busstation                V    16 22   17 22   18 22   19 22   20 22   21 22   22 22   23 22
+           Leeuwarden, Vegelinstraat                  16 25   17 25   18 25   19 25   20 25   21 25   22 25   23 25
+           Leeuwarden, Knoopstraat                    16 27   17 27   18 27   19 27   20 27   21 27   22 27   23 27
+           Leeuwarden, Tijnjedijk                     16 29   17 29   18 29   19 29   20 29   21 29   22 29   23 29
+           Leeuwarden, De Boorne                      16 34   17 34   18 34   19 34   20 34   21 34   22 34   23 34
+           Leeuwarden, Suder Stienplaat          A    16 39   17 39   18 39   19 39   20 39   21 39   22 39   23 39
+Zaterdag
+Van Zuiderburen naar Busstation                                                                    Lijn 7b
+                                                                                                   Zaterdag
+                               Ritnummer   6204    6208    6212    6216    6220    6224    6228     6232      6236
+Leeuwarden, Suder Stienplaat          V     7 39    8 39    9 39   10 39   11 39   12 39   13 39    14 39     15 39
+Leeuwarden, De Boorne                       7 43    8 43    9 43   10 43   11 43   12 43   13 43    14 43     15 43
+Leeuwarden, Tijnjedijk                      7 47    8 47    9 47   10 47   11 47   12 47   13 47    14 47     15 47
+Leeuwarden, Knoopstraat                     7 49    8 49    9 49   10 49   11 49   12 49   13 49    14 49     15 49
+Leeuwarden, Vegelinstraat                   7 51    8 51    9 51   10 51   11 51   12 51   13 51    14 51     15 51
+Leeuwarden, Busstation                A     7 56    8 56    9 56   10 56   11 57   12 57   13 57    14 57     15 57
+                               Ritnummer   6240    6244    6248    6252    6256    6260    6264     6268
+Leeuwarden, Suder Stienplaat          V    16 39   17 39   18 39   19 39   20 39   21 39   22 39    23 39
+Leeuwarden, De Boorne                      16 43   17 43   18 43   19 43   20 43   21 43   22 43    23 43
+Leeuwarden, Tijnjedijk                     16 47   17 47   18 47   19 47   20 47   21 47   22 47    23 47
+Leeuwarden, Knoopstraat                    16 49   17 49   18 49   19 49   20 49   21 49   22 49    23 49
+Leeuwarden, Vegelinstraat                  16 51   17 51   18 51   19 51   20 51   21 51   22 51    23 51
+Leeuwarden, Busstation                A    16 57   17 56   18 56   19 56   20 56   21 56   22 56    23 56
+                                                                                                                      Zaterdag
+           Lijn 8a                                                                   Van Busstation naar Vrijheidswijk
+                  Zaterdag
+                                         Ritnummer   6203    6207     6211   6215    6219    6223    6227    6231    6235
+           Leeuwarden, Busstation               V     7 30    8 00    8 30    9 00    9 30   10 00   10 30   11 00   11 30
+           Leeuwarden, Beursplein                     7 32    8 02    8 32    9 02    9 32   10 02   10 32   11 02   11 32
+           Leeuwarden, Blokhuisplein                  7 33    8 03    8 33    9 03    9 33   10 03   10 33   11 03   11 33
+           Leeuwarden, Oosterkade                     7 34    8 04    8 34    9 04    9 34   10 04   10 34   11 04   11 34
+           Leeuwarden, De Bleek                       7 36    8 06    8 36    9 06    9 36   10 06   10 36   11 06   11 36
+           Leeuwarden, Eebrug                         7 38    8 08    8 38    9 08    9 38   10 08   10 38   11 08   11 38
+           Leeuwarden, MFC Het Mozaïek                7 41    8 11    8 41    9 11    9 41   10 11   10 41   11 12   11 42
+           Leeuwarden, Dragoonsplein            A     7 43    8 13    8 43    9 13    9 43   10 13   10 43   11 15   11 45
+                                         Ritnummer   6239    6243    6247    6251    6255    6259    6263    6267    6271
+           Leeuwarden, Busstation               V    12 00   12 30   13 00   13 30   14 00   14 30   15 00   15 30   16 00
+           Leeuwarden, Beursplein                    12 02   12 32   13 02   13 32   14 02   14 32   15 02   15 32   16 02
+           Leeuwarden, Blokhuisplein                 12 03   12 33   13 03   13 33   14 03   14 33   15 03   15 33   16 03
+           Leeuwarden, Oosterkade                    12 04   12 34   13 04   13 34   14 04   14 34   15 04   15 34   16 04
+           Leeuwarden, De Bleek                      12 06   12 36   13 06   13 36   14 06   14 36   15 06   15 36   16 06
+           Leeuwarden, Eebrug                        12 08   12 38   13 08   13 38   14 08   14 38   15 08   15 38   16 08
+           Leeuwarden, MFC Het Mozaïek               12 12   12 42   13 12   13 42   14 12   14 42   15 12   15 42   16 12
+           Leeuwarden, Dragoonsplein            A    12 15   12 45   13 15   13 45   14 15   14 45   15 15   15 45   16 15
+                                         Ritnummer   6275    6279    6283    6287    6291    6295    6299    6303    6307
+           Leeuwarden, Busstation               V    16 30   17 00   17 30   18 00   19 00   20 00   21 00   22 00   23 00
+           Leeuwarden, Beursplein                    16 32   17 02   17 32   18 02   19 02   20 02   21 02   22 02   23 02
+Zaterdag
+           Leeuwarden, Blokhuisplein                 16 33   17 03   17 33   18 03   19 03   20 03   21 03   22 03   23 03
+           Leeuwarden, Oosterkade                    16 34   17 04   17 34   18 04   19 04   20 04   21 04   22 04   23 04
+           Leeuwarden, De Bleek                      16 36   17 06   17 36   18 06   19 06   20 06   21 06   22 06   23 06
+           Leeuwarden, Eebrug                        16 38   17 08   17 38   18 08   19 08   20 08   21 08   22 08   23 08
+           Leeuwarden, MFC Het Mozaïek               16 42   17 11   17 41   18 11   19 11   20 11   21 11   22 11   23 11
+           Leeuwarden, Dragoonsplein            A    16 45   17 14   17 44   18 14   19 14   20 14   21 14   22 13   23 13
+                                         Ritnummer    6311
+           Leeuwarden, Busstation               V     0 00
+           Leeuwarden, Beursplein                     0 02
+           Leeuwarden, Blokhuisplein                  0 03
+           Leeuwarden, Oosterkade                     0 04
+           Leeuwarden, De Bleek                       0 06
+           Leeuwarden, Eebrug                         0 08
+           Leeuwarden, MFC Het Mozaïek                0 11
+           Leeuwarden, Dragoonsplein            A     0 13
+Van Vrijheidswijk naar Busstation                                                                 Lijn 8b
+                                                                                                  Zaterdag
+                              Ritnummer   6204    6208    6212    6216    6220    6224    6228     6232      6236
+Leeuwarden, Dragoonsplein            V     7 43    8 13    8 43    9 13    9 43   10 13   10 43    11 15     11 45
+Leeuwarden, MFC Het Mozaïek                7 45    8 15    8 45    9 15    9 45   10 15   10 45    11 17     11 47
+Leeuwarden, Eebrug                         7 48    8 18    8 48    9 18    9 48   10 18   10 48    11 20     11 50
+Leeuwarden, Hoeksterpoort                  7 50    8 20    8 50    9 20    9 50   10 20   10 50    11 22     11 52
+Leeuwarden, Oosterkade                     7 51    8 21    8 51    9 22    9 52   10 22   10 52    11 24     11 54
+Leeuwarden, Blokhuisplein                  7 52    8 22    8 52    9 23    9 53   10 23   10 53    11 25     11 55
+Leeuwarden, Beursplein                     7 53    8 23    8 53    9 24    9 54   10 24   10 54    11 26     11 56
+Leeuwarden, Busstation               A     7 56    8 26    8 56    9 28    9 58   10 28   10 58    11 30     12 00
+                              Ritnummer   6240    6244    6248    6252    6256    6260    6264     6268      6272
+Leeuwarden, Dragoonsplein            V    12 15   12 45   13 15   13 45   14 15   14 45   15 15    15 45     16 15
+Leeuwarden, MFC Het Mozaïek               12 17   12 47   13 17   13 47   14 17   14 47   15 17    15 47     16 17
+Leeuwarden, Eebrug                        12 20   12 50   13 20   13 50   14 20   14 50   15 20    15 50     16 20
+Leeuwarden, Hoeksterpoort                 12 22   12 52   13 22   13 52   14 22   14 52   15 22    15 52     16 22
+Leeuwarden, Oosterkade                    12 24   12 54   13 24   13 54   14 24   14 54   15 24    15 54     16 24
+Leeuwarden, Blokhuisplein                 12 25   12 55   13 26   13 56   14 26   14 56   15 26    15 56     16 26
+Leeuwarden, Beursplein                    12 26   12 56   13 27   13 57   14 27   14 57   15 27    15 57     16 27
+Leeuwarden, Busstation               A    12 30   13 00   13 31   14 01   14 31   15 01   15 31    16 01     16 31
+                              Ritnummer   6276    6280    6284    6288    6292    6296    6300     6304      6308
+Leeuwarden, Dragoonsplein            V    16 45   17 14   17 44   18 14   19 14   20 14   21 14    22 13     23 13
+Leeuwarden, MFC Het Mozaïek               16 47   17 16   17 46   18 16   19 16   20 16   21 16    22 15     23 15
+                                                                                                                     Zaterdag
+Leeuwarden, Eebrug                        16 50   17 19   17 49   18 19   19 19   20 19   21 19    22 18     23 18
+Leeuwarden, Hoeksterpoort                 16 52   17 21   17 51   18 21   19 21   20 21   21 21    22 20     23 20
+Leeuwarden, Oosterkade                    16 54   17 23   17 53   18 23   19 23   20 23   21 23    22 21     23 21
+Leeuwarden, Blokhuisplein                 16 56   17 24   17 54   18 24   19 24   20 24   21 24    22 22     23 22
+Leeuwarden, Beursplein                    16 57   17 25   17 55   18 25   19 25   20 25   21 25    22 23     23 23
+Leeuwarden, Busstation               A    17 01   17 28   17 58   18 28   19 28   20 28   21 28    22 26     23 26
+                              Ritnummer   6312
+Leeuwarden, Dragoonsplein            V     0 13
+Leeuwarden, MFC Het Mozaïek                0 15
+Leeuwarden, Eebrug                         0 18
+Leeuwarden, Hoeksterpoort                  0 20
+Leeuwarden, Oosterkade                     0 21
+Leeuwarden, Blokhuisplein                  0 22
+Leeuwarden, Beursplein                     0 23
+Leeuwarden, Busstation               A     0 26
+           Lijn 24                                                                     van Busstation naar Busstation
+                  Zaterdag
+                                        Ritnummer   6403    6407     6411   6415    6419    6423    6427    6431    6435
+           Leeuwarden, Busstation              V    18 30   19 00   19 30   20 00   20 30   21 00   21 30   22 00   22 30
+           Leeuwarden, Schrans                      18 32   19 02   19 32   20 02   20 32   21 02   21 32   22 02   22 32
+           Leeuwarden, Sierksmastraat               18 34   19 04   19 34   20 04   20 34   21 04   21 34   22 04   22 34
+           Leeuwarden, Jansoniusstraat              18 35   19 05   19 35   20 05   20 35   21 05   21 35   22 05   22 35
+           Leeuwarden, MCL Leeuwarden               18 36   19 06   19 36   20 06   20 36   21 06   21 36   22 06   22 36
+           Leeuwarden, Holwortel                    18 38   19 08   19 38   20 08   20 38   21 08   21 38   22 08   22 38
+           Leeuwarden, Zwanebloem                   18 40   19 10   19 40   20 10   20 40   21 10   21 40   22 10   22 40
+           Leeuwarden, Winkelcentrum Aldlân         18 41   19 11   19 41   20 11   20 41   21 11   21 41   22 11   22 41
+           Leeuwarden, Raaigras                     18 42   19 12   19 42   20 12   20 42   21 12   21 42   22 12   22 42
+           Leeuwarden, Rietgras                     18 43   19 13   19 43   20 13   20 43   21 13   21 43   22 13   22 43
+           Leeuwarden, MCL Leeuwarden               18 44   19 14   19 44   20 14   20 44   21 14   21 44   22 14   22 44
+           Leeuwarden, Mauritsplein                 18 47   19 17   19 47   20 17   20 47   21 17   21 47   22 17   22 47
+           Leeuwarden, Nijlânstate                  18 48   19 18   19 48   20 18   20 48   21 18   21 48   22 18   22 48
+           Leeuwarden, Nijlânsdyk                   18 49   19 19   19 49   20 19   20 49   21 19   21 49   22 19   22 49
+           Leeuwarden, Uiterdijksterweg             18 50   19 20   19 50   20 20   20 50   21 20   21 50   22 20   22 50
+           Leeuwarden, Snekertrekweg                18 55   19 25   19 55   20 25   20 55   21 25   21 55   22 25   22 55
+           Leeuwarden, Busstation              A    18 57   19 27   19 57   20 27   20 57   21 27   21 57   22 27   22 57
+                                        Ritnummer   6439    6443    6447    6451
+           Leeuwarden, Busstation              V    23 00   23 30    0 00    0 30
+           Leeuwarden, Schrans                      23 02   23 32    0 02    0 32
+           Leeuwarden, Sierksmastraat               23 04   23 34    0 04    0 34
+           Leeuwarden, Jansoniusstraat              23 05   23 35    0 05    0 35
+Zaterdag
+           Leeuwarden, MCL Leeuwarden               23 06   23 36    0 06    0 36
+           Leeuwarden, Holwortel                    23 08   23 38    0 08    0 38
+           Leeuwarden, Zwanebloem                   23 10   23 40    0 10    0 40
+           Leeuwarden, Winkelcentrum Aldlân         23 11   23 41    0 11    0 41
+           Leeuwarden, Raaigras                     23 12   23 42    0 12    0 42
+           Leeuwarden, Rietgras                     23 13   23 43    0 13    0 43
+           Leeuwarden, MCL Leeuwarden               23 14   23 44    0 14    0 44
+           Leeuwarden, Mauritsplein                 23 17   23 47    0 17    0 47
+           Leeuwarden, Nijlânstate                  23 18   23 48    0 18    0 48
+           Leeuwarden, Nijlânsdyk                   23 19   23 49    0 19    0 49
+           Leeuwarden, Uiterdijksterweg             23 20   23 50    0 20    0 50
+           Leeuwarden, Snekertrekweg                23 25   23 55    0 25    0 55
+           Leeuwarden, Busstation              A    23 27   23 57    0 27    0 57
+           Lijn 825                                                                                  Van Busstation naar Aldlân/Nijlân v.v.
+                   Zaterdag
+                                            Ritnummer b        1003 b      6007 b   6011 b   6015 b     6019 b   6023 b   6027 b   6031 b   6035
+           Leeuwarden, Busstation              V                8 30        9 30    10 30    11 30     12 30     13 30    14 30    15 30    16 30
+           Leeuwarden, Oostergoplein                            8 35        9 35    10 35    11 35     12 35     13 35    14 35    15 35    16 35
+           Leeuwarden, Goutum                                   8 36        9 36    10 36    11 36     12 36     13 36    14 36    15 36    16 36
+           Leeuwarden, Goutum Súd                               8 38        9 38    10 38    11 38     12 38     13 38    14 38    15 38    16 38
+           Wirdum, Wirdum Rijksweg                              8 40        9 40    10 40    11 40     12 40     13 40    14 40    15 40    16 40
+           Leeuwarden, Techum                                   8 41        9 41    10 41    11 41     12 41     13 41    14 41    15 41    16 41
+           Leeuwarden, Goutum Súd                               8 43        9 43    10 43    11 43     12 43     13 43    14 43    15 43    16 43
+           Leeuwarden, Techumerdyk/Crematorium                  8 44        9 44    10 44    11 44     12 44     13 44    14 44    15 44    16 44
+           Leeuwarden, De Klamp                                 8 45        9 45    10 45    11 45     12 45     13 45    14 45    15 45    16 45
+           Leeuwarden, Techumerdyk/Crematorium                  8 46        9 46    10 46    11 46     12 46     13 46    14 46    15 46    16 46
+           Leeuwarden, Goutum                                   8 47        9 47    10 47    11 47     12 47     13 47    14 47    15 47    16 47
+           Leeuwarden, Oostergoplein                            8 49        9 49    10 49    11 49     12 49     13 49    14 49    15 49    16 49
+           Leeuwarden, Busstation              A                8 55        9 55    10 55    11 55     12 55     13 55    14 55    15 55    16 55
+                                            Ritnummer b        6039 b      6043 b   6047 b   6051 b    6055 b    6059 b   6063
+           Leeuwarden, Busstation              V               17 30       18 30    19 30    20 30     21 30     22 30    23 30
+           Leeuwarden, Oostergoplein                           17 35       18 35    19 35    20 35     21 35     22 35    23 35
+           Leeuwarden, Goutum                                  17 36       18 36    19 36    20 36     21 36     22 36    23 36
+           Leeuwarden, Goutum Súd                              17 38       18 38    19 38    20 38     21 38     22 38    23 38
+           Wirdum, Wirdum Rijksweg                             17 40       18 40    19 40    20 40     21 40     22 40    23 40
+           Leeuwarden, Techum                                  17 41       18 41    19 41    20 41     21 41     22 41    23 41
+           Leeuwarden, Goutum Súd                              17 43       18 43    19 43    20 43     21 43     22 43    23 43
+           Leeuwarden, Techumerdyk/Crematorium                 17 44       18 44    19 44    20 44     21 44     22 44    23 44
+Zaterdag
+           Leeuwarden, De Klamp                                17 45       18 45    19 45    20 45     21 45     22 45    23 45
+           Leeuwarden, Techumerdyk/Crematorium                 17 46       18 46    19 46    20 46     21 46     22 46    23 46
+           Leeuwarden, Goutum                                  17 47       18 47    19 47    20 47     21 47     22 47    23 47
