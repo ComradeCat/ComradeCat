@@ -1,0 +1,300 @@
+                                                        Ritnummer        1003       1007          1015 b    1021    1027 b   1033 d   1039 f   1041    1045
+                      Holwerd, Veerdam                          V        6 56        7 56          9 56    11 56    12 56    14 56    16 11    16 22   17 11
+                      Leeuwarden, Sint Bonifatiuspark                    7 22        8 22         10 21    12 21    13 21    15 21    16 36    16 47   17 36
+                      Leeuwarden, Harlingersingel                        7 24        8 24         10 23    12 23    13 23    15 23    16 38    16 49   17 38
+Maandag t/m vrijdag
+                      Leeuwarden, Busstation                    A        7 28        8 30         10 27    12 27    13 27    15 29    16 44    16 55   17 44
+                                                        Ritnummer        1051 h     5057
+                      Holwerd, Veerdam                          V       18 56       20 26
+                      Leeuwarden, Sint Bonifatiuspark                   19 21       20 51
+                      Leeuwarden, Harlingersingel                       19 23       20 53
+                      Leeuwarden, Busstation                    A       19 29       20 57
+                      b    Alleen op maandag en vrijdag in de maanden april tot en met oktober.
+                      d    Rijdt van 12-12-2022 tm 06-01-2023
+                      f    Rijdt met ingang van 09-01-2023
+                      h    Alleen op vrijdag. Ook op maandag tot en met donderdag in de maanden juli en augustus.
+Van Leeuwarden naar Holwerd                                                                                           Lijn 66b
+Van Leeuwarden naar Holwerd                                                                                          Lijn 166b
+                                                                                                          beperkt    Maandag t/m vrijdag
+                                  Ritnummer       1004       1008          1016 b   1020     1028 b   1032 d        1040 f   1042    1046
+Leeuwarden, Busstation                   V        6 21        7 21         9 22     11 22    12 22    14 22     15 37        15 48   16 37
+Leeuwarden, Harlingersingel                       6 25        7 25         9 26     11 26    12 26    14 26     15 41        15 52   16 41
+Leeuwarden, Sint Bonifatiuspark                   6 27        7 27         9 28     11 28    12 28    14 28     15 43        15 54   16 43
+                                                                                                                                             Maandag t/m vrijdag
+Holwerd, Veerdam                         A        6 54        7 54         9 54     11 54    12 54    14 54     16 09        16 20   17 09
+                                  Ritnummer       1052 h     5058
+Leeuwarden, Busstation                   V       18 21       19 52
+Leeuwarden, Harlingersingel                      18 25       19 56
+Leeuwarden, Sint Bonifatiuspark                  18 27       19 58
+Holwerd, Veerdam                         A       18 54       20 24
+b   Alleen op maandag en vrijdag in de maanden april tot en met oktober.
+d   Rijdt van 12-12-2022 tm 06-01-2023
+f   Rijdt met ingang van 09-01-2023
+h   Alleen op vrijdag. Ook op maandag tot en met donderdag in de maanden juli en augustus.
+                      Lijn 70a                                                                      Van Minnertsga naar Leeuwarden
+                       Maandag t/m vrijdag beperkt
+                                                     Ritnummer     1003     1007     1011   1015     1017   1019    1023    1027     1031
+                      Minnertsga, Mooie Paal                   V    6 25     6 50    7 20    7 45    8 00    8 20    8 51    9 21    9 51
+                      Sint Jacobiparochie, Sint Jacobiparochie      6 28     6 53    7 23    7 48    8 03    8 23    8 54    9 24    9 54
+                      Sint Annaparochie, Van Harenstraat            6 33     6 59    7 30    7 54    8 09    8 29    9 00    9 29    9 59
+                      Sint Annaparochie, De Wissel                  6 34     7 00    7 31    7 55    8 10    8 30    9 01    9 30   10 00
+                      Berltsum, Berltsum Provinciale weg            6 38     7 04    7 35    7 59    8 14    8 34    9 05    9 34   10 04
+Maandag t/m vrijdag
+                      Bitgum, Bitgum Provinciale weg                6 40     7 06    7 37    8 01    8 16    8 36    9 07    9 36   10 06
+                      Bitgummole, Bitgummole Provinciale weg        6 41     7 07    7 38    8 02    8 17    8 37    9 08    9 37   10 07
+                      Leeuwarden, Slauerhoffweg                     6 49     7 15    7 47    8 10    8 25    8 45    9 16    9 45   10 15
+                      Leeuwarden, Snekertrekweg                     6 53     7 19    7 52    8 14    8 29    8 49    9 20    9 49   10 19
+                      Leeuwarden, Busstation                   A    6 56     7 22    7 57    8 19    8 34    8 54    9 25    9 52   10 22
+                                                     Ritnummer     1035     1039    1043    1047     1051   1055    1059    1063    1067
+                      Minnertsga, Mooie Paal                   V   10 21    10 51   11 21   11 51   12 21   12 51   13 22   13 52   14 22
+                      Sint Jacobiparochie, Sint Jacobiparochie     10 24    10 54   11 24   11 54   12 24   12 54   13 25   13 55   14 25
+                      Sint Annaparochie, Van Harenstraat           10 29    10 59   11 29   11 59   12 29   12 59   13 30   14 00   14 30
+                      Sint Annaparochie, De Wissel                 10 30    11 00   11 30   12 00   12 30   13 00   13 31   14 01   14 31
+                      Berltsum, Berltsum Provinciale weg           10 34    11 04   11 34   12 04   12 34   13 04   13 35   14 05   14 35
+                      Bitgum, Bitgum Provinciale weg               10 36    11 06   11 36   12 06   12 36   13 06   13 37   14 07   14 37
+                      Bitgummole, Bitgummole Provinciale weg       10 37    11 07   11 37   12 07   12 37   13 07   13 38   14 08   14 38
+                      Leeuwarden, Slauerhoffweg                    10 45    11 15   11 45   12 15   12 45   13 15   13 46   14 16   14 46
+                      Leeuwarden, Snekertrekweg                    10 49    11 19   11 49   12 19   12 49   13 19   13 50   14 20   14 50
+                      Leeuwarden, Busstation                   A   10 52    11 22   11 52   12 22   12 52   13 22   13 53   14 23   14 55
+                                                     Ritnummer      1071    1075    1079    1083    1087    1091    1095    1099     1103
+                      Minnertsga, Mooie Paal                   V   14 52    15 22   15 53   16 23   16 53   17 23   17 53   18 23   18 50
+                      Sint Jacobiparochie, Sint Jacobiparochie     14 55    15 25   15 56   16 26   16 56   17 26   17 56   18 26   18 53
+                      Sint Annaparochie, Van Harenstraat           15 00    15 30   16 01   16 31   17 00   17 30   18 00   18 30   18 57
+                      Sint Annaparochie, De Wissel                 15 01    15 31   16 02   16 32   17 01   17 31   18 01   18 31   18 58
+                      Berltsum, Berltsum Provinciale weg           15 05    15 35   16 06   16 36   17 05   17 35   18 05   18 35   19 02
+                      Bitgum, Bitgum Provinciale weg               15 07    15 37   16 08   16 38   17 07   17 37   18 07   18 37   19 04
+                      Bitgummole, Bitgummole Provinciale weg       15 08    15 38   16 09   16 39   17 08   17 38   18 08   18 38   19 05
+                      Leeuwarden, Slauerhoffweg                    15 16    15 46   16 17   16 47   17 16   17 46   18 16   18 46   19 13
+                      Leeuwarden, Snekertrekweg                    15 20    15 50   16 21   16 51   17 20   17 50   18 20   18 50   19 17
+                      Leeuwarden, Busstation                   A   15 25    15 55   16 26   16 56   17 25   17 55   18 23   18 52   19 19
+                                                     Ritnummer       1111    1119    1127    1135    1143
+                      Minnertsga, Mooie Paal                   V   19 52    20 52   21 52   22 52   23 52
+                      Sint Jacobiparochie, Sint Jacobiparochie     19 55    20 55   21 55   22 55   23 55
+                      Sint Annaparochie, Van Harenstraat           19 59    20 59   21 59   22 59   23 59
+                      Sint Annaparochie, De Wissel                 20 00    21 00   22 00   23 00    0 00
+                      Berltsum, Berltsum Provinciale weg           20 04    21 04   22 04   23 04    0 04
+                      Bitgum, Bitgum Provinciale weg               20 06    21 06   22 06   23 06    0 06
+                      Bitgummole, Bitgummole Provinciale weg       20 07    21 07   22 07   23 07    0 07
+                      Leeuwarden, Slauerhoffweg                    20 15    21 15   22 15   23 15    0 15
+                      Leeuwarden, Snekertrekweg                    20 19    21 19   22 19   23 19    0 19
+                      Leeuwarden, Busstation                   A   20 21    21 21   22 21   23 21    0 21
+Van Leeuwarden naar Minnertsga                                                                        Lijn 70b
+                                                                                         beperkt    Maandag t/m vrijdag
+                               Ritnummer     1004    1008     1012   1016    1020    1024          1028    1032     1036
+Leeuwarden, Busstation                   V    6 19    6 49    7 29    7 49    8 20    8 50         9 20    9 50    10 20
+Leeuwarden, Snekertrekweg                     6 21    6 51    7 31    7 51    8 22    8 52         9 22    9 52    10 22
+Leeuwarden, Slauerhoffweg                     6 25    6 55    7 35    7 55    8 26    8 56         9 26    9 56    10 26
+Bitgummole, Bitgummole Provinciale weg        6 33    7 03    7 43    8 03    8 34    9 04         9 34   10 04    10 34
+Bitgum, Bitgum Provinciale weg                6 34    7 04    7 44    8 04    8 35    9 05         9 35   10 05    10 35
+                                                                                                                           Maandag t/m vrijdag
+Berltsum, Berltsum Provinciale weg            6 36    7 06    7 46    8 06    8 37    9 07         9 37   10 07    10 37
+Sint Annaparochie, De Wissel                  6 40    7 10    7 50    8 10    8 41    9 11         9 41   10 11    10 41
+Sint Annaparochie, Van Harenstraat            6 41    7 11    7 51    8 11    8 42    9 12         9 42   10 12    10 42
+Sint Jacobiparochie, Sint Jacobiparochie      6 46    7 16    7 56    8 16    8 47    9 17         9 47   10 17    10 47
+Minnertsga, Mooie Paal                   A    6 50    7 20    8 00    8 20    8 51    9 21         9 51   10 21    10 51
+                               Ritnummer     1040    1044    1048    1052    1056    1060          1064    1068     1072
+Leeuwarden, Busstation                   V   10 50   11 20   11 50   12 20   12 50   13 20     13 50      14 20    14 50
+Leeuwarden, Snekertrekweg                    10 52   11 22   11 52   12 22   12 52   13 22     13 52      14 22    14 52
+Leeuwarden, Slauerhoffweg                    10 56   11 26   11 56   12 26   12 57   13 27     13 57      14 27    14 57
+Bitgummole, Bitgummole Provinciale weg       11 04   11 34   12 04   12 34   13 05   13 35     14 05      14 35    15 05
+Bitgum, Bitgum Provinciale weg               11 05   11 35   12 05   12 35   13 06   13 36     14 06      14 36    15 06
+Berltsum, Berltsum Provinciale weg           11 07   11 37   12 07   12 37   13 08   13 38     14 08      14 38    15 08
+Sint Annaparochie, De Wissel                 11 11   11 41   12 11   12 41   13 12   13 42     14 12      14 42    15 12
+Sint Annaparochie, Van Harenstraat           11 12   11 42   12 12   12 42   13 13   13 43     14 13      14 43    15 13
+Sint Jacobiparochie, Sint Jacobiparochie     11 17   11 47   12 17   12 47   13 18   13 48     14 18      14 48    15 18
+Minnertsga, Mooie Paal                   A   11 21   11 51   12 21   12 51   13 22   13 52     14 22      14 52    15 22
+                               Ritnummer     1076    1080    1084    1088    1092    1096          1100    1108     1116
+Leeuwarden, Busstation                   V   15 20   15 50   16 20   16 50   17 20   17 50     18 20      19 22    20 22
+Leeuwarden, Snekertrekweg                    15 22   15 52   16 22   16 52   17 22   17 52     18 22      19 24    20 24
+Leeuwarden, Slauerhoffweg                    15 27   15 57   16 27   16 57   17 27   17 57     18 26      19 28    20 28
+Bitgummole, Bitgummole Provinciale weg       15 35   16 05   16 35   17 05   17 35   18 05     18 34      19 36    20 36
+Bitgum, Bitgum Provinciale weg               15 36   16 06   16 36   17 06   17 36   18 06     18 35      19 37    20 37
+Berltsum, Berltsum Provinciale weg           15 38   16 08   16 38   17 08   17 38   18 08     18 37      19 39    20 39
+Sint Annaparochie, De Wissel                 15 42   16 12   16 42   17 12   17 42   18 12     18 41      19 43    20 43
+Sint Annaparochie, Van Harenstraat           15 44   16 14   16 44   17 14   17 44   18 14     18 42      19 44    20 44
+Sint Jacobiparochie, Sint Jacobiparochie     15 49   16 19   16 49   17 19   17 49   18 19     18 47      19 49    20 49
+Minnertsga, Mooie Paal                   A   15 53   16 23   16 53   17 23   17 53   18 23     18 50      19 52    20 52
+                               Ritnummer      1124    1132   1140
+Leeuwarden, Busstation                   V   21 22   22 22   23 22
+Leeuwarden, Snekertrekweg                    21 24   22 24   23 24
+Leeuwarden, Slauerhoffweg                    21 28   22 28   23 28
+Bitgummole, Bitgummole Provinciale weg       21 36   22 36   23 36
+Bitgum, Bitgum Provinciale weg               21 37   22 37   23 37
+Berltsum, Berltsum Provinciale weg           21 39   22 39   23 39
+Sint Annaparochie, De Wissel                 21 43   22 43   23 43
+Sint Annaparochie, Van Harenstraat           21 44   22 44   23 44
+Sint Jacobiparochie, Sint Jacobiparochie     21 49   22 49   23 49
+Minnertsga, Mooie Paal                   A   21 52   22 52   23 52
+                      Lijn 71a                                                   Van Kop Afsluitdijk via Minnertsga naar Leeuwarden
+                      Lijn 74a                                                        Van Franeker via Minnertsga naar Leeuwarden
+                       Maandag t/m vrijdag beperkt
+                                                   Lijnnummer        71     71         74     71     71     74     71      74      71
+                                                       Ritnummer   1003   1007       1013   1017   1021   1025   1029   1037    1041
+                      Franeker, Station                       V                      6 45                 7 45           8 45
+                      Franeker, Voorstraat
+Maandag t/m vrijdag
+                                                                                     6 49                 7 49           8 49
+                      Franeker, Hertog van Saxenlaan                                 6 51                 7 51           8 51
+                      Franeker, Froonacker                                           6 52                 7 52           8 52
+                      Dongjum, Tzummarumerweg                                        6 54                 7 54           8 54
+                      Tzummarum, Westerbuorren                                       6 59                 7 59           8 58
+                      Afsluitdijk, Kop Afsluitdijk                                    |     6 44           |     7 44     |      8 48
+                      Zurich, Zurich                                                  |     6 46           |     7 46     |      8 50
+                      Kimswerd, Carpe Diem                                            |     6 51           |     7 51     |      8 55
+                      Harlingen, De Batting                                           |     6 54           |     7 54     |      8 58
+                      Harlingen, Station                      A                       |     6 57           |     7 58     |      9 01
+                      Harlingen, Station                      V    5 32   6 00        |     6 59           |     8 00     |      9 03
+                      Harlingen, Veerbootterminal                  5 37   6 05        |     7 04           |     8 05     |      9 08
+                      Midlum, Weg naar Sexbierum                   5 39   6 07        |     7 06           |     8 07     |      9 10
+                      Wijnaldum, Weg naar Wijnaldum                5 42   6 10        |     7 09           |     8 10     |      9 13
+                      Pietersbierum, Provinciale weg               5 44   6 12        |     7 11   7 33    |     8 12     |      9 15
+                      Sexbierum, Hearewei                          5 45   6 13        |     7 13   7 34    |     8 13     |      9 16
+                      Oosterbierum, Keatsebuorren                  5 48   6 16        |     7 16   7 37    |     8 16     |      9 19
+                      Tzummarum, Westerbuorren                     5 50   6 18        |     7 19   7 40    |     8 19     |      9 22
+                      Tzummarum, Wapen van Barradeel               5 51   6 19       7 00   7 20   7 41   8 00   8 20    8 59    9 23
+                      Minnertsga, Hervormde Kerk                   5 56   6 24       7 05   7 25   7 46   8 05   8 25    9 04    9 28
+                      Minnertsga, Mooie Paal                  A    5 59   6 27       7 08   7 28   7 49   8 08   8 28    9 07    9 31
+                      Minnertsga, Mooie Paal                 V     6 00   6 28       7 09   7 29   7 50   8 09   8 29    9 08    9 32
+                      Wier, Wier                                   6 01   6 30       7 11   7 31   7 52   8 11   8 31    9 10    9 34
+                      Berltsum, Berlingahiem                       6 05   6 34       7 15   7 35   7 56   8 15   8 35    9 14    9 38
+                      Berltsum, Bitgumerdyk                         |      |         7 18    |      |      |      |       |       |
+                      Bitgum, Bitgum                                |     6 39       7 21    |      |     8 21    |      9 19     |
+                      Bitgummole, Terhornestrjitte                  |     6 41       7 23    |      |     8 23    |      9 21     |
+                      Ingelum, Ingelum                              |     6 44       7 26    |      |     8 26    |      9 24     |
+                      Bitgum, Bitgum Provinciale weg               6 08    |          |     7 38   7 59    |     8 38     |      9 41
+                      Bitgummole, Bitgummole Provinciale weg       6 09    |          |     7 39   8 00    |     8 39     |      9 42
+                      Marsum, Buorren                              6 15   6 48       7 30   7 45   8 06   8 30   8 45    9 28    9 48
+                      Leeuwarden, Poptawei                         6 18   6 51       7 33   7 48   8 09   8 33   8 48    9 31    9 51
+                      Leeuwarden, Westeinde                        6 20   6 53       7 36   7 51   8 12   8 36   8 51    9 33    9 53
+                      Leeuwarden, Europaplein                      6 21   6 54       7 38   7 53   8 14   8 38   8 53    9 34    9 54
+                      Leeuwarden, Harlingersingel                  6 22   6 55       7 39   7 54   8 15   8 39   8 54    9 35    9 57
+                      Leeuwarden, Busstation                 A     6 26   6 59       7 45   8 00   8 21   8 45   9 00    9 40   10 01
+Van Kop Afsluitdijk via Minnertsga naar Leeuwarden                                                     Lijn 71a
+Van Franeker via Minnertsga naar Leeuwarden                                                            Lijn 74a
+                                                                                         beperkt    Maandag t/m vrijdag
+                             Lijnnummer         74      71      74      71      74      71           74      71       74
+                                 Ritnummer   1045    1049    1053    1057    1061    1065          1069    1073     1077
+Franeker, Station                       V     9 45           10 45           11 45             12 45               13 45
+Franeker, Voorstraat
+                                                                                                                           Maandag t/m vrijdag
+                                              9 48           10 48           11 49             12 49               13 49
+Franeker, Hertog van Saxenlaan                9 50           10 50           11 51             12 51               13 51
+Franeker, Froonacker                          9 51           10 51           11 52             12 52               13 52
+Dongjum, Tzummarumerweg                       9 53           10 53           11 54             12 54               13 54
+Tzummarum, Westerbuorren                      9 57           10 57           11 58             12 58               13 58
+Afsluitdijk, Kop Afsluitdijk                   |      9 48     |     10 48     |     11 48       |        12 48      |
+Zurich, Zurich                                 |      9 50     |     10 50     |     11 50       |        12 50      |
+Kimswerd, Carpe Diem                           |      9 55     |     10 55     |     11 55       |        12 55      |
+Harlingen, De Batting                          |      9 58     |     10 58     |     11 58       |        12 58      |
+Harlingen, Station                      A      |     10 01     |     11 01     |     12 01       |        13 01      |
+Harlingen, Station                      V      |     10 03     |     11 03     |     12 03       |        13 03      |
+Harlingen, Veerbootterminal                    |     10 08     |     11 08     |     12 08       |        13 08      |
+Midlum, Weg naar Sexbierum                     |     10 10     |     11 10     |     12 10       |        13 10      |
+Wijnaldum, Weg naar Wijnaldum                  |     10 13     |     11 13     |     12 13       |        13 13      |
+Pietersbierum, Provinciale weg                 |     10 15     |     11 15     |     12 15       |        13 15      |
+Sexbierum, Hearewei                            |     10 16     |     11 16     |     12 16       |        13 16      |
+Oosterbierum, Keatsebuorren                    |     10 19     |     11 19     |     12 19       |        13 19      |
+Tzummarum, Westerbuorren                       |     10 22     |     11 22     |     12 22       |        13 22      |
+Tzummarum, Wapen van Barradeel                9 58   10 23   10 58   11 23   11 59   12 23     12 59      13 23    13 59
+Minnertsga, Hervormde Kerk                   10 03   10 28   11 03   11 28   12 04   12 28     13 04      13 28    14 04
+Minnertsga, Mooie Paal                  A    10 06   10 31   11 06   11 31   12 07   12 31     13 07      13 31    14 07
+Minnertsga, Mooie Paal                 V     10 07   10 32   11 07   11 32   12 08   12 32     13 08      13 32    14 08
+Wier, Wier                                   10 09   10 34   11 09   11 34   12 10   12 34     13 10      13 34    14 10
+Berltsum, Berlingahiem                       10 13   10 38   11 13   11 38   12 14   12 38     13 14      13 38    14 14
+Bitgum, Bitgum                               10 18     |     11 18     |     12 19     |       13 19        |      14 19
+Bitgummole, Terhornestrjitte                 10 20     |     11 20     |     12 21     |       13 21        |      14 21
+Ingelum, Ingelum                             10 23     |     11 23     |     12 24     |       13 24        |      14 24
+Bitgum, Bitgum Provinciale weg                 |     10 41     |     11 41     |     12 41       |        13 41      |
+Bitgummole, Bitgummole Provinciale weg         |     10 42     |     11 42     |     12 42       |        13 42      |
+Marsum, Buorren                              10 27   10 48   11 27   11 48   12 28   12 48     13 28      13 48    14 29
+Leeuwarden, Poptawei                         10 30   10 51   11 30   11 51   12 31   12 51     13 31      13 51    14 32
+Leeuwarden, Westeinde                        10 32   10 53   11 32   11 53   12 33   12 53     13 33      13 53    14 34
+Leeuwarden, Europaplein                      10 33   10 54   11 33   11 54   12 34   12 54     13 34      13 54    14 35
+Leeuwarden, Harlingersingel                  10 34   10 55   11 34   11 55   12 35   12 55     13 35      13 55    14 36
+Leeuwarden, Busstation                 A     10 38   10 59   11 38   11 59   12 39   12 59     13 39      13 59    14 42
+                      Lijn 71a                                                     Van Kop Afsluitdijk via Minnertsga naar Leeuwarden
+                      Lijn 74a                                                          Van Franeker via Minnertsga naar Leeuwarden
+                       Maandag t/m vrijdag beperkt
+                                                   Lijnnummer         71      74         71      74      71      74      71      74      71
+                                                       Ritnummer   1081    1085        1089   1093    1097     1101   1105    1109     1113
+                      Franeker, Station                       V            14 45              15 45           16 45           17 45
+                      Franeker, Voorstraat
+Maandag t/m vrijdag
+                                                                           14 49              15 49           16 49           17 49
+                      Franeker, Hertog van Saxenlaan                       14 51              15 51           16 51           17 51
+                      Franeker, Froonacker                                 14 52              15 52           16 52           17 52
+                      Dongjum, Tzummarumerweg                              14 54              15 54           16 54           17 54
+                      Tzummarum, Westerbuorren                             14 58              15 58           16 58           17 58
+                      Afsluitdijk, Kop Afsluitdijk                 13 48     |        14 48     |     15 48     |     16 48     |     17 48
+                      Zurich, Zurich                               13 50     |        14 50     |     15 50     |     16 50     |     17 50
+                      Kimswerd, Carpe Diem                         13 55     |        14 55     |     15 55     |     16 55     |     17 55
+                      Harlingen, De Batting                        13 58     |        14 58     |     15 58     |     16 58     |     17 58
+                      Harlingen, Station                      A    14 01     |        15 01     |     16 01     |     17 01     |     18 01
+                      Harlingen, Station                      V    14 03     |        15 03     |     16 03     |     17 03     |     18 03
+                      Harlingen, Veerbootterminal                  14 08     |        15 08     |     16 08     |     17 08     |     18 08
+                      Midlum, Weg naar Sexbierum                   14 10     |        15 10     |     16 10     |     17 10     |     18 10
+                      Wijnaldum, Weg naar Wijnaldum                14 13     |        15 13     |     16 13     |     17 13     |     18 13
+                      Pietersbierum, Provinciale weg               14 15     |        15 15     |     16 15     |     17 15     |     18 15
+                      Sexbierum, Hearewei                          14 16     |        15 16     |     16 16     |     17 16     |     18 16
+                      Oosterbierum, Keatsebuorren                  14 19     |        15 19     |     16 19     |     17 19     |     18 19
+                      Tzummarum, Westerbuorren                     14 22     |        15 22     |     16 22     |     17 22     |     18 22
+                      Tzummarum, Wapen van Barradeel          A    14 23   14 59      15 23   15 59   16 23   16 59   17 23   17 59   18 23
+                      Minnertsga, Hervormde Kerk                   14 28   15 04      15 28   16 04   16 28   17 04   17 28           18 28
+                      Minnertsga, Mooie Paal                  A    14 31   15 07      15 31   16 07   16 31   17 07   17 31           18 31
+                      Minnertsga, Mooie Paal                 V     14 32   15 08      15 32   16 08   16 32   17 08   17 32           18 32
+                      Wier, Wier                                   14 34   15 10      15 34   16 10   16 34   17 10   17 34           18 34
+                      Berltsum, Berlingahiem                       14 38   15 14      15 38   16 14   16 38   17 14   17 38           18 38
+                      Bitgum, Bitgum                                 |     15 19        |     16 19     |     17 19     |               |
+                      Bitgummole, Terhornestrjitte                   |     15 21        |     16 21     |     17 21     |               |
+                      Ingelum, Ingelum                               |     15 24        |     16 24     |     17 24     |               |
+                      Bitgum, Bitgum Provinciale weg               14 41     |        15 41     |     16 41     |     17 41           18 41
+                      Bitgummole, Bitgummole Provinciale weg       14 42     |        15 42     |     16 42     |     17 42           18 42
+                      Marsum, Buorren                              14 48   15 29      15 48   16 29   16 48   17 28   17 48           18 48
+                      Leeuwarden, Poptawei                         14 51   15 32      15 51   16 32   16 51   17 31   17 51           18 51
+                      Leeuwarden, Westeinde                        14 53   15 34      15 53   16 34   16 53   17 33   17 53           18 53
+                      Leeuwarden, Europaplein                      14 54   15 35      15 54   16 35   16 54   17 35   17 55           18 55
+                      Leeuwarden, Harlingersingel                  14 55   15 36      15 55   16 36   16 55   17 36   17 56           18 56
+                      Leeuwarden, Busstation                 A     15 01   15 42      16 01   16 42   17 01   17 42   18 02           19 00
+                                                   Lijnnummer         71      71         71      71      71
+                                                       Ritnummer    1121    1129       1137    1145    1153
+                      Afsluitdijk, Kop Afsluitdijk           V     18 48   19 46      20 46   21 46   22 46
+                      Zurich, Zurich                               18 50   19 48      20 48   21 48   22 48
+                      Kimswerd, Carpe Diem                         18 55   19 53      20 53   21 53   22 53
+                      Harlingen, De Batting                        18 58   19 56      20 56   21 56   22 56
+                      Harlingen, Station                     A     19 01   19 59      20 59   21 59   22 58
+                      Harlingen, Station                     V     19 03   20 01      21 01   22 01   23 00
+                      Harlingen, Veerbootterminal                  19 08   20 06      21 06   22 06   23 05
+                      Midlum, Weg naar Sexbierum                   19 10   20 08      21 08   22 08   23 07
+                      Wijnaldum, Weg naar Wijnaldum                19 13   20 11      21 11   22 11   23 10
+                      Pietersbierum, Provinciale weg               19 15   20 13      21 13   22 13   23 12
+                      Sexbierum, Hearewei                          19 16   20 14      21 14   22 14   23 13
+                      Oosterbierum, Keatsebuorren                  19 19   20 17      21 17   22 17   23 16
+                      Tzummarum, Westerbuorren                     19 22   20 20      21 20   22 20   23 19
+                      Tzummarum, Wapen van Barradeel               19 23   20 21      21 21   22 21   23 20
+                      Minnertsga, Hervormde Kerk                   19 27   20 25      21 25   22 25   23 24
+                      Minnertsga, Mooie Paal                 A     19 30   20 28      21 28   22 28   23 27
+                      Minnertsga, Mooie Paal                 V     19 31   20 29      21 29   22 29   23 28
+                      Wier, Wier                                   19 32   20 30      21 30   22 30   23 29
+                      Berltsum, Berlingahiem                       19 36   20 34      21 34   22 34   23 33
+                      Bitgum, Bitgum Provinciale weg               19 39   20 37      21 37   22 37   23 36
+                      Bitgummole, Bitgummole Provinciale weg       19 40   20 38      21 38   22 38   23 37
+                      Marsum, Buorren                              19 46   20 44      21 44   22 44   23 43
+                      Leeuwarden, Poptawei                         19 49   20 47      21 47   22 47   23 46
+                      Leeuwarden, Westeinde                        19 51   20 49      21 49   22 49   23 48
+                      Leeuwarden, Europaplein                      19 52   20 50      21 50   22 50   23 49
+                      Leeuwarden, Harlingersingel                  19 53   20 51      21 51   22 51   23 50
+                      Leeuwarden, Busstation                 A     19 57   20 55      21 55   22 55   23 54
+Van Leeuwarden naar Kop Afsluitdijk via Minnertsga                                                 Lijn 71b
+Van Leeuwarden naar Franeker via Minnertsga                                                        Lijn 74b
+                                                                                  beperkt    Maandag t/m vrijdag
+                               Lijnnummer     74     71     71     74     71     74           71       74      71
+                               Ritnummer    1008   1004   1012   1016   1020   1024         1028     1032    1036
+Leeuwarden, Busstation                 V    5 49          6 24   6 47   7 29   7 49         8 30     8 49    9 30
+Leeuwarden, Harlingersingel
+                                                                                                                    Maandag t/m vrijdag
+                                            5 53          6 28   6 51   7 33   7 53         8 34     8 53    9 34
+Leeuwarden, Europaplein                     5 54          6 29   6 52   7 34   7 54         8 35     8 54    9 35
+Leeuwarden, Westeinde                       5 55          6 30   6 53   7 35   7 55         8 36     8 55    9 36
+Leeuwarden, Poptawei                        5 57          6 32   6 55   7 37   7 57         8 38     8 57    9 38
+Marsum, Buorren                             6 00          6 35   6 58   7 40   8 00         8 41     9 00    9 41
+Bitgummole, Bitgummole Provinciale weg       |            6 41    |     7 46    |           8 47      |      9 47

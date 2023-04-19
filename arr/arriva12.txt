@@ -1,0 +1,300 @@
+Stiens, Lege Hearewei                             13 40      13 55   14 10   14 25   14 40   14 55   15 10   15 25    15 40
+Feinsum, Feinsum                                  13 42      13 57   14 12   14 27   14 42   14 57   15 12   15 27    15 42
+Hijum, Hijum Provinciale weg                      13 43      13 58   14 13   14 28   14 43   14 58   15 13   15 28    15 43
+Hallum, Hallum Provinciale weg                    13 46      14 01   14 16   14 31   14 46   15 01   15 16   15 31    15 46
+Marrum, Marrum Provinciale weg                    13 48      14 03   14 18   14 33   14 48   15 03   15 18   15 33    15 48
+Ferwert, Ferwert Provinciale weg                  13 51      14 06   14 21   14 36   14 51   15 06   15 21   15 36    15 51
+Blije, Blije Provinciale weg                      13 55      14 10   14 25   14 40   14 55   15 10   15 25   15 40    15 55
+Holwerd, Holwerd Provinciale weg         A        13 59      14 14   14 29   14 44   14 59   15 14   15 29   15 44    15 59
+Ternaard, Stationsweg                               |                14 37             |             15 37              |
+Hantum, Hantum                                      |                14 40             |             15 40              |
+Dokkum, Weeshuislanden                              |                14 45             |             15 45              |
+Waaxens, Waaxens                                  14 02                |             15 02             |              16 02
+Brantgum, Brantgum                                14 03                |             15 03             |              16 03
+Foudgum, F. Haverschmidtwei                       14 04                |             15 04             |              16 04
+Dokkum, Betterwird                                14 07                |             15 07             |              16 07
+Dokkum, Busstation                       A        14 12              14 48           15 13           15 48            16 13
+b   Rijdt na Holwerd door als lijn 660 naar Dokkum.
+                      Lijn 60b                                                                     Van Leeuwarden naar Dokkum via Holwerd
+                      Lijn 150b                                                                    Van Leeuwarden naar Dokkum via Holwerd
+                      Lijn 154b
+Maandag t/m vrijdag
+                                                                                                   Van Leeuwarden naar Dokkum via Holwerd
+                      Lijn 660b                                                                                      Van Holwerd naar Dokkum
+                       Maandag t/m vrijdag
+                                                     Lijnnummer             154      154     154       60      154     154     154     60      154
+                                                      Ritnummer             1136   1140     1144      1168    1152    1156   1160     1184    1168
+                      Leeuwarden, Busstation                   V        15 37      15 52   16 07     16 22   16 37   16 52   17 07   17 22   17 37
+                      Leeuwarden, Harlingersingel                       15 41      15 56   16 11     16 26   16 41   16 56   17 11   17 26   17 41
+                      Leeuwarden, Sint Bonifatiuspark                   15 43      15 58   16 13     16 28   16 43   16 58   17 13   17 28   17 43
+                      Jelsum, Jelsum                                    15 47      16 02   16 17     16 32   16 47   17 02   17 17   17 32   17 47
+                      Koarnjum, Weg naar Koarnjum                       15 48      16 03   16 18     16 33   16 48   17 03   17 18   17 33   17 48
+                      Stiens, Wythusterwei                              15 51      16 06   16 21     16 36   16 51   17 06   17 21   17 36   17 51
+                      Stiens, Lege Hearewei                             15 55      16 11   16 25     16 40   16 55   17 10   17 25   17 40   17 55
+                      Feinsum, Feinsum                                  15 57      16 13   16 27     16 42   16 57   17 12   17 27   17 42   17 57
+                      Hijum, Hijum Provinciale weg                      15 58      16 14   16 28     16 43   16 58   17 13   17 28   17 43   17 58
+                      Hallum, Hallum Provinciale weg                    16 01      16 17   16 31     16 46   17 01   17 16   17 31   17 46   18 01
+                      Marrum, Marrum Provinciale weg                    16 03      16 20   16 33     16 48   17 03   17 18   17 33   17 48   18 03
+                      Ferwert, Ferwert Provinciale weg                  16 06      16 23   16 36     16 51   17 06   17 21   17 36   17 51   18 06
+                      Blije, Blije Provinciale weg                      16 10      16 27   16 40     16 55   17 10   17 25   17 40   17 55   18 10
+                      Holwerd, Holwerd Provinciale weg         A        16 14      16 31   16 44     16 59   17 14   17 29   17 44   17 59   18 14
+                      Ternaard, Stationsweg                                        16 39               |             17 37             |
+                      Hantum, Hantum                                               16 43               |             17 40             |
+                      Dokkum, Weeshuislanden                                       16 48               |             17 45             |
+                      Waaxens, Waaxens                                               |               17 02             |             18 02
+                      Brantgum, Brantgum                                             |               17 03             |             18 03
+                      Foudgum, F. Haverschmidtwei                                    |               17 04             |             18 04
+                      Dokkum, Betterwird                                             |               17 07             |             18 07
+                      Dokkum, Busstation                       A                   16 52             17 13           17 49           18 13
+                                                     Lijnnummer             154      60      154       154     154     154     154     154     154
+                                                      Ritnummer             1172   1200    1180       1188    1196    1204    1212   1220    1228
+                      Leeuwarden, Busstation                   V        17 52      18 22   18 52     19 22   20 22   21 22   22 22   23 22    0 22
+                      Leeuwarden, Harlingersingel                       17 56      18 26   18 56     19 26   20 26   21 26   22 26   23 26    0 26
+                      Leeuwarden, Sint Bonifatiuspark                   17 58      18 28   18 58     19 28   20 28   21 28   22 28   23 28    0 28
+                      Jelsum, Jelsum                                    18 02      18 32   19 02     19 32   20 32   21 32   22 32   23 32    0 32
+                      Koarnjum, Weg naar Koarnjum                       18 03      18 33   19 03     19 33   20 33   21 33   22 33   23 33    0 33
+                      Stiens, Wythusterwei                              18 06      18 36   19 06     19 36   20 36   21 36   22 36   23 36    0 36
+                      Stiens, Lege Hearewei                             18 10      18 40   19 10     19 40   20 40   21 40   22 40   23 40    0 40
+                      Feinsum, Feinsum                                  18 12      18 42   19 12     19 42   20 42   21 42   22 42   23 42    0 42
+                      Hijum, Hijum Provinciale weg                      18 13      18 43   19 13     19 43   20 43   21 43   22 43   23 43    0 43
+                      Hallum, Hallum Provinciale weg                    18 16      18 46   19 16     19 46   20 46   21 46   22 46   23 46    0 46
+                      Marrum, Marrum Provinciale weg                    18 18      18 48   19 18     19 48   20 48   21 48   22 48   23 48    0 48
+                      Ferwert, Ferwert Provinciale weg                  18 21      18 51   19 21     19 51   20 51   21 51   22 51   23 51    0 51
+                      Blije, Blije Provinciale weg                      18 25      18 55   19 25     19 55   20 55   21 55   22 55   23 55    0 55
+                      Holwerd, Holwerd Provinciale weg         A        18 29      18 59   19 29     19 59   20 59   21 58   22 58   23 58    0 58
+                      Ternaard, Stationsweg                             18 37        |     19 37                                      0 06    1 06
+                      Hantum, Hantum                                    18 40        |     19 40                                      0 09    1 09
+                      Dokkum, Weeshuislanden                            18 45        |     19 44                                      0 13    1 13
+                      Waaxens, Waaxens                                    |        19 02     |                                         |       |
+                      Brantgum, Brantgum                                  |        19 03     |                                         |       |
+                      Foudgum, F. Haverschmidtwei                         |        19 04     |                                         |       |
+                      Dokkum, Betterwird                                  |        19 07     |                                         |       |
+                      Dokkum, Busstation                       A        18 48      19 13   19 47                                      0 16    1 16
+                      b   Rijdt na Holwerd door als lijn 660 naar Dokkum.
+                      Lijn 62a                                                                      van Buitenpost naar Leeuwarden
+                       Maandag t/m vrijdag
+Maandag t/m vrijdag
+                                                        Ritnummer   1003     1011    1515   1019    1523    1027    1035    1043    1051
+                      Buitenpost, Station                      V                             7 17            8 18    9 18   10 19   11 19
+                      Buitenpost, Jeltingalaan                                               7 19            8 20    9 20   10 21   11 21
+                      Kollum, De Colle                               5 36    6 27    6 54    7 26    8 02    8 27    9 27   10 28   11 28
+                      Kollum, Nij Meckama                            5 36    6 27    6 55    7 27    8 03    8 28    9 28   10 28   11 28
+                      Oudwoude, Foarwei                              5 41    6 32    7 00    7 32    8 08    8 33    9 33   10 33   11 33
+                      Triemen, Langelaan                             5 45    6 36    7 05    7 37    8 13    8 37    9 37   10 37   11 37
+                      Kollumerzwaag, Skoallestrjitte                 5 47    6 38    7 08    7 40    8 16    8 40    9 40   10 40   11 40
+                      De Westereen, Foarstrjitte West                5 52    6 43    7 13    7 45    8 21    8 45    9 45   10 45   11 45
+                      Feanwâlden, Station                      A     5 59    6 50    7 20    7 52    8 28    8 52    9 52   10 52   11 52
+                      Feanwâlden, Station                      V                     7 22            8 30
+                      Quatrebras, Quatrebras West                                    7 25            8 33
+                      Tytsjerk, Swarteweisein                                        7 31            8 39
+                      Leeuwarden, Oud Tolhuis                                        7 36            8 44
+                      Leeuwarden, NHL Stenden                                        7 40            8 49
+                      Leeuwarden, Busstation                   A                     7 47            8 58
+                                                        Ritnummer   1059    1067    1075    1083    1091    1099     1107    1115
+                      Buitenpost, Station                      V    12 19   13 19   14 19   15 19   16 19   17 19   18 19   19 20
+                      Buitenpost, Jeltingalaan                      12 21   13 21   14 21   15 21   16 21   17 21   18 21   19 22
+                      Kollum, De Colle                              12 28   13 28   14 28   15 28   16 28   17 28   18 28   19 29
+                      Oudwoude, Foarwei                             12 33   13 33   14 33   15 33   16 33   17 33   18 33   19 34
+                      Triemen, Langelaan                            12 37   13 37   14 37   15 37   16 37   17 37   18 37   19 38
+                      Kollumerzwaag, Skoallestrjitte                12 40   13 40   14 40   15 40   16 40   17 40   18 40   19 40
+                      De Westereen, Foarstrjitte West               12 45   13 45   14 45   15 45   16 45   17 45   18 45   19 45
+                      Feanwâlden, Station                      A    12 52   13 52   14 52   15 52   16 52   17 52   18 52   19 52
+van Leeuwarden naar Buitenpost                                                                        Lijn 62b
+                                                                                                Maandag t/m vrijdag
+                                                                                                                        Maandag t/m vrijdag
+                                  Ritnummer   1004     1012   1020    1028    1036    1055    1052      1060    1564
+Leeuwarden, Busstation                   V                                                                      13 33
+Leeuwarden, NHL Stenden                                                                                         13 40
+Leeuwarden, Oud Tolhuis                                                                                         13 42
+Tytsjerk, Swarteweisein                                                                                         13 48
+Quatrebras, Quatrebras West                                                                                     13 54
+Feanwâlden, Station                      A                                                                      13 58
+Feanwâlden, Station                      V     6 34    7 34    8 35    9 35   10 35   11 35   12 35     13 35   14 00
+Feanwâlden, Rûnwei                             6 35    7 35    8 36    9 36   10 36   11 36   12 36     13 36   14 01
+De Westereen, Foarstrjitte West                6 40    7 40    8 41    9 41   10 41   11 41   12 41     13 41   14 06
+Kollumerzwaag, Skoallestrjitte                 6 45    7 45    8 46    9 46   10 46   11 46   12 46     13 46   14 11
+Triemen, Langelaan                             6 48    7 48    8 49    9 48   10 48   11 48   12 48     13 49   14 14
+Oudwoude, Foarwei                              6 52    7 52    8 53    9 52   10 52   11 52   12 52     13 53   14 18
+Kollum, De Colle                         A     6 57    7 57    8 58    9 57   10 57   11 57   12 57     13 58   14 23
+Buitenpost, Jeltingalaan                       7 05    8 05    9 06   10 04   11 04   12 04   13 04     14 05
+Buitenpost, Station                      A     7 08    8 08    9 09   10 07   11 07   12 07   13 07     14 08
+                                  Ritnummer   1072    1568    1080    1576    1088    1584    1096      1592    1100
+Leeuwarden, Busstation                   V            14 29           15 30           16 31             17 31
+Leeuwarden, NHL Stenden                               14 37           15 38           16 39             17 39
+Leeuwarden, Oud Tolhuis                               14 42           15 42           16 42             17 42
+Tytsjerk, Swarteweisein                               14 48           15 48           16 48             17 48
+Quatrebras, Quatrebras West                           14 54           15 54           16 54             17 54
+Feanwâlden, Station                      A            14 58           15 58           16 58             17 58
+Feanwâlden, Station                      V    14 35   15 00   15 35   16 00   16 35   17 00   17 35     18 00   18 35
+Feanwâlden, Rûnwei                            14 36   15 01   15 36   16 01   16 36   17 01   17 36     18 01   18 36
+De Westereen, Foarstrjitte West               14 41   15 06   15 41   16 06   16 41   17 06   17 41     18 06   18 41
+Kollumerzwaag, Skoallestrjitte                14 46   15 11   15 46   16 11   16 46   17 11   17 46     18 11   18 46
+Triemen, Langelaan                            14 49   15 14   15 49   16 14   16 49   17 14   17 49     18 14   18 48
+Oudwoude, Foarwei                             14 53   15 18   15 53   16 18   16 53   17 18   17 53     18 18   18 52
+Kollum, De Colle                         A    14 58   15 23   15 58   16 23   16 58   17 23   17 58     18 23   18 57
+Buitenpost, Jeltingalaan                      15 05           16 05           17 05           18 05             19 04
+Buitenpost, Station                      A    15 08           16 08           17 08           18 08             19 07
+                      Lijn 63a                                                                         Van Dokkum naar Buitenpost
+                       Maandag t/m vrijdag
+Maandag t/m vrijdag
+                                                   Ritnummer   1003    1007     1011   1015    1019       1023    1027     1031   1035
+                      Dokkum, Busstation                  V     6 00    6 59    7 59    8 59   10 01      11 01   12 01   13 01   14 01
+                      Wetsens, Wetsens                          6 04    7 03    8 03    9 03   10 05      11 05   12 05   13 05   14 05
+                      Metslawier, Metslawier                    6 07    7 06    8 06    9 06   10 08      11 08   12 08   13 08   14 08
+                      Metslawier, Lauwersseewei                 6 09    7 08    8 08    9 08   10 10      11 10   12 10   13 10   14 10
+                      Ee, Ee                                    6 13    7 12    8 12    9 12   10 14      11 14   12 14   13 14   14 14
+                      Engwierum, Engwierum                      6 16    7 16    8 16    9 16   10 17      11 17   12 17   13 17   14 17
+                      Kollumerpomp, Pompsterhoek                6 20    7 20    8 20    9 20   10 21      11 21   12 21   13 21   14 21
+                      Kollum, De Colle                          6 28    7 28    8 28    9 28   10 29      11 29   12 29   13 29   14 29
+                      Buitenpost, Jeltingalaan                  6 36    7 36    8 36    9 36   10 36      11 36   12 36   13 36   14 36
+                      Buitenpost, Station                 A     6 38    7 38    8 38    9 38   10 38      11 38   12 38   13 38   14 38
+                                                   Ritnummer   1039    1043    1047    1051
+                      Dokkum, Busstation                  V    15 00   16 00   17 00   18 01
+                      Wetsens, Wetsens                         15 04   16 04   17 04   18 05
+                      Metslawier, Metslawier                   15 07   16 07   17 07   18 08
+                      Metslawier, Lauwersseewei                15 09   16 09   17 09   18 10
+                      Ee, Ee                                   15 13   16 13   17 13   18 14
+                      Engwierum, Engwierum                     15 17   16 17   17 17   18 17
+                      Kollumerpomp, Pompsterhoek               15 21   16 21   17 21   18 21
+                      Kollum, De Colle                         15 29   16 29   17 29   18 29
+                      Buitenpost, Jeltingalaan                 15 36   16 36   17 36   18 36
+                      Buitenpost, Station                 A    15 38   16 38   17 38   18 38
+Van Buitenpost naar Dokkum                                                                       Lijn 63b
+                                                                                           Maandag t/m vrijdag
+                                                                                                                   Maandag t/m vrijdag
+                             Ritnummer   1004    1008     1012   1016    1020    1024    1028      1032    1036
+Buitenpost, Station                 V     6 50    7 50    8 50    9 50   10 50   11 50   12 50     13 50   14 50
+Buitenpost, Jeltingalaan                  6 52    7 52    8 52    9 52   10 52   11 52   12 52     13 52   14 52
+Kollum, De Colle                          6 59    7 59    8 59    9 59   10 59   11 59   12 59     13 59   14 59
+Kollumerpomp, Pompsterhoek                7 05    8 05    9 05   10 05   11 05   12 05   13 05     14 05   15 05
+Engwierum, Engwierum                      7 09    8 09    9 09   10 09   11 09   12 09   13 09     14 09   15 09
+Ee, Ee                                    7 12    8 12    9 12   10 12   11 12   12 12   13 12     14 12   15 12
+Metslawier, Lauwersseewei                 7 16    8 16    9 16   10 16   11 16   12 16   13 16     14 16   15 16
+Metslawier, Metslawier                    7 18    8 18    9 18   10 18   11 18   12 18   13 18     14 18   15 18
+Wetsens, Wetsens                          7 21    8 21    9 21   10 21   11 21   12 21   13 21     14 21   15 21
+Dokkum, Busstation                  A     7 26    8 27    9 27   10 26   11 26   12 26   13 26     14 26   15 27
+                             Ritnummer   1040    1044    1048    1052
+Buitenpost, Station                 V    15 50   16 50   17 50   18 50
+Buitenpost, Jeltingalaan                 15 52   16 52   17 52   18 52
+Kollum, De Colle                         15 59   16 59   17 59   18 59
+Kollumerpomp, Pompsterhoek               16 05   17 05   18 05   19 05
+Engwierum, Engwierum                     16 09   17 09   18 09   19 09
+Ee, Ee                                   16 12   17 12   18 12   19 12
+Metslawier, Lauwersseewei                16 16   17 16   18 16   19 16
+Metslawier, Metslawier                   16 18   17 18   18 18   19 18
+Wetsens, Wetsens                         16 21   17 21   18 21   19 21
+Dokkum, Busstation                  A    16 27   17 27   18 26   19 26
+                      Lijn 66a                                                                                          Van Holwerd naar Leeuwarden
+                      Lijn 166a                                                                                         Van Holwerd naar Leeuwarden
+Maandag t/m vrijdag
+                          Maandag t/m vrijdag
+                                                      Lijnnummer          166          66           166       66      166      66      166      166       66
+                                                       Ritnummer         1003       1003          1007      1011    1015    1019 b    1021    1027     1025
+                      Holwerd, Veerdam                          V        6 56        7 10          7 56     9 25     9 56   11 25    11 56    12 56    13 55
+                      Holwerd, Holwerd Provinciale weg                    |          7 14           |       9 29      |     11 29      |        |      13 59
+                      Leeuwarden, Sint Bonifatiuspark                    7 22        7 37          8 22     9 52    10 21   11 52    12 21    13 21    14 22
+                      Leeuwarden, Harlingersingel                        7 24        7 39          8 24     9 54    10 23   11 54    12 23    13 23    14 24
+                      Leeuwarden, Busstation                    A        7 28        7 45          8 30     9 58    10 27   11 58    12 27    13 27    14 28
+                                                      Lijnnummer          166          66           166      166      166      66      166       66      166
+                                                       Ritnummer b       1033        1033 d       1039 f   1041     1045    1041     1051 h   1049 j   5057
+                      Holwerd, Veerdam                          V       14 56       15 55         16 11    16 22    17 11   17 55    18 56    19 55    20 26
+                      Holwerd, Holwerd Provinciale weg                    |         15 59           |        |        |     17 59      |      19 59      |
+                      Leeuwarden, Sint Bonifatiuspark                   15 21       16 21         16 36    16 47    17 36   18 21    19 21    20 20    20 51
+                      Leeuwarden, Harlingersingel                       15 23       16 23         16 38    16 49    17 38   18 23    19 23    20 22    20 53
+                      Leeuwarden, Busstation                    A       15 29       16 29         16 44    16 55    17 44   18 27    19 29    20 26    20 57
+                      b    Alleen op maandag en vrijdag in de maanden april tot en met oktober.
+                      d    Rijdt van 12-12-2022 tm 06-01-2023
+                      f    Rijdt met ingang van 09-01-2023
+                      h    Rijdt NIET op 5 en 6 december.
+                      j    Alleen op vrijdag. Ook op maandag tot en met donderdag in de maanden juli en augustus.
+Van Leeuwarden naar Holwerd                                                                                      Lijn 66b
+Van Leeuwarden naar Holwerd                                                                                     Lijn 166b
+                                                                                                                                        Maandag t/m vrijdag
+                                                                                                                Maandag t/m vrijdag
+                               Lijnnummer          166          66           166       66      166      66      166      166       66
+                                Ritnummer         1004       1004          1008      1012    1016    1020 b   1020     1028     1030
+Leeuwarden, Busstation                   V        6 21        6 26          7 21     8 39     9 22   10 41    11 22    12 22    13 11
+Leeuwarden, Harlingersingel                       6 25        6 30          7 25     8 43     9 26   10 45    11 26    12 26    13 15
+Leeuwarden, Sint Bonifatiuspark                   6 27        6 32          7 27     8 45     9 28   10 47    11 28    12 28    13 17
+Holwerd, Holwerd Provinciale weg                   |          6 54           |       9 09      |     11 09      |        |      13 39
+Holwerd, Veerdam                         A        6 54        7 00          7 54     9 15     9 54   11 15    11 54    12 54    13 45
+                               Lijnnummer          166          66           166      166      166      66      166       66      166
+                                Ritnummer b       1032       1038 d        1040 f   1042     1046    1046     1052 h   1054 j   5058
+Leeuwarden, Busstation                   V       14 22       15 11         15 37    15 48    16 37   17 10    18 21    19 12    19 52
+Leeuwarden, Harlingersingel                      14 26       15 15         15 41    15 52    16 41   17 14    18 25    19 16    19 56
+Leeuwarden, Sint Bonifatiuspark                  14 28       15 17         15 43    15 54    16 43   17 16    18 27    19 18    19 58
+Holwerd, Holwerd Provinciale weg                   |         15 39           |        |        |     17 39      |      19 39      |
+Holwerd, Veerdam                         A       14 54       15 45         16 09    16 20    17 09   17 45    18 54    19 45    20 24
+b   Alleen op maandag en vrijdag in de maanden april tot en met oktober.
+d   Rijdt van 12-12-2022 tm 06-01-2023
+f   Rijdt met ingang van 09-01-2023
+h   Rijdt NIET op 5 en 6 december.
+j   Alleen op vrijdag. Ook op maandag tot en met donderdag in de maanden juli en augustus.
+                      Lijn 70a                                                                      Van Minnertsga naar Leeuwarden
+                       Maandag t/m vrijdag
+Maandag t/m vrijdag
+                                                     Ritnummer     1003     1007     1011   1015     1017   1019    1023    1027     1031
+                      Minnertsga, Mooie Paal                   V    6 25     6 50    7 20    7 45    8 00    8 20    8 51    9 21    9 51
+                      Sint Jacobiparochie, Sint Jacobiparochie      6 28     6 53    7 23    7 48    8 03    8 23    8 54    9 24    9 54
+                      Sint Annaparochie, Van Harenstraat            6 33     6 59    7 30    7 54    8 09    8 29    9 00    9 29    9 59
+                      Sint Annaparochie, De Wissel                  6 34     7 00    7 31    7 55    8 10    8 30    9 01    9 30   10 00
+                      Berltsum, Berltsum Provinciale weg            6 38     7 04    7 35    7 59    8 14    8 34    9 05    9 34   10 04
+                      Bitgum, Bitgum Provinciale weg                6 40     7 06    7 37    8 01    8 16    8 36    9 07    9 36   10 06
+                      Bitgummole, Bitgummole Provinciale weg        6 41     7 07    7 38    8 02    8 17    8 37    9 08    9 37   10 07
+                      Leeuwarden, Slauerhoffweg                     6 49     7 15    7 47    8 10    8 25    8 45    9 16    9 45   10 15
+                      Leeuwarden, Snekertrekweg                     6 53     7 19    7 52    8 14    8 29    8 49    9 20    9 49   10 19
+                      Leeuwarden, Busstation                   A    6 56     7 22    7 57    8 19    8 34    8 54    9 25    9 52   10 22
+                                                     Ritnummer     1035     1039    1043    1047     1051   1055    1059    1063    1067
+                      Minnertsga, Mooie Paal                   V   10 21    10 51   11 21   11 51   12 21   12 51   13 22   13 52   14 22
+                      Sint Jacobiparochie, Sint Jacobiparochie     10 24    10 54   11 24   11 54   12 24   12 54   13 25   13 55   14 25
+                      Sint Annaparochie, Van Harenstraat           10 29    10 59   11 29   11 59   12 29   12 59   13 30   14 00   14 30
+                      Sint Annaparochie, De Wissel                 10 30    11 00   11 30   12 00   12 30   13 00   13 31   14 01   14 31
+                      Berltsum, Berltsum Provinciale weg           10 34    11 04   11 34   12 04   12 34   13 04   13 35   14 05   14 35
+                      Bitgum, Bitgum Provinciale weg               10 36    11 06   11 36   12 06   12 36   13 06   13 37   14 07   14 37
+                      Bitgummole, Bitgummole Provinciale weg       10 37    11 07   11 37   12 07   12 37   13 07   13 38   14 08   14 38
+                      Leeuwarden, Slauerhoffweg                    10 45    11 15   11 45   12 15   12 45   13 15   13 46   14 16   14 46
+                      Leeuwarden, Snekertrekweg                    10 49    11 19   11 49   12 19   12 49   13 19   13 50   14 20   14 50
+                      Leeuwarden, Busstation                   A   10 52    11 22   11 52   12 22   12 52   13 22   13 53   14 23   14 55
+                                                     Ritnummer      1071    1075    1079    1083    1087    1091    1095    1099     1103
+                      Minnertsga, Mooie Paal                   V   14 52    15 22   15 53   16 23   16 53   17 23   17 53   18 23   18 50
+                      Sint Jacobiparochie, Sint Jacobiparochie     14 55    15 25   15 56   16 26   16 56   17 26   17 56   18 26   18 53
+                      Sint Annaparochie, Van Harenstraat           15 00    15 30   16 01   16 31   17 00   17 30   18 00   18 30   18 57
+                      Sint Annaparochie, De Wissel                 15 01    15 31   16 02   16 32   17 01   17 31   18 01   18 31   18 58
+                      Berltsum, Berltsum Provinciale weg           15 05    15 35   16 06   16 36   17 05   17 35   18 05   18 35   19 02
+                      Bitgum, Bitgum Provinciale weg               15 07    15 37   16 08   16 38   17 07   17 37   18 07   18 37   19 04
+                      Bitgummole, Bitgummole Provinciale weg       15 08    15 38   16 09   16 39   17 08   17 38   18 08   18 38   19 05
+                      Leeuwarden, Slauerhoffweg                    15 16    15 46   16 17   16 47   17 16   17 46   18 16   18 46   19 13
+                      Leeuwarden, Snekertrekweg                    15 20    15 50   16 21   16 51   17 20   17 50   18 20   18 50   19 17
+                      Leeuwarden, Busstation                   A   15 25    15 55   16 26   16 56   17 25   17 55   18 23   18 52   19 19
+                                                     Ritnummer       1111    1119    1127    1135    1143
+                      Minnertsga, Mooie Paal                   V   19 52    20 52   21 52   22 52   23 52
+                      Sint Jacobiparochie, Sint Jacobiparochie     19 55    20 55   21 55   22 55   23 55
+                      Sint Annaparochie, Van Harenstraat           19 59    20 59   21 59   22 59   23 59
+                      Sint Annaparochie, De Wissel                 20 00    21 00   22 00   23 00    0 00
+                      Berltsum, Berltsum Provinciale weg           20 04    21 04   22 04   23 04    0 04
+                      Bitgum, Bitgum Provinciale weg               20 06    21 06   22 06   23 06    0 06
+                      Bitgummole, Bitgummole Provinciale weg       20 07    21 07   22 07   23 07    0 07
+                      Leeuwarden, Slauerhoffweg                    20 15    21 15   22 15   23 15    0 15
+                      Leeuwarden, Snekertrekweg                    20 19    21 19   22 19   23 19    0 19
+                      Leeuwarden, Busstation                   A   20 21    21 21   22 21   23 21    0 21
+Van Leeuwarden naar Minnertsga                                                                   Lijn 70b
+                                                                                               Maandag t/m vrijdag
+                                                                                                                      Maandag t/m vrijdag
+                               Ritnummer     1004    1008     1012   1016    1020    1024    1028     1032     1036
+Leeuwarden, Busstation                   V    6 19    6 49    7 29    7 49    8 20    8 50    9 20    9 50    10 20
+Leeuwarden, Snekertrekweg                     6 21    6 51    7 31    7 51    8 22    8 52    9 22    9 52    10 22
+Leeuwarden, Slauerhoffweg                     6 25    6 55    7 35    7 55    8 26    8 56    9 26    9 56    10 26
+Bitgummole, Bitgummole Provinciale weg        6 33    7 03    7 43    8 03    8 34    9 04    9 34   10 04    10 34
+Bitgum, Bitgum Provinciale weg                6 34    7 04    7 44    8 04    8 35    9 05    9 35   10 05    10 35
+Berltsum, Berltsum Provinciale weg            6 36    7 06    7 46    8 06    8 37    9 07    9 37   10 07    10 37
+Sint Annaparochie, De Wissel                  6 40    7 10    7 50    8 10    8 41    9 11    9 41   10 11    10 41
+Sint Annaparochie, Van Harenstraat            6 41    7 11    7 51    8 11    8 42    9 12    9 42   10 12    10 42
+Sint Jacobiparochie, Sint Jacobiparochie      6 46    7 16    7 56    8 16    8 47    9 17    9 47   10 17    10 47
+Minnertsga, Mooie Paal                   A    6 50    7 20    8 00    8 20    8 51    9 21    9 51   10 21    10 51
+                               Ritnummer     1040    1044    1048    1052    1056    1060    1064     1068     1072
+Leeuwarden, Busstation                   V   10 50   11 20   11 50   12 20   12 50   13 20   13 50   14 20    14 50
+Leeuwarden, Snekertrekweg                    10 52   11 22   11 52   12 22   12 52   13 22   13 52   14 22    14 52
+Leeuwarden, Slauerhoffweg                    10 56   11 26   11 56   12 26   12 57   13 27   13 57   14 27    14 57
+Bitgummole, Bitgummole Provinciale weg       11 04   11 34   12 04   12 34   13 05   13 35   14 05   14 35    15 05
+Bitgum, Bitgum Provinciale weg               11 05   11 35   12 05   12 35   13 06   13 36   14 06   14 36    15 06
+Berltsum, Berltsum Provinciale weg           11 07   11 37   12 07   12 37   13 08   13 38   14 08   14 38    15 08

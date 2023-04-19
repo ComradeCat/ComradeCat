@@ -1,0 +1,300 @@
+                      Donkerbroek, Donkerbroek Provinciale weg    12 19   12 59   13 19   13 59   14 19   14 38   14 59   15 19   15 38
+                      Wijnjewoude, Weinterp                         |     13 03     |     14 03     |     14 42   15 03     |     15 42
+                      Drachten, Industrieterrein Azeven             |     13 08     |     14 08     |     14 47   15 08     |     15 47
+                      Wijnjewoude, Klein Groningen                12 25     |     13 25     |     14 25     |       |     15 25     |
+                      Wijnjewoude, Duurswoude                     12 27     |     13 27     |     14 27     |       |     15 27     |
+                      Ureterp, Centrum                            12 35     |     13 35     |     14 35     |       |     15 35     |
+                      Drachten, Noorderend                        12 41   13 11   13 41   14 11   14 41   14 50   15 11   15 41   15 50
+                      Drachten, Transferium Oost              A   12 44   13 14   13 44   14 14   14 44   14 53   15 14   15 44   15 53
+                      Drachten, Transferium Oost             V    12 46   13 16   13 46   14 16   14 46           15 16   15 46
+                      Drachten, Splitting                         12 49   13 19   13 49   14 19   14 49           15 19   15 49
+                      Drachten, Zuidkade                          12 54   13 24   13 54   14 24   14 54           15 24   15 54
+                      Drachten, Het Noord                         13 00   13 30   14 00   14 30   15 00           15 30   16 00
+                      Drachten, Nijtap                            13 03   13 33   14 03   14 33   15 03           15 33   16 03
+                      Drachten, Carpool Noord                     13 04   13 34   14 04   14 34   15 04           15 34   16 04
+                      Nijega, Nijega Rijksweg                     13 09   13 39   14 09   14 39   15 09           15 39   16 09
+                      Garyp, Garyp Rijksweg                       13 13   13 43   14 13   14 43   15 13           15 43   16 13
+                      Leeuwarden, Drachtsterweg                   13 22   13 52   14 22   14 52   15 22           15 52   16 22
+                      Leeuwarden, Henri Dunantweg                 13 25   13 55   14 25   14 55   15 25           15 55   16 25
+                      Leeuwarden, Huizumerlaan                    13 29   13 59   14 29   14 59   15 29           15 59   16 29
+                      Leeuwarden, Busstation                 A    13 33   14 03   14 34   15 05   15 35           16 05   16 35
+                                                    Lijnnummer      114      14     114     114      14     114     114     114     114
+                                                    Ritnummer      1612    1616   1620    1624    1628    1632    1636    1640    1644
+                      Assen, Station                         V    15 05                   16 03           17 03   18 05   19 21   20 22
+                      Assen, Oostersingel                         15 06                   16 04           17 04   18 06   19 22   20 23
+                      Assen, Triade                               15 10                   16 08           17 08   18 09   19 25   20 26
+                      Assen, Balkenweg                            15 16                   16 14           17 14   18 15   19 31   20 32
+                      Bovensmilde, Schoolstraat                   15 23                   16 21           17 21   18 22   19 37   20 38
+                      Smilde, Centrum                             15 29                   16 28           17 28   18 28   19 43   20 43
+                      Hijkersmilde, Wittewijk                     15 32                   16 31           17 31   18 31   19 46   20 46
+                      Appelscha, Boslaan                          15 38                   16 38           17 38   18 37   19 52   20 52
+                      Appelscha, Café Hulst                       15 42                   16 42           17 42   18 41   19 56   20 56
+                      Oosterwolde, Busstation                A    15 49                   16 49           17 49   18 48   20 03   21 03
+                      Oosterwolde, Busstation                 V   15 51   16 11   16 30   16 51   17 11   17 51   18 50   20 05   21 05
+                      Oosterwolde, Jan Frankensingel              15 53   16 13   16 32   16 53   17 13   17 53   18 52   20 07   21 07
+                      Oosterwolde, Nanningasluis                  15 54   16 14   16 33   16 54   17 14   17 54   18 53   20 08   21 08
+                      Donkerbroek, Donkerbroek Provinciale weg    15 59   16 19   16 38   16 59   17 19   17 59   18 58   20 13   21 13
+                      Wijnjewoude, Weinterp                       16 03     |     16 42   17 03     |     18 03   19 02   20 17   21 17
+                      Drachten, Industrieterrein Azeven           16 08     |     16 47   17 08     |     18 08   19 07   20 22   21 22
+                      Wijnjewoude, Klein Groningen                  |     16 25     |       |     17 25     |       |       |       |
+                      Wijnjewoude, Duurswoude                       |     16 27     |       |     17 27     |       |       |       |
+                      Ureterp, Centrum                              |     16 35     |       |     17 35     |       |       |       |
+                      Drachten, Noorderend                        16 11   16 41   16 50   17 11   17 41   18 11   19 10   20 25   21 25
+                      Drachten, Transferium Oost              A   16 14   16 44   16 53   17 14   17 44   18 14   19 13   20 27   21 27
+                      Drachten, Transferium Oost             V    16 16   16 46           17 16   17 46   18 16   19 16   20 30   21 30
+                      Drachten, Splitting                         16 19   16 49           17 19   17 49   18 19   19 18   20 32   21 32
+                      Drachten, Zuidkade                          16 24   16 54           17 24   17 54   18 23   19 22   20 36   21 36
+                      Drachten, Het Noord                         16 30   17 00           17 30   18 00   18 29   19 28   20 42   21 42
+                      Drachten, Nijtap                            16 33   17 03           17 33   18 03   18 32   19 30   20 44   21 44
+                      Drachten, Carpool Noord                     16 34   17 04           17 34   18 04   18 33   19 31   20 45   21 45
+                      Nijega, Nijega Rijksweg                     16 39   17 09           17 39   18 09   18 38   19 36   20 50   21 50
+                      Garyp, Garyp Rijksweg                       16 42   17 12           17 42   18 12   18 41   19 39   20 53   21 53
+                      Leeuwarden, Drachtsterweg                   16 51   17 21           17 51   18 21   18 50   19 48   21 02   22 02
+                      Leeuwarden, Henri Dunantweg                 16 54   17 24           17 54   18 23   18 52   19 50   21 04   22 04
+                      Leeuwarden, Huizumerlaan                    16 58   17 28           17 57   18 26   18 55   19 53   21 07   22 07
+                      Leeuwarden, Busstation                 A    17 04   17 34           18 02   18 29   18 58   19 56   21 10   22 10
+Van Oosterwolde naar Leeuwarden via Drachten                         Lijn 14b
+van Assen naar Leeuwarden via Drachten                              Lijn 114b
+                                                                                          Maandag t/m vrijdag
+                                                                    Maandag t/m vrijdag
+                              Lijnnummer      114     114     114
+                              Ritnummer     1648    1652    1656
+Assen, Station                          V   21 22   22 22   23 22
+Assen, Oostersingel                         21 23   22 23   23 23
+Assen, Triade                               21 26   22 26   23 26
+Assen, Balkenweg                            21 32   22 32   23 32
+Bovensmilde, Schoolstraat                   21 38   22 38   23 38
+Smilde, Centrum                             21 43   22 43   23 43
+Hijkersmilde, Wittewijk                     21 46   22 46   23 46
+Appelscha, Boslaan                          21 52   22 52   23 52
+Appelscha, Café Hulst                       21 56   22 56   23 56
+Oosterwolde, Busstation                 A   22 03   23 03    0 03
+Oosterwolde, Busstation                 V   22 05   23 05
+Oosterwolde, Nanningasluis                  22 08   23 08
+Donkerbroek, Donkerbroek Provinciale weg    22 13   23 13
+Wijnjewoude, Weinterp                       22 17   23 17
+Drachten, Industrieterrein Azeven           22 22   23 22
+Drachten, Noorderend                        22 25   23 25
+Drachten, Transferium Oost              A   22 27   23 27
+Drachten, Transferium Oost              V   22 30   23 30
+Drachten, Splitting                         22 32   23 32
+Drachten, Zuidkade                          22 36   23 36
+Drachten, Het Noord                         22 41   23 41
+Drachten, Nijtap                            22 43   23 43
+Drachten, Carpool Noord                     22 44   23 44
+Nijega, Nijega Rijksweg                     22 49   23 49
+Garyp, Garyp Rijksweg                       22 52   23 52
+Leeuwarden, Drachtsterweg                   23 01    0 01
+Leeuwarden, Henri Dunantweg                 23 03    0 03
+Leeuwarden, Huizumerlaan                    23 06    0 06
+Leeuwarden, Busstation                  A   23 09    0 09
+                      Lijn 17a                                                    Van Heerenveen via Noordwolde naar Steenwijk
+                       Maandag t/m vrijdag
+Maandag t/m vrijdag
+                                                    Ritnummer     1003    1007     1011   1015    1019    1023    1027     1031   1035
+                      Heerenveen, Busstation                  V                    7 09    8 06    9 07   10 07   11 06   12 06   13 06
+                      Heerenveen, Oost (A32)                                       7 11    8 09    9 09   10 09   11 08   12 08   13 08
+                      Heerenveen, Burgemeester Kuperusplein                        7 15    8 13    9 13   10 13   11 12   12 12   13 12
+                      Heerenveen, Dominee Kingweg                                  7 18    8 17    9 17   10 17   11 16   12 16   13 16
+                      Heerenveen, Tolhuis                                          7 21    8 20    9 20   10 20   11 19   12 19   13 19
+                      Heerenveen, Thialf                                           7 23    8 22    9 22   10 22   11 21   12 21   13 21
+                      Oldeholtwolde, Oldeholtwolde                                 7 30    8 29    9 29   10 29   11 28   12 28   13 28
+                      Wolvega, Om den Noort                                        7 32    8 31    9 31   10 31   11 30   12 30   13 30
+                      Wolvega, Station                        A                    7 34    8 34    9 34   10 34   11 33   12 33   13 33
+                      Wolvega, Station                        V            6 37    7 37    8 37    9 37   10 37   11 36   12 36   13 36
+                      De Blesse, Noord                                     6 43    7 43    8 43    9 43   10 43   11 42   12 42   13 42
+                      Peperga, Kerk                                        6 45    7 45    8 45    9 45   10 45   11 45   12 45   13 45
+                      Steggerda, Mulderstraat                              6 47    7 47    8 47    9 47   10 47   11 47   12 47   13 47
+                      Vinkega, Schoollaan                                  6 50    7 50    8 50    9 50   10 50   11 50   12 50   13 50
+                      Noordwolde, Vlechtmuseum                A            6 58    7 58    8 58    9 58   10 58   11 58   12 58   13 58
+                      Noordwolde, Vlechtmuseum                V    5 45    7 00    8 00    9 00   10 00   11 00   12 00   13 00   14 00
+                      Noordwolde-Zuid, Zuiderweg                   5 49    7 04    8 04    9 04   10 04   11 04   12 04   13 04   14 04
+                      Wilhelminaoord, De Menning                   5 52    7 07    8 07    9 07   10 07   11 07   12 07   13 07   14 07
+                      Frederiksoord, Beukenlaan                    5 56    7 11    8 10    9 10   10 10   11 10   12 10   13 10   14 10
+                      Nijensleek, Schoolweg                        5 58    7 13    8 12    9 12   10 12   11 12   12 12   13 12   14 12
+                      Eesveen, De Eese                             6 01    7 16    8 15    9 15   10 15   11 15   12 15   13 15   14 15
+                      Steenwijk, Station                      A    6 08    7 24    8 23    9 22   10 22   11 22   12 22   13 22   14 22
+                                                    Ritnummer     1039    1043    1047    1051    1055
+                      Heerenveen, Busstation                  V   14 05   15 05   16 04   17 04   18 08
+                      Heerenveen, Oost (A32)                      14 08   15 08   16 07   17 07   18 10
+                      Heerenveen, Burgemeester Kuperusplein       14 12   15 12   16 11   17 11   18 13
+                      Heerenveen, Dominee Kingweg                 14 16   15 16   16 15   17 15   18 17
+                      Heerenveen, Tolhuis                         14 19   15 19   16 19   17 19   18 20
+                      Heerenveen, Thialf                          14 21   15 21   16 21   17 21   18 22
+                      Oldeholtwolde, Oldeholtwolde                14 28   15 28   16 28   17 28   18 29
+                      Wolvega, Om den Noort                       14 30   15 30   16 30   17 30   18 31
+                      Wolvega, Station                        A   14 33   15 33   16 33   17 33   18 33
+                      Wolvega, Station                        V   14 36   15 36   16 36   17 36   18 36
+                      De Blesse, Noord                            14 42   15 42   16 42   17 42   18 42
+                      Peperga, Kerk                               14 45   15 45   16 45   17 45   18 45
+                      Steggerda, Mulderstraat                     14 47   15 47   16 47   17 47   18 47
+                      Vinkega, Schoollaan                         14 50   15 50   16 50   17 50   18 50
+                      Noordwolde, Vlechtmuseum                A   14 58   15 58   16 58   17 58   18 58
+                      Noordwolde, Vlechtmuseum                V   15 00   16 00   17 00   18 00
+                      Noordwolde-Zuid, Zuiderweg                  15 04   16 04   17 04   18 04
+                      Wilhelminaoord, De Menning                  15 07   16 07   17 07   18 07
+                      Frederiksoord, Beukenlaan                   15 10   16 10   17 10   18 10
+                      Nijensleek, Schoolweg                       15 12   16 12   17 12   18 12
+                      Eesveen, De Eese                            15 15   16 15   17 15   18 15
+                      Steenwijk, Station                      A   15 22   16 22   17 22   18 22
+Van Steenwijk naar Heerenveen via Noordwolde                                                        Lijn 17b
+                                                                                              Maandag t/m vrijdag
+                                                                                                                     Maandag t/m vrijdag
+                              Ritnummer     1004    1008     1012   1016    1020    1024    1028      1032    1036
+Steenwijk, Station                      V            6 09            7 35    8 35    9 37   10 37    11 37   12 36
+Eesveen, De Eese                                     6 16            7 42    8 42    9 44   10 44    11 44   12 43
+Nijensleek, Schoolweg                                6 19            7 45    8 45    9 47   10 47    11 47   12 46
+Frederiksoord, Beukenlaan                            6 21            7 47    8 47    9 49   10 49    11 49   12 48
+Wilhelminaoord, De Menning                           6 25            7 51    8 51    9 52   10 52    11 52   12 51
+Noordwolde-Zuid, Zuiderweg                           6 28            7 54    8 54    9 55   10 55    11 55   12 54
+Noordwolde, Vlechtmuseum                A            6 32            7 58    8 58    9 58   10 58    11 58   12 58
+Noordwolde, Vlechtmuseum                V    5 57    6 34    7 00    8 00    9 00   10 00   11 00    12 00   13 00
+Vinkega, Schoollaan                          6 04    6 41    7 07    8 07    9 07   10 07   11 07    12 07   13 07
+Steggerda, Mulderstraat                      6 08    6 45    7 11    8 11    9 11   10 11   11 11    12 11   13 11
+Peperga, Kerk                                6 10    6 47    7 13    8 13    9 13   10 13   11 13    12 13   13 13
+De Blesse, Noord                             6 13    6 50    7 16    8 16    9 16   10 16   11 16    12 16   13 16
+Wolvega, Station                        A    6 20    6 57    7 23    8 23    9 23   10 23   11 23    12 23   13 23
+Wolvega, Station                        V    6 21    6 58    7 26    8 26    9 26   10 26   11 26    12 26   13 26
+Wolvega, Om den Noort                        6 22    6 59    7 27    8 28    9 27   10 27   11 27    12 27   13 27
+Oldeholtwolde, Oldeholtwolde                 6 24    7 01    7 29    8 30    9 29   10 29   11 29    12 29   13 29
+Heerenveen, Thialf                           6 31    7 08    7 36    8 37    9 36   10 36   11 36    12 36   13 36
+Heerenveen, Tolhuis                          6 33    7 10    7 38    8 39    9 38   10 38   11 38    12 38   13 38
+Heerenveen, Dominee Kingweg                  6 36    7 13    7 41    8 42    9 41   10 41   11 41    12 41   13 41
+Heerenveen, Burgemeester Kuperusplein        6 39    7 17    7 45    8 46    9 44   10 44   11 44    12 44   13 44
+Heerenveen, Oost (A32)                       6 42    7 21    7 49    8 50    9 48   10 48   11 48    12 48   13 48
+Heerenveen, Busstation                  A    6 45    7 24    7 53    8 54    9 51   10 51   11 51    12 51   13 51
+                              Ritnummer     1040    1044    1048    1052    1056    1060
+Steenwijk, Station                      V   13 35   14 35   15 35   16 35   17 35   18 35
+Eesveen, De Eese                            13 42   14 42   15 42   16 42   17 42   18 42
+Nijensleek, Schoolweg                       13 45   14 45   15 45   16 45   17 45   18 45
+Frederiksoord, Beukenlaan                   13 47   14 47   15 47   16 47   17 47   18 47
+Wilhelminaoord, De Menning                  13 51   14 51   15 51   16 51   17 51   18 51
+Noordwolde-Zuid, Zuiderweg                  13 54   14 54   15 54   16 54   17 54   18 54
+Noordwolde, Vlechtmuseum                A   13 58   14 58   15 58   16 58   17 58   18 58
+Noordwolde, Vlechtmuseum                V   14 00   15 00   16 00   17 00   18 00
+Vinkega, Schoollaan                         14 07   15 07   16 07   17 07   18 07
+Steggerda, Mulderstraat                     14 11   15 11   16 11   17 11   18 11
+Peperga, Kerk                               14 13   15 13   16 13   17 13   18 13
+De Blesse, Noord                            14 16   15 16   16 16   17 16   18 16
+Wolvega, Station                        A   14 23   15 23   16 23   17 23   18 23
+Wolvega, Station                        V   14 26   15 26   16 26   17 26
+Wolvega, Om den Noort                       14 27   15 27   16 27   17 27
+Oldeholtwolde, Oldeholtwolde                14 29   15 29   16 29   17 29
+Heerenveen, Thialf                          14 36   15 36   16 36   17 36
+Heerenveen, Tolhuis                         14 38   15 38   16 38   17 38
+Heerenveen, Dominee Kingweg                 14 41   15 41   16 41   17 41
+Heerenveen, Burgemeester Kuperusplein       14 44   15 44   16 44   17 44
+Heerenveen, Oost (A32)                      14 48   15 48   16 48   17 47
+Heerenveen, Busstation                  A   14 52   15 52   16 52   17 51
+                      Lijn 18a                                                               Van Noordwolde naar Oosterwolde
+                       Maandag t/m vrijdag
+Maandag t/m vrijdag
+                                                    Ritnummer   1003   1007   1011    1031    1035    1039    1043
+                      Noordwolde, Vlechtmuseum             V    7 00   8 00   9 00   14 00    15 00   16 00   17 00
+                      Oosterstreek, Schoolstraat                7 04   8 04   9 04   14 04    15 04   16 04   17 04
+                      Boijl, Kerkweg                            7 08   8 08   9 08   14 08    15 08   16 08   17 08
+                      Elsloo, School                            7 14   8 14   9 14   14 14    15 14   16 14   17 14
+                      Tronde, Tronde                            7 17   8 17   9 17   14 17    15 17   16 17   17 17
+                      Makkinga, Makkinga Provinciale weg        7 19   8 18   9 18   14 18    15 18   16 18   17 18
+                      Oosterwolde, Busstation              A    7 27   8 26   9 26   14 26    15 26   16 26   17 26
+Van Oosterwolde naar Noordwolde                                                                Lijn 18b
+                                                                                         Maandag t/m vrijdag
+                                                                                                               Maandag t/m vrijdag
+                              Ritnummer   1004   1008   1012   1032    1036    1040    1044
+Oosterwolde, Busstation              V    6 32   7 30   8 31   13 32   14 32   15 32   16 32
+Makkinga, Makkinga Provinciale weg        6 40   7 38   8 39   13 40   14 40   15 40   16 40
+Tronde, Tronde                            6 42   7 40   8 41   13 42   14 42   15 42   16 42
+Elsloo, School                            6 45   7 43   8 44   13 45   14 45   15 45   16 45
+Boijl, Kerkweg                            6 50   7 49   8 49   13 50   14 50   15 50   16 50
+Oosterstreek, Schoolstraat                6 53   7 53   8 53   13 53   14 53   15 53   16 53
+Noordwolde, Vlechtmuseum             A    6 59   7 59   8 59   13 59   14 59   15 59   16 59
+                      Lijn 20a                                                       Van Leeuwarden via Drachten naar Heerenveen
+                      Lijn 21a                                                       Van Leeuwarden via Drachten naar Heerenveen
+Maandag t/m vrijdag
+                       Maandag t/m vrijdag
+                                                    Lijnnummer        20       21     20       21     20       21     20       21     20
+                                                        Ritnummer   1007     1011   1003    1007     1011   1015    1015    1019    1019
+                      Leeuwarden, Busstation                   V                     5 31    6 00    6 25    6 56    7 30    8 04    8 34
+                      Leeuwarden, Beursplein                                         5 33    6 02    6 27    6 58    7 32    8 06    8 36
+                      Leeuwarden, Blokhuisplein                                      5 34    6 03    6 28    6 59    7 33    8 08    8 38
+                      Leeuwarden, Bote van Bolswertstraat                            5 36    6 05    6 30    7 01    7 36    8 11    8 40
+                      Leeuwarden, De Bleek                                           5 38    6 07    6 32    7 03    7 38    8 13    8 42
+                      Leeuwarden, Oud Tolhuis                                        5 40    6 09    6 35    7 06    7 41    8 16    8 45
+                      Tytsjerk, Swarteweisein                                        5 46    6 15    6 41    7 12    7 47    8 22    8 51
+                      Hurdegaryp, Hotel                                              5 50    6 19    6 45    7 16    7 51    8 26    8 55
+                      Quatrebras, Quatrebras Zuid                                    5 55    6 24    6 51    7 22    7 57    8 31    9 00
+                      Burgum, Kwekersstrjitte                                        6 02    6 31    6 59    7 30    8 04    8 38    9 07
+                      Burgum, Gemeentehûs                                            6 04    6 33    7 01    7 32    8 06    8 40    9 09
+                      Sumar, Achterwei                                               6 07    6 36    7 04    7 35    8 09    8 43    9 12
+                      Drachten, Carpool Noord                                         |      6 45     |      7 45     |      8 52     |
+                      Nijega, Dorpshuis                                              6 12     |      7 09     |      8 14     |      9 17
+                      Opeinde, Middelbuorren                                         6 16     |      7 13     |      8 18     |      9 21
+                      Drachten, Nijtap                                               6 19    6 46    7 16    7 46    8 21    8 53    9 23
+                      Drachten, Het Noord                                            6 22    6 49    7 19    7 49    8 24    8 56    9 26
+                      Drachten, Zuidkade                                             6 27    6 54    7 24    7 54    8 30    9 01    9 31
+                      Drachten, Van Knobelsdorffplein          A                     6 30    6 58    7 28    7 59    8 35    9 05    9 35
+                      Drachten, Van Knobelsdorffplein          V     5 34    6 06    6 32    7 00    7 30    8 01    8 37    9 07    9 37
+                      Drachten, Bertilla                             5 35    6 07    6 33    7 01    7 31    8 02    8 38    9 08    9 38
+                      Olterterp, Olterterp                           5 40    6 12    6 38    7 06    7 36    8 07    8 43    9 13    9 43
+                      Beetsterzwaag, Hoofdstraat                     5 44    6 16    6 42    7 10    7 40    8 11    8 47    9 17    9 47
+                      Lippenhuizen, De Driehoek                      5 52    6 24    6 50    7 18    7 48    8 19    8 55    9 25    9 55
+                      Gorredijk, Busstation                          5 57    6 29    6 55    7 23    7 53    8 24    9 00    9 30   10 00
+                      Langezwaag, De Plasse                          6 09    6 41    7 08    7 36    8 06    8 36    9 12    9 42   10 12
+                      De Knipe, 't Slúske                            6 12    6 44    7 12    7 40    8 10    8 40    9 15    9 45   10 15
+                      Heerenveen, Oost (A32)                         6 18    6 50    7 20    7 48    8 18    8 48    9 21    9 51   10 21
+                      Heerenveen, Busstation                   A     6 21    6 53    7 23    7 52    8 22    8 52    9 25    9 54   10 24
+                                                    Lijnnummer         21     20       21     20       21     20       21     20       21
+                                                        Ritnummer   1023    1023    1027    1027     1031    1031   1035    1035    1039
+                      Leeuwarden, Busstation                   V     9 05    9 34   10 05   10 34   11 05   11 34   12 05   12 34   13 05
+                      Leeuwarden, Beursplein                         9 07    9 36   10 07   10 36   11 07   11 36   12 07   12 36   13 07
+                      Leeuwarden, Blokhuisplein                      9 09    9 38   10 09   10 38   11 09   11 38   12 09   12 38   13 09
+                      Leeuwarden, Bote van Bolswertstraat            9 11    9 40   10 11   10 40   11 11   11 40   12 11   12 40   13 11
+                      Leeuwarden, De Bleek                           9 13    9 42   10 13   10 42   11 13   11 42   12 13   12 42   13 13
+                      Leeuwarden, Oud Tolhuis                        9 16    9 45   10 16   10 45   11 16   11 45   12 16   12 45   13 16
+                      Tytsjerk, Swarteweisein                        9 22    9 51   10 22   10 51   11 22   11 51   12 22   12 51   13 22
+                      Hurdegaryp, Hotel                              9 26    9 55   10 26   10 55   11 26   11 55   12 26   12 55   13 26
+                      Quatrebras, Quatrebras Zuid                    9 31   10 00   10 31   11 00   11 31   12 00   12 31   13 00   13 31
+                      Burgum, Kwekersstrjitte                        9 38   10 07   10 38   11 07   11 38   12 07   12 38   13 07   13 38
+                      Burgum, Gemeentehûs                            9 40   10 09   10 40   11 09   11 40   12 09   12 40   13 09   13 40
+                      Sumar, Achterwei                               9 43   10 12   10 43   11 12   11 43   12 12   12 43   13 12   13 43
+                      Drachten, Carpool Noord                        9 52     |     10 52     |     11 52     |     12 52     |     13 52
+                      Nijega, Dorpshuis                               |     10 17     |     11 17     |     12 17     |     13 17     |
+                      Opeinde, Middelbuorren                          |     10 21     |     11 21     |     12 21     |     13 21     |
+                      Drachten, Nijtap                               9 53   10 23   10 53   11 23   11 53   12 23   12 53   13 23   13 53
+                      Drachten, Het Noord                            9 56   10 26   10 56   11 26   11 56   12 26   12 56   13 26   13 56
+                      Drachten, Zuidkade                            10 01   10 31   11 01   11 31   12 01   12 31   13 01   13 31   14 01
+                      Drachten, Van Knobelsdorffplein          A    10 05   10 35   11 05   11 35   12 05   12 35   13 05   13 35   14 05
+                      Drachten, Van Knobelsdorffplein          V    10 07   10 37   11 07   11 37   12 07   12 37   13 07   13 37   14 07
+                      Drachten, Bertilla                            10 08   10 38   11 08   11 38   12 08   12 38   13 08   13 38   14 08
+                      Olterterp, Olterterp                          10 13   10 43   11 13   11 43   12 13   12 43   13 13   13 43   14 13
+                      Beetsterzwaag, Hoofdstraat                    10 17   10 47   11 17   11 47   12 17   12 47   13 17   13 47   14 17
+                      Lippenhuizen, De Driehoek                     10 25   10 55   11 25   11 55   12 25   12 55   13 25   13 55   14 25
+                      Gorredijk, Busstation                         10 30   11 00   11 30   12 00   12 30   13 00   13 30   14 00   14 30
+                      Langezwaag, De Plasse                         10 42   11 12   11 42   12 12   12 42   13 12   13 42   14 12   14 42
+                      De Knipe, 't Slúske                           10 45   11 15   11 45   12 15   12 45   13 15   13 45   14 15   14 45
+                      Heerenveen, Oost (A32)                        10 51   11 21   11 51   12 21   12 51   13 21   13 51   14 21   14 51
+                      Heerenveen, Busstation                   A    10 54   11 24   11 54   12 24   12 54   13 24   13 54   14 24   14 55
+Van Leeuwarden via Drachten naar Heerenveen                                                       Lijn 20a
+Van Leeuwarden via Drachten naar Heerenveen                                                       Lijn 21a
+                                                                                                                       Maandag t/m vrijdag
+                                                                                                Maandag t/m vrijdag
+                              Lijnnummer        20       21     20       21     20       21     20       21      20
+                                  Ritnummer   1039    1043    1043    1047    1047    1051    1051     1055     1055
+Leeuwarden, Busstation                   V    13 34   14 05   14 32   15 03   15 32   16 04   16 31   17 04    17 35
+Leeuwarden, Beursplein                        13 36   14 07   14 34   15 05   15 34   16 06   16 33   17 06    17 37
+Leeuwarden, Blokhuisplein                     13 38   14 09   14 36   15 07   15 36   16 08   16 35   17 08    17 39
+Leeuwarden, Bote van Bolswertstraat           13 40   14 11   14 39   15 10   15 39   16 11   16 38   17 11    17 41
+Leeuwarden, De Bleek                          13 42   14 13   14 41   15 12   15 41   16 13   16 40   17 13    17 43
+Leeuwarden, Oud Tolhuis                       13 45   14 16   14 44   15 15   15 44   16 16   16 43   17 16    17 46
+Tytsjerk, Swarteweisein                       13 51   14 22   14 50   15 21   15 50   16 22   16 49   17 22    17 52
+Hurdegaryp, Hotel                             13 55   14 26   14 54   15 25   15 54   16 26   16 53   17 26    17 56
+Quatrebras, Quatrebras Zuid                   14 00   14 31   15 00   15 31   16 00   16 31   16 59   17 31    18 01
+Burgum, Kwekersstrjitte                       14 07   14 38   15 07   15 38   16 07   16 38   17 06   17 38    18 08
+Burgum, Gemeentehûs                           14 09   14 40   15 09   15 40   16 09   16 40   17 08   17 40    18 10
+Sumar, Achterwei                              14 12   14 43   15 12   15 43   16 12   16 43   17 11   17 43    18 13
+Drachten, Carpool Noord                         |     14 52     |     15 52     |     16 52     |     17 52      |
+Nijega, Dorpshuis                             14 17     |     15 17     |     16 17     |     17 16     |      18 18
+Opeinde, Middelbuorren                        14 21     |     15 21     |     16 21     |     17 20     |      18 22
+Drachten, Nijtap                              14 23   14 53   15 23   15 53   16 23   16 53   17 22   17 53    18 24
+Drachten, Het Noord                           14 26   14 56   15 26   15 56   16 26   16 56   17 25   17 56    18 26
+Drachten, Zuidkade                            14 31   15 01   15 31   16 01   16 31   17 01   17 30   18 01    18 31

@@ -1,0 +1,300 @@
+                      Heerenveen, Burgemeester Kuperusplein               22 41
+                      Heerenveen, Dominee Kingweg                         22 45
+                      Heerenveen, Thialf                                  22 50
+                      Oudeschoot, Centrum                                 22 52
+                      Mildam, Mildam                                      22 57
+                      Katlijk, Bisschopslaan                              22 58
+                      Nieuwehorne, Sportpark                              23 03
+                      Oudehorne, Oldeberkoperweg                          23 06
+                      Jubbega-Schurega, Zwanenburgreed                    23 09
+                      Jubbega 3e Sluis, Bramenstraat            A         23 12
+                      b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+Van Assen naar Heerenveen via Oosterwolde                                                                                    Lijn 115b
+Van Jubbega naar Heerenveen                                                                                                  Lijn 515b
+                                                                                                                                                           Maandag t/m vrijdag
+                                                                                                                              Maandag t/m vrijdag
+                                Lijnnummer           115         115         115         115         115         115         115         115         115
+                                Ritnummer          1008         1016       1020         1028        1036        1044        1052       1060         1068
+Assen, Station                            V                                 6 29        7 35        8 35        9 35       10 35       11 35       12 35
+Assen, Triade                                                               6 34        7 40        8 40        9 40       10 40       11 40       12 40
+Assen, Balkenweg                                                            6 40        7 46        8 46        9 46       10 46       11 46       12 46
+Bovensmilde, Schoolstraat                                                   6 47        7 53        8 53        9 53       10 53       11 53       12 53
+Smilde, Centrum                                                             6 53        7 59        8 59        9 59       10 59       11 59       12 59
+Hijkersmilde, Wittewijk                                                     6 56        8 02        9 02       10 02       11 02       12 02       13 02
+Appelscha, Boslaan                                                          7 02        8 08        9 08       10 08       11 08       12 08       13 08
+Appelscha, Café Hulst                                                       7 06        8 12        9 12       10 12       11 12       12 12       13 12
+Oosterwolde, Busstation                   A                                 7 13        8 19        9 19       10 19       11 19       12 19       13 19
+Oosterwolde, Busstation                 V           5 51        6 49        7 15        8 21        9 21       10 21       11 21       12 21       13 21
+Oosterwolde, Nanningasluis                          5 54        6 52        7 18        8 24        9 24       10 24       11 24       12 24       13 24
+Donkerbroek, Donkerbroek Provinciale weg            5 59        6 57        7 23        8 29        9 29       10 29       11 29       12 29       13 29
+Hoornsterzwaag, Freulewei                           6 05        7 03        7 30        8 35        9 35       10 35       11 35       12 35       13 35
+Jubbega 3e Sluis, Bramenstraat                      6 10        7 08        7 36        8 40        9 40       10 40       11 40       12 40       13 40
+Jubbega, Hendrik de Vosweg                          6 16        7 14        7 42        8 46        9 46       10 46       11 46       12 46       13 46
+Oudehorne, Oldeberkoperweg                          6 20        7 18        7 46        8 49        9 49       10 49       11 49       12 49       13 49
+Nieuwehorne, Sportpark                              6 24        7 22        7 50        8 53        9 53       10 53       11 53       12 53       13 53
+Katlijk, Bisschopslaan                              6 30        7 28        7 56        8 59        9 58       10 58       11 58       12 58       13 58
+Mildam, Mildam                                      6 31        7 29        7 57        9 00        9 59       10 59       11 59       12 59       13 59
+Oudeschoot, Centrum                                 6 36        7 34        8 02        9 05       10 04       11 04       12 04       13 04       14 04
+Heerenveen, Thialf                                  6 39        7 37        8 05        9 07       10 06       11 06       12 06       13 06       14 06
+Heerenveen, Dominee Kingweg                         6 43        7 41        8 10        9 11       10 10       11 10       12 10       13 10       14 10
+Heerenveen, Burgemeester Kuperusplein               6 46        7 44        8 13        9 14       10 13       11 13       12 13       13 13       14 13
+Heerenveen, Oost (A32)                              6 50        7 48        8 18        9 18       10 17       11 17       12 17       13 17       14 17
+Heerenveen, Busstation                  A           6 53        7 52        8 22        9 22       10 20       11 20       12 20       13 20       14 20
+                                Lijnnummer           115         115         115         115         115         115         515         515         515
+                                Ritnummer           1076       1084         1092        1100        1108         1116 b     1062 b     1070 b       1078
+Assen, Station                          V          13 35       14 35       15 35       16 33       17 35       18 35
+Assen, Triade                                      13 40       14 40       15 40       16 38       17 40       18 39
+Assen, Balkenweg                                   13 46       14 46       15 46       16 44       17 46       18 45
+Bovensmilde, Schoolstraat                          13 53       14 53       15 53       16 51       17 53       18 51
+Smilde, Centrum                                    13 59       14 59       15 59       16 58       17 59       18 57
+Hijkersmilde, Wittewijk                            14 02       15 02       16 02       17 01       18 02       19 00
+Appelscha, Boslaan                                 14 08       15 08       16 08       17 08       18 08       19 06
+Appelscha, Café Hulst                              14 12       15 12       16 12       17 12       18 12       19 10
+Oosterwolde, Busstation                 A          14 19       15 19       16 19       17 19       18 19       19 17
+Oosterwolde, Busstation                 V          14 21       15 21       16 21       17 21       18 21       19 19
+Oosterwolde, Nanningasluis                         14 24       15 24       16 24       17 24       18 24       19 22
+Donkerbroek, Donkerbroek Provinciale weg           14 29       15 29       16 29       17 29       18 29       19 27
+Hoornsterzwaag, Freulewei                          14 35       15 35       16 35       17 35       18 35       19 33
+Jubbega 3e Sluis, Bramenstraat                     14 40       15 40       16 40       17 40       18 40       19 38       20 12       21 12       22 12
+Jubbega, Hendrik de Vosweg                         14 46       15 46       16 46       17 46       18 46       19 44       20 18       21 18       22 18
+Oudehorne, Oldeberkoperweg                         14 49       15 49       16 49       17 49       18 49       19 47       20 21       21 21       22 21
+Nieuwehorne, Sportpark                             14 53       15 53       16 53       17 53       18 53       19 51       20 25       21 25       22 24
+Katlijk, Bisschopslaan                             14 58       15 58       16 58       17 58       18 58       19 56       20 30       21 30       22 29
+Mildam, Mildam                                     14 59       15 59       16 59       17 59       18 59       19 57       20 31       21 31       22 30
+Oudeschoot, Centrum                                15 04       16 04       17 04       18 03       19 03       20 01       20 35       21 35       22 34
+Heerenveen, Thialf                                 15 06       16 06       17 06       18 05       19 05       20 03       20 37       21 37       22 36
+Heerenveen, Dominee Kingweg                        15 10       16 10       17 10       18 09       19 09       20 07       20 41       21 41       22 40
+Heerenveen, Burgemeester Kuperusplein              15 13       16 13       17 13       18 12       19 12       20 10       20 44       21 44       22 43
+Heerenveen, Oost (A32)                             15 17       16 17       17 17       18 16       19 16       20 14       20 48       21 48       22 46
+Heerenveen, Busstation                  A          15 21       16 21       17 21       18 19       19 19       20 17       20 51       21 51       22 49
+                                Lijnnummer           515
+                                Ritnummer b        1086
+Jubbega 3e Sluis, Bramenstraat            V        23 12
+Jubbega, Hendrik de Vosweg                         23 18
+Oudehorne, Oldeberkoperweg                         23 21
+Nieuwehorne, Sportpark                             23 24
+Katlijk, Bisschopslaan                             23 29
+Mildam, Mildam                                     23 30
+Oudeschoot, Centrum                                23 34
+Heerenveen, Thialf                                 23 36
+Heerenveen, Dominee Kingweg                        23 40
+Heerenveen, Burgemeester Kuperusplein              23 43
+Heerenveen, Oost (A32)                             23 46
+Heerenveen, Busstation                    A        23 49
+b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+                      Lijn 116a                                                                                             Van Wolvega naar Oosterwolde
+                      Lijn 516a                                                                                             Van Wolvega naar Oosterwolde
+Maandag t/m vrijdag
+                       Maandag t/m vrijdag
+                                                      Lijnnummer           516         116         116         116         116         116         116         116         116
+                                                      Ritnummer b        1003        1007         1011        1015        1019        1023        1027        1031        1035
+                      Wolvega, Station                         V          6 37        7 37        8 37        9 37       10 37       11 37       12 37       13 37       14 37
+                      Wolvega, Om den Noort                               6 38        7 38        8 38        9 38       10 38       11 38       12 38       13 38       14 38
+                      Oldeholtpade, Oldeholtpade Prov. weg                6 43        7 43        8 43        9 43       10 43       11 43       12 43       13 43       14 43
+                      Nijeholtpade, Nijeholtpade Prov. weg                6 45        7 45        8 45        9 45       10 45       11 45       12 45       13 45       14 45
+                      Oldeberkoop, Oldeberkoop Provinciale weg            6 49        7 49        8 49        9 49       10 49       11 49       12 49       13 49       14 49
+                      Nijeberkoop, Nijeberkoop Provinciale weg            6 53        7 53        8 53        9 53       10 53       11 53       12 53       13 53       14 53
+                      Makkinga, Makkinga Provinciale weg                  6 55        7 56        8 56        9 55       10 55       11 55       12 55       13 56       14 56
+                      Makkinga, Makkinga                                  6 57        7 58        8 58        9 57       10 57       11 57       12 57       13 58       14 58
+                      Oosterwolde, Nanningasluis                          7 04        8 04        9 04       10 03       11 03       12 03       13 03       14 04       15 04
+                      Oosterwolde, Busstation                  A          7 07        8 07        9 07       10 06       11 06       12 06       13 06       14 07       15 07
+                                                      Lijnnummer           116         116         116         116         516
+                                                      Ritnummer           1039        1043        1047        1051 b      1055
+                      Wolvega, Station                         V         15 37       16 37       17 37       18 37       19 37
+                      Wolvega, Om den Noort                              15 38       16 38       17 38       18 38       19 38
+                      Oldeholtpade, Oldeholtpade Prov. weg               15 43       16 43       17 43       18 43       19 43
+                      Nijeholtpade, Nijeholtpade Prov. weg               15 45       16 45       17 45       18 45       19 45
+                      Oldeberkoop, Oldeberkoop Provinciale weg           15 49       16 49       17 49       18 49       19 49
+                      Nijeberkoop, Nijeberkoop Provinciale weg           15 53       16 53       17 53       18 53       19 53
+                      Makkinga, Makkinga Provinciale weg                 15 56       16 56       17 56       18 55       19 55
+                      Makkinga, Makkinga                                 15 58       16 58       17 58       18 57       19 57
+                      Oosterwolde, Nanningasluis                         16 04       17 04       18 04       19 03       20 01
+                      Oosterwolde, Busstation                  A         16 07       17 07       18 07       19 06       20 04
+                      b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+Van Oosterwolde naar Wolvega                                                                                                 Lijn 116b
+Van Oosterwolde naar Wolvega                                                                                                 Lijn 516b
+                                                                                                                                                           Maandag t/m vrijdag
+                                                                                                                              Maandag t/m vrijdag
+                                Lijnnummer           516         116         116         116         116         116         116         116         116
+                                Ritnummer b        1004        1008         1012        1016       1020         1024        1028        1032        1036
+Oosterwolde, Busstation                  V          5 47        6 52        7 52        8 52        9 52       10 52       11 52       12 52       13 52
+Oosterwolde, Nanningasluis                          5 50        6 55        7 55        8 55        9 55       10 55       11 55       12 55       13 55
+Makkinga, Makkinga                                  5 56        7 01        8 01        9 01       10 01       11 01       12 01       13 01       14 01
+Makkinga, Makkinga Provinciale weg                  5 58        7 03        8 03        9 03       10 03       11 03       12 03       13 03       14 03
+Nijeberkoop, Nijeberkoop Provinciale weg            6 00        7 05        8 05        9 05       10 05       11 05       12 05       13 05       14 05
+Oldeberkoop, Oldeberkoop Provinciale weg            6 04        7 09        8 09        9 09       10 09       11 09       12 09       13 09       14 09
+Nijeholtpade, Nijeholtpade Prov. weg                6 08        7 13        8 13        9 13       10 13       11 13       12 13       13 13       14 13
+Oldeholtpade, Oldeholtpade Prov. weg                6 11        7 16        8 16        9 16       10 16       11 16       12 16       13 16       14 16
+Wolvega, Om den Noort                               6 15        7 20        8 21        9 20       10 20       11 20       12 20       13 20       14 20
+Wolvega, Station                         A          6 17        7 22        8 23        9 22       10 22       11 22       12 22       13 22       14 22
+                                Lijnnummer           116         116         116         116         516
+                                Ritnummer          1040         1044       1048         1052 b      1056
+Oosterwolde, Busstation                  V         14 52       15 52       16 52       17 52       18 52
+Oosterwolde, Nanningasluis                         14 55       15 55       16 55       17 55       18 55
+Makkinga, Makkinga                                 15 01       16 01       17 01       18 01       19 01
+Makkinga, Makkinga Provinciale weg                 15 03       16 03       17 03       18 03       19 03
+Nijeberkoop, Nijeberkoop Provinciale weg           15 05       16 05       17 05       18 05       19 05
+Oldeberkoop, Oldeberkoop Provinciale weg           15 09       16 09       17 09       18 09       19 09
+Nijeholtpade, Nijeholtpade Prov. weg               15 13       16 13       17 13       18 13       19 13
+Oldeholtpade, Oldeholtpade Prov. weg               15 16       16 16       17 16       18 16       19 16
+Wolvega, Om den Noort                              15 20       16 20       17 20       18 20       19 20
+Wolvega, Station                         A         15 22       16 22       17 22       18 22       19 22
+b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+                      Lijn 155a                                                                  Van Lauwersoog naar Leeuwarden
+                      Lijn 355a                                                                       Van Dokkum naar Leeuwarden
+                      Lijn 655a
+Maandag t/m vrijdag
+                                                                                                 Van Lauwersoog naar Leeuwarden
+                       Maandag t/m vrijdag
+                                                    Lijnnummer    355     355      155    355       155    355      155    355     655
+                                                    Ritnummer    1003    1007    1503     1011    1505    1015    1507    1019    1009
+                      Lauwersoog, Dorp                      V                     6 11                             7 00
+                      Lauwersoog, Visafslag                                       6 12                             7 01
+                      Lauwersoog, Veerhaven                 A                      |                                |
+                      Lauwersoog, Veerhaven                 V                      |                                |              7 55
+                      Oostmahorn, Esonstad                                         |                               7 12             |
+                      Anjum, Nieuweweg                                            6 19                             7 16            8 02
+                      Morra, Keechsdyk                                            6 22                             7 19            8 05
+                      Metslawier, Rotonde                                         6 24                             7 22            8 07
+                      Dokkum, Busstation                    A                     6 31                             7 30            8 14
+                      Dokkum, Busstation                    V     6 00    6 30    6 33    7 00     7 02    7 29    7 32    8 00    8 16
+                      Dokkum, Watertoren                          6 01    6 31    6 34    7 01     7 03    7 30    7 33    8 01    8 17
+                      Dokkum, Sionsberg                           6 04    6 34    6 37    7 04     7 06    7 33    7 36    8 04    8 20
+                      Feanwâlden, Station                   A      |       |      6 50     |       7 20     |      7 50     |       |
+                      Feanwâlden, Station                   V      |       |      6 52     |                |      7 52     |       |
+                      Quatrebras, Quatrebras West                  |       |      6 55     |                |      7 55     |       |
+                      Tytsjerk, Swarteweisein                      |       |      7 01     |                |      8 01     |       |
+                      Leeuwarden, Oud Tolhuis                      |       |      7 06     |                |      8 06     |      8 42
+                      Leeuwarden, NHL Stenden                      |       |       |       |                |       |       |      8 48
+                      Leeuwarden, De Bleek                         |       |      7 10     |                |      8 11     |       |
+                      Leeuwarden, Koepelkerk                       |       |      7 12     |                |      8 13     |       |
+                      Leeuwarden, Blokhuisplein                   6 29    6 59    7 14    7 32             8 01    8 15    8 32     |
+                      Leeuwarden, Busstation                A     6 33    7 03    7 18    7 39             8 08    8 22    8 39    8 58
+                                                    Lijnnummer    355      155    355     355       155    355     355      155    355
+                                                    Ritnummer    1023     1511   1027     1031     1515   1035    1039     1519   1043
+                      Lauwersoog, Dorp                      V             8 15                     9 13                   10 12
+                      Lauwersoog, Visafslag                               8 18                     9 16                   10 15
+                      Lauwersoog, Veerhaven                 A             8 20                     9 18                   10 17
+                      Lauwersoog, Veerhaven                 V             8 23                     9 21                   10 21
+                      Anjum, Nieuweweg                                    8 30                     9 28                   10 28
+                      Morra, Keechsdyk                                    8 33                     9 31                   10 31
+                      Metslawier, Rotonde                                 8 35                     9 33                   10 33
+                      Dokkum, Busstation                    A             8 42                     9 40                   10 40
+                      Dokkum, Busstation                    V     8 30    8 42    9 00    9 30     9 42   10 00   10 30   10 42   11 00
+                      Dokkum, Watertoren                          8 31    8 43    9 01    9 31     9 43   10 01   10 31   10 43   11 01
+                      Dokkum, Sionsberg                           8 34    8 46    9 04    9 34     9 46   10 04   10 34   10 46   11 04
+                      Feanwâlden, Station                   A      |      8 59     |       |       9 59     |       |     10 59     |
+                      Feanwâlden, Station                   V      |      9 01     |       |      10 01     |       |     11 01     |
+                      Quatrebras, Quatrebras West                  |      9 04     |       |      10 04     |       |     11 04     |
+                      Tytsjerk, Swarteweisein                      |      9 10     |       |      10 10     |       |     11 10     |
+                      Leeuwarden, Oud Tolhuis                      |      9 15     |       |      10 15     |       |     11 15     |
+                      Leeuwarden, De Bleek                         |      9 19     |       |      10 19     |       |     11 19     |
+                      Leeuwarden, Koepelkerk                       |      9 21     |       |      10 21     |       |     11 21     |
+                      Leeuwarden, Blokhuisplein                   9 02    9 23    9 31   10 01    10 23   10 31   11 01   11 23   11 31
+                      Leeuwarden, Busstation                A     9 09    9 28    9 35   10 05    10 26   10 35   11 05   11 26   11 35
+                                                    Lijnnummer    355      155    355     355       155    355     355      155    355
+                                                    Ritnummer    1047    1523    1051    1055     1527    1059    1063     1531   1067
+                      Lauwersoog, Dorp                      V            11 12                    12 13                   13 13
+                      Lauwersoog, Visafslag                              11 15                    12 16                   13 16
+                      Lauwersoog, Veerhaven                 A            11 17                    12 18                   13 18
+                      Lauwersoog, Veerhaven                 V            11 23                    12 21                   13 21
+                      Anjum, Nieuweweg                                   11 30                    12 28                   13 28
+                      Morra, Keechsdyk                                   11 33                    12 31                   13 31
+                      Metslawier, Rotonde                                11 35                    12 33                   13 33
+                      Dokkum, Busstation                    A            11 42                    12 40                   13 40
+                      Dokkum, Busstation                    V    11 30   11 42   12 00   12 30    12 42   13 00   13 30   13 42   14 00
+                      Dokkum, Watertoren                         11 31   11 43   12 01   12 31    12 43   13 01   13 31   13 43   14 01
+                      Dokkum, Sionsberg                          11 34   11 46   12 04   12 34    12 46   13 04   13 34   13 46   14 04
+                      Feanwâlden, Station                   A      |     11 59     |       |      12 59     |       |     13 59     |
+                      Feanwâlden, Station                   V      |     12 01     |       |      13 01     |       |     14 01     |
+                      Quatrebras, Quatrebras West                  |     12 04     |       |      13 04     |       |     14 04     |
+                      Tytsjerk, Swarteweisein                      |     12 10     |       |      13 10     |       |     14 10     |
+                      Leeuwarden, Oud Tolhuis                      |     12 15     |       |      13 15     |       |     14 15     |
+                      Leeuwarden, De Bleek                         |     12 19     |       |      13 19     |       |     14 19     |
+                      Leeuwarden, Koepelkerk                       |     12 21     |       |      13 21     |       |     14 21     |
+                      Leeuwarden, Blokhuisplein                  12 01   12 23   12 31   13 01    13 23   13 31   14 01   14 23   14 33
+                      Leeuwarden, Busstation                A    12 05   12 26   12 35   13 05    13 26   13 35   14 05   14 27   14 39
+Van Lauwersoog naar Leeuwarden                                                              Lijn 155a
+Van Dokkum naar Leeuwarden                                                                  Lijn 355a
+                                                                                            Lijn 655a
+                                                                                                                    Maandag t/m vrijdag
+Van Lauwersoog naar Leeuwarden
+                                                                                             Maandag t/m vrijdag
+                              Lijnnummer    355      155    355     355      155    355     355      155      355
+                              Ritnummer     1071   1535    1075    1079    1539    1083    1087     1543     1091
+Lauwersoog, Dorp                      V            14 13                   15 13                   16 13
+Lauwersoog, Visafslag                              14 16                   15 16                   16 16
+Lauwersoog, Veerhaven                 A            14 18                   15 18                   16 18
+Lauwersoog, Veerhaven                 V            14 23                   15 21                   16 23
+Anjum, Nieuweweg                                   14 30                   15 28                   16 30
+Morra, Keechsdyk                                   14 33                   15 31                   16 33
+Metslawier, Rotonde                                14 35                   15 33                   16 35
+Dokkum, Busstation                    A            14 42                   15 40                   16 42
+Dokkum, Busstation                    V    14 30   14 42   15 01   15 31   15 41   16 01   16 31   16 42    17 02
+Dokkum, Watertoren                         14 31   14 43   15 02   15 32   15 42   16 02   16 32   16 43    17 03
+Dokkum, Sionsberg                          14 34   14 46   15 05   15 35   15 45   16 05   16 35   16 46    17 06
+Feanwâlden, Station                   A      |     14 59     |       |     15 59     |       |     17 00      |
+Feanwâlden, Station                   V      |     15 01     |       |     16 01     |       |     17 02      |
+Quatrebras, Quatrebras West                  |     15 04     |       |     16 04     |       |     17 05      |
+Tytsjerk, Swarteweisein                      |     15 10     |       |     16 10     |       |     17 11      |
+Leeuwarden, Oud Tolhuis                      |     15 15     |       |     16 15     |       |     17 16      |
+Leeuwarden, De Bleek                         |     15 19     |       |     16 19     |       |     17 20      |
+Leeuwarden, Koepelkerk                       |     15 21     |       |     16 21     |       |     17 22      |
+Leeuwarden, Blokhuisplein                  15 03   15 23   15 34   16 04   16 23   16 34   17 04   17 24    17 35
+Leeuwarden, Busstation                A    15 09   15 29   15 40   16 10   16 29   16 40   17 10   17 30    17 41
+                              Lijnnummer    355      155    355     355      155    355      155     155      155
+                              Ritnummer    1095    1547    1099     1103    1551    1107   1555     1559     1563
+Lauwersoog, Dorp                      V            17 13                   18 13           19 13   20 13
+Lauwersoog, Visafslag                              17 16                   18 16           19 16   20 16
+Lauwersoog, Veerhaven                 A            17 18                   18 18           19 18   20 18
+Lauwersoog, Veerhaven                 V            17 23                   18 23           19 21   20 23
+Anjum, Nieuweweg                                   17 30                   18 30           19 28   20 30
+Morra, Keechsdyk                                   17 33                   18 33           19 31   20 33
+Metslawier, Rotonde                                17 35                   18 35           19 33   20 35
+Dokkum, Busstation                    A            17 42                   18 42           19 40   20 42
+Dokkum, Busstation                    V    17 33   17 42   18 02   18 30   18 42   19 00   19 42   20 42    21 42
+Dokkum, Watertoren                         17 34   17 43   18 03   18 31   18 43   19 01   19 43   20 43    21 43
+Dokkum, Sionsberg                          17 37   17 46   18 06   18 34   18 46   19 04   19 46   20 46    21 46
+Feanwâlden, Station                   A      |     17 59     |       |     18 59     |     19 59   20 59    21 59
+Feanwâlden, Station                   V      |     18 01     |       |     19 01     |     20 01   21 01    22 01
+Quatrebras, Quatrebras West                  |     18 04     |       |     19 04     |     20 04   21 04    22 04
+Tytsjerk, Swarteweisein                      |     18 10     |       |     19 10     |     20 10   21 10    22 10
+Leeuwarden, Oud Tolhuis                      |     18 14     |       |     19 14     |     20 14   21 14    22 14
+Leeuwarden, De Bleek                         |     18 18     |       |     19 18     |     20 18   21 18    22 18
+Leeuwarden, Koepelkerk                       |     18 20     |       |     19 20     |     20 20   21 20    22 20
+Leeuwarden, Blokhuisplein                  18 05   18 22   18 34   19 02   19 22   19 32   20 22   21 22    22 22
+Leeuwarden, Busstation                A    18 08   18 25   18 37   19 05   19 25   19 35   20 25   21 25    22 25
+                      Lijn 155b                                                                 Van Leeuwarden naar Lauwersoog
+                      Lijn 355b                                                                      Van Leeuwarden naar Dokkum
+                      Lijn 655b
+Maandag t/m vrijdag
+                                                                                                Van Leeuwarden naar Lauwersoog
+                       Maandag t/m vrijdag
+                                                   Lijnnummer     155     155    355     355       155    355     355      155    355
+                                                    Ritnummer   1504    1508    1004    1008      1512    1012   1016     1516   1020
+                      Leeuwarden, Busstation                V                    6 23    6 51     7 01    7 21    7 53    8 00    8 22
+                      Leeuwarden, Beursplein                                     6 25    6 53     7 03    7 23    7 55    8 02    8 24
+                      Leeuwarden, Blokhuisplein                                  6 26    6 54     7 04    7 24    7 57    8 04    8 26
+                      Leeuwarden, Bote van Bolswertstraat                         |       |       7 07     |       |      8 07     |
+                      Leeuwarden, De Bleek                                        |       |       7 09     |       |      8 09     |
+                      Leeuwarden, Oud Tolhuis                                     |       |       7 12     |       |      8 12     |
+                      Tytsjerk, Swarteweisein                                     |       |       7 18     |       |      8 18     |
+                      Quatrebras, Quatrebras West                                 |       |       7 24     |       |      8 24     |
+                      Feanwâlden, Station                   A                     |       |       7 29     |       |      8 29     |
+                      Feanwâlden, Station                   V                     |       |       7 31     |       |      8 31     |
+                      Dokkum, Sionsberg                                          6 53    7 22     7 44    7 53    8 26    8 43    8 53
+                      Dokkum, Busstation                    A                    6 58    7 27     7 49    7 58    8 31    8 48    8 58
+                      Dokkum, Busstation                    V    5 48    6 31                     7 51                    8 50
+                      Metslawier, Rotonde                        5 54    6 37                     7 57                    8 56
+                      Morra, Keechsdyk                           5 56    6 39                     7 59                    8 58
+                      Anjum, Nieuweweg                           5 59    6 42                     8 02                    9 01
+                      Lauwersoog, Veerhaven                      6 07    6 50                     8 10                    9 09
+                      Lauwersoog, Dorp                      A    6 10    6 53                     8 14                    9 12
+                                                   Lijnnummer    355      155    355     355       155    355     355      155    355
+                                                    Ritnummer   1024    1520    1028    1032     1524    1036    1040    1528    1044
+                      Leeuwarden, Busstation                V    8 52    9 01    9 23    9 53    10 01   10 23   10 52   11 01   11 22
+                      Leeuwarden, Beursplein                     8 54    9 03    9 25    9 55    10 03   10 25   10 54   11 03   11 24

@@ -1,0 +1,300 @@
+Maandag t/m vrijdag
+                       Maandag t/m vrijdag
+                                                      Lijnnummer           519         517         519         517         519
+                                                      Ritnummer b         1059 b      1063 b      1067 b      1071 b      1075
+                      Wolvega, Station                        V          18 56       19 56       20 56       21 56       22 56
+                      Wolvega, Om den Noort                              18 57         |         20 57         |         22 57
+                      Oldeholtpade, Oldeholtpade Prov. weg               19 02         |         21 02         |         23 02
+                      Nijeholtpade, Nijeholtpade Prov. weg               19 04         |         21 04         |         23 04
+                      Oldeberkoop, Oldeberkoop Provinciale weg           19 08         |         21 08         |         23 08
+                      Zandhuizen, Zandhuizerweg                          19 11         |         21 11         |         23 11
+                      De Blesse, Noord                                     |         20 01         |         22 01         |
+                      Peperga, Kerk                                        |         20 03         |         22 03         |
+                      Steggerda, Mulderstraat                              |         20 05         |         22 05         |
+                      Vinkega, Schoollaan                                  |         20 08         |         22 08         |
+                      Noordwolde, Vlechtmuseum                A          19 14       20 13       21 14       22 13       23 14
+                      Noordwolde, Vlechtmuseum                  V        19 16       20 15       21 16       22 15
+                      Noordwolde-Zuid, Zuiderweg                         19 20       20 19       21 20       22 19
+                      Wilhelminaoord, De Menning                         19 23       20 22       21 23       22 22
+                      Frederiksoord, Beukenlaan                          19 26       20 25       21 26       22 25
+                      Nijensleek, Schoolweg                              19 28       20 27       21 28       22 27
+                      Eesveen, De Eese                                   19 31       20 30       21 31       22 30
+                      Steenwijk, Station                        A        19 37       20 36       21 37       22 36
+                      b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+Van Steenwijk naar Wolvega via De Blesse                                                                                     Lijn 517b
+Van Steenwijk naar Wolvega via Oldeberkoop                                                                                   Lijn 519b
+                                                                                                                                                          Maandag t/m vrijdag
+                                                                                                                              Maandag t/m vrijdag
+                                Lijnnummer           519         517         519         517         519
+                                Ritnummer b         1064 b     1068 b       1072 b      1076 b     1080
+Steenwijk, Station                        V                    19 52       20 51       21 52       22 51
+Eesveen, De Eese                                               19 59       20 58       21 59       22 58
+Nijensleek, Schoolweg                                          20 02       21 01       22 02       23 01
+Frederiksoord, Beukenlaan                                      20 04       21 03       22 04       23 03
+Wilhelminaoord, De Menning                                     20 08       21 07       22 08       23 07
+Noordwolde-Zuid, Zuiderweg                                     20 11       21 10       22 11       23 10
+Noordwolde, Vlechtmuseum                  A                    20 14       21 13       22 14       23 13
+Noordwolde, Vlechtmuseum                V          19 15       20 16       21 15       22 16       23 15
+Zandhuizen, Zandhuizerweg                          19 18         |         21 18         |         23 18
+Oldeberkoop, Oldeberkoop Provinciale weg           19 21         |         21 21         |         23 21
+Nijeholtpade, Nijeholtpade Prov. weg               19 25         |         21 24         |         23 24
+Oldeholtpade, Oldeholtpade Prov. weg               19 28         |         21 27         |         23 27
+Wolvega, Om den Noort                              19 32         |         21 31         |         23 31
+Vinkega, Schoollaan                                  |         20 20         |         22 20         |
+Steggerda, Mulderstraat                              |         20 24         |         22 24         |
+Peperga, Kerk                                        |         20 26         |         22 26         |
+De Blesse, Noord                                     |         20 29         |         22 29         |
+Wolvega, Station                        A          19 34       20 35       21 33       22 35       23 33
+b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+                      Lijn 518a                                                                                             Van Gorredijk naar Noordwolde
+                       Maandag t/m vrijdag
+Maandag t/m vrijdag
+                                                      Ritnummer b        1003 b       1031 b      1035 b      1039
+                      Gorredijk, Busstation                   V           7 29       14 29       15 29       16 29
+                      Lippenhuizen, De Driehoek                           7 32       14 32       15 32       16 32
+                      Lippenhuizen, De Buorren                            7 34       14 34       15 34       16 34
+                      Jubbega 3e Sluis, Bramenstraat                      7 39       14 39       15 39       16 39
+                      Jubbega-Schurega, Zwanenburgreed                    7 42       14 42       15 42       16 42
+                      Oudehorne, Oldeberkoperweg                          7 46       14 46       15 46       16 46
+                      Oldeberkoop, Oldeberkoop Provinciale weg            7 52       14 52       15 52       16 52
+                      Zandhuizen, Zandhuizerweg                           7 55       14 55       15 55       16 55
+                      Noordwolde, Vlechtmuseum                A           7 58       14 58       15 58       16 58
+                      b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+Van Noordwolde naar Gorredijk                                                                                                Lijn 518b
+                                                                                                                              Maandag t/m vrijdag
+                                                                                                                                                          Maandag t/m vrijdag
+                                Ritnummer b        1004 b      1008 b       1036 b     1040
+Noordwolde, Vlechtmuseum                V           7 00        8 00       15 00       16 00
+Zandhuizen, Zandhuizerweg                           7 03        8 03       15 03       16 03
+Oldeberkoop, Oldeberkoop Provinciale weg            7 06        8 06       15 06       16 06
+Oudehorne, Oldeberkoperweg                          7 11        8 11       15 11       16 11
+Jubbega-Schurega, Zwanenburgreed                    7 14        8 14       15 14       16 14
+Jubbega 3e Sluis, Bramenstraat                      7 17        8 17       15 17       16 17
+Lippenhuizen, De Buorren                            7 22        8 22       15 22       16 22
+Lippenhuizen, De Driehoek                           7 24        8 24       15 24       16 24
+Gorredijk, Busstation                   A           7 29        8 29       15 29       16 29
+b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+                      Lijn 538a                                                                                                     Van Wommels naar Sneek
+                       Maandag t/m vrijdag
+Maandag t/m vrijdag
+                                                      Ritnummer b        1003
+                      Wommels, Provinciale weg               V            7 24
+                      Wommels, De Terp                                    7 25
+                      Easterein, Stittenserleane                          7 27
+                      Itens, Hervormde Kerk                               7 29
+                      Rien, Rien                                          7 31
+                      Lytsewierrum, Lytsewierrum                          7 33
+                      Scharnegoutum, Warinxvliet                          7 35
+                      Scharnegoutum, Legedyk                              7 36
+                      Scharnegoutum, Rotonde Provinciale weg              7 38
+                      Of ingawier, Fiifgeawei                             7 44
+                      Sneek, Frieswijkstraat                              7 48
+                      Sneek, Grootzand                                    7 50
+                      Sneek, Oosterdijk                                   7 51
+                      Sneek, Prins Hendrikkade                            7 52
+                      Sneek, Busstation                      A            7 54
+                      b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+Van Sneek naar Wommels                                                                                                      Lijn 538b
+                                                                                                                              Maandag t/m vrijdag
+                                                                                                                                                          Maandag t/m vrijdag
+                                Ritnummer a        3004 c      1008
+Sneek, Busstation                      V           12 05       14 15
+Sneek, Prins Hendrikkade                           12 07       14 17
+Sneek, Oosterdijk                                  12 08       14 18
+Sneek, Grootzand                                   12 09       14 19
+Sneek, Frieswijkstraat                             12 11       14 21
+Of ingawier, Fiifgeawei                            12 16       14 26
+Scharnegoutum, Rotonde Provinciale weg             12 20       14 30
+Scharnegoutum, Legedyk                             12 22       14 32
+Scharnegoutum, Warinxvliet                         12 24       14 34
+Lytsewierrum, Lytsewierrum                         12 26       14 36
+Rien, Rien                                         12 28       14 38
+Itens, Hervormde Kerk                              12 30       14 40
+Easterein, Stittenserleane                         12 32       14 42
+Wommels, De Terp                                   12 35       14 45
+Wommels, Provinciale weg               A           12 36       14 46
+a   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!;Alleen op woensdag
+c   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+                      Lijn 539a                                                                                                      Van Ferwoude naar Sneek
+                       Maandag t/m vrijdag
+Maandag t/m vrijdag
+                                                      Ritnummer b        1003
+                      Ferwoude, Ferwoude                        V         7 15
+                      Parrega, Postkantoor                                7 20
+                      Parrega, Brug                                       7 21
+                      Dedgum, Arkum                                       7 24
+                      Dedgum, Jonkershuizen                               7 27
+                      Blauwhuis, Dorp                                     7 31
+                      Westhem, De Kat                                     7 33
+                      Abbega, Abbega                                      7 36
+                      IJlst, Piekemeer                                    7 39
+                      IJlst, Station                                      7 42
+                      Sneek, Busstation                         A         7 49
+                      b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+Van Sneek naar Ferwoude                                                                                                     Lijn 539b
+                                                                                                                              Maandag t/m vrijdag
+                                                                                                                                                          Maandag t/m vrijdag
+                                Ritnummer a        3004 c      1008
+Sneek, Busstation                         V        12 05       14 10
+IJlst, Station                                     12 12       14 17
+IJlst, Piekemeer                                   12 15       14 20
+Abbega, Abbega                                     12 19       14 24
+Westhem, De Kat                                    12 23       14 28
+Blauwhuis, Dorp                                    12 27       14 32
+Dedgum, Jonkershuizen                              12 30       14 35
+Dedgum, Arkum                                      12 33       14 38
+Parrega, Brug                                      12 37       14 42
+Parrega, Postkantoor                               12 38       14 43
+Ferwoude, Ferwoude                        A        12 43       14 48
+a   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!;Alleen op woensdag
+c   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+                      Lijn 561a                                                                                              Van Damwâld naar Buitenpost
+                       Maandag t/m vrijdag
+Maandag t/m vrijdag
+                                                      Ritnummer b        1003 b       1031 b      1035
+                      Damwâld, De Kruisweg                      V         7 15       14 15       15 15
+                      Damwâld, Doniawei                                   7 15       14 15       15 15
+                      Damwâld, Fermanjepaad                               7 16       14 16       15 16
+                      Damwâld, Dantumawâld                                7 17       14 17       15 17
+                      Wâlterswâld, Reinous Reed                           7 18       14 18       15 18
+                      Wâlterswâld, Broekloane                             7 19       14 19       15 19
+                      Driezum, De Sânharst                                7 20       14 20       15 20
+                      Driezum, Dorp                                       7 21       14 21       15 21
+                      Driezum, Nijewei                                    7 22       14 22       15 22
+                      Westergeest, Dorp                                   7 26       14 26       15 26
+                      Triemen, Langelaan                                  7 29       14 29       15 29
+                      Kollumerzwaag, Triemsterloane                       7 31       14 31       15 31
+                      Veenklooster, Dorp                                  7 34       14 34       15 34
+                      Buitenpost, Jeltingalaan                            7 39       14 39       15 39
+                      Buitenpost, Station                       A         7 41       14 41       15 41
+                      b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+Van Buitenpost naar Damwâld                                                                                                  Lijn 561b
+                                                                                                                              Maandag t/m vrijdag
+                                                                                                                                                          Maandag t/m vrijdag
+                                Ritnummer b        1004 b       1032 b      1036
+Buitenpost, Station                       V         7 48       14 48       15 48
+Buitenpost, Jeltingalaan                            7 50       14 50       15 50
+Veenklooster, Dorp                                  7 53       14 53       15 53
+Kollumerzwaag, Triemsterloane                       7 56       14 56       15 56
+Triemen, Langelaan                                  7 58       14 58       15 58
+Westergeest, Dorp                                   8 01       15 01       16 01
+Driezum, Nijewei                                    8 05       15 05       16 05
+Driezum, Dorp                                       8 06       15 06       16 06
+Driezum, De Sânharst                                8 07       15 07       16 07
+Wâlterswâld, Broekloane                             8 09       15 09       16 09
+Wâlterswâld, Reinous Reed                           8 10       15 10       16 10
+Damwâld, Dantumawâld                                8 11       15 11       16 11
+Damwâld, Fermanjepaad                               8 12       15 12       16 12
+Damwâld, Doniawei                                   8 12       15 12       16 12
+Damwâld, De Kruisweg                      A         8 13       15 13       16 13
+b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+                      Lijn 573                                                                                              Van Stiens naar Oudebildtzijl vv
+                       Maandag t/m vrijdag
+Maandag t/m vrijdag
+                                                      Ritnummer b        1003 b      1007 b       1011 b      1035 b      1039 b      1043 b      1047
+                      Stiens, Wythusterwei                      V         6 32        7 32        8 40       15 08       16 10       17 10       18 10
+                      Stiens, Nije Poarte                                 6 34        7 34        8 42       15 10       16 12       17 12       18 12
+                      Vrouwbuurtstermolen,                                6 38        7 38        8 46       15 14       16 16       17 16       18 16
+                      Vrouwenparochie, Vrouwenparochie                    6 39        7 39        8 47         |           |           |           |
+                      Sint Annaparochie, Gemeentehuis                     6 44        7 44        8 52         |           |           |           |
+                      Nij Altoenae, Stadhoudersweg                        6 48        7 48        8 56         |           |           |           |
+                      Oudebildtzijl, De Kolk                              6 56        7 56        9 04         |           |           |           |
+                      Alde Leie, Brug                                     7 01        8 01        9 09         |           |           |           |
+                      Alde Leie, Brug                                      |           |           |         15 16       16 18       17 18       18 18
+                      Oudebildtzijl, De Kolk                               |           |           |         15 23       16 25       17 25       18 25
+                      Nij Altoenae, Stadhoudersweg                         |           |           |         15 31       16 33       17 33       18 33
+                      Sint Annaparochie, Gemeentehuis                      |           |           |         15 35       16 37       17 37       18 37
+                      Vrouwenparochie, Vrouwenparochie                     |           |           |         15 40       16 42       17 42       18 42
+                      Vrouwbuurtstermolen,                                7 04        8 04        9 12       15 41       16 43       17 43       18 43
+                      Stiens, Nije Poarte                                 7 08        8 08        9 16       15 45       16 47       17 47       18 47
+                      Stiens, Wythusterwei                      A         7 11        8 11        9 19       15 48       16 50       17 50       18 50
+                      b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+                      Lijn 575a                                                                                              Van Franeker naar Witmarsum
+                       Maandag t/m vrijdag
+Maandag t/m vrijdag
+                                                      Ritnummer b        1003 b      1007 b       1011 b      1027 b      1031 b      1035 b      1039 b      1043 b      1047
+                      Franeker, Station                         V         6 45        7 45        8 45       12 45       13 45       14 45       15 45       16 45       17 45
+                      Hitzum, Hitzum                                      6 50        7 50        8 50       12 50       13 50       14 50       15 50       16 50       17 50
+                      Achlum, Jonkerschap                                 6 54        7 54        8 54       12 54       13 54       14 54       15 54       16 54       17 54
+                      Arum, Groene Dijk                                   6 57        7 57        8 57       12 57       13 57       14 57       15 57       16 57       17 57
+                      Pingjum, Pingjum                                    7 01        8 01        9 01       13 01       14 01       15 01       16 01       17 01       18 01
+                      Witmarsum, Kaatsplein                     A         7 05        8 05        9 05       13 05       14 05       15 05       16 05       17 05       18 05
+                      b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+Van Witmarsum naar Franeker                                                                                                 Lijn 575b
+                                                                                                                              Maandag t/m vrijdag
+                                                                                                                                                           Maandag t/m vrijdag
+                                Ritnummer b        1004 b      1008 b       1012 b      1032 b      1036 b     1040 b       1044 b      1048 b      1052
+Witmarsum, Kaatsplein                     V         6 23        7 23        8 23       13 23       14 23       15 23       16 23       17 23       18 23
+Pingjum, Pingjum                                    6 27        7 27        8 27       13 27       14 27       15 27       16 27       17 27       18 27
+Arum, Groene Dijk                                   6 30        7 30        8 30       13 30       14 30       15 30       16 30       17 30       18 30
+Achlum, Jonkerschap                                 6 34        7 34        8 34       13 34       14 34       15 34       16 34       17 34       18 34
+Hitzum, Hitzum                                      6 38        7 38        8 38       13 38       14 38       15 38       16 38       17 38       18 38
+Franeker, Station                         A         6 44        7 44        8 44       13 44       14 44       15 44       16 44       17 44       18 44
+b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+                      Lijn 593a                                                                                                    Van Sneek naar Leeuwarden
+                       Maandag t/m vrijdag
+Maandag t/m vrijdag
+                                                      Ritnummer b        1003 b      1007 b       1011 b      1031 b      1035 b      1039 b      1043 b      1047
+                      Sneek, Busstation                      V            6 33        7 33        8 33       13 33       14 33       15 33       16 33       17 33
+                      Sneek, Prins Hendrikkade                            6 35        7 35        8 35       13 35       14 35       15 35       16 35       17 35
+                      Scharnegoutum, Rotonde Provinciale weg              6 41        7 41        8 41       13 41       14 41       15 41       16 41       17 41
+                      Dearsum, Dearsum                                    6 46        7 46        8 46       13 46       14 46       15 46       16 46       17 46
+                      Boazum, Yndyk                                       6 48        7 48        8 48       13 48       14 48       15 48       16 48       17 48
+                      Easterwierrum, Easterwierrum                        6 51        7 51        8 51       13 51       14 51       15 51       16 51       17 51
+                      Mantgum, Station                       A            6 57        7 57        8 57       13 57       14 57       15 57       16 57       17 57
+                      Mantgum, Station                          V         7 03        8 03        9 03       14 03       15 03       16 03       17 03       18 03
+                      Jorwert, Hoek Jorwert                               7 06        8 06        9 06       14 06       15 06       16 06       17 06       18 06
+                      Weidum, Sânpaed                                     7 11        8 11        9 11       14 11       15 11       16 11       17 11       18 11
+                      Jellum, Hervormde Kerk                              7 14        8 14        9 14       14 14       15 14       16 14       17 14       18 14
+                      Boksum, Boksum                                      7 18        8 18        9 18       14 18       15 18       16 18       17 18       18 18
+                      Leeuwarden, Snekertrekweg                           7 26        8 26        9 26       14 25       15 26       16 26       17 26       18 25
+                      Leeuwarden, Busstation                    A         7 29        8 29        9 29       14 27       15 29       16 29       17 29       18 27
+                      b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+Van Leeuwarden naar Sneek                                                                                                   Lijn 593b
+                                                                                                                              Maandag t/m vrijdag
+                                                                                                                                                          Maandag t/m vrijdag
+                                Ritnummer b        1004 b      1008 b       1012 b      1032 b      1036 b     1040 b       1044 b      1048
+Leeuwarden, Busstation                    V         6 31        7 31        8 31       13 31       14 31       15 31       16 31       17 31
+Leeuwarden, Snekertrekweg                           6 33        7 33        8 33       13 33       14 33       15 33       16 33       17 33
+Boksum, Boksum                                      6 41        7 41        8 41       13 41       14 41       15 41       16 41       17 41
+Jellum, Hervormde Kerk                              6 45        7 45        8 45       13 45       14 45       15 45       16 45       17 45
+Weidum, Sânpaed                                     6 48        7 48        8 48       13 48       14 48       15 48       16 48       17 48
+Jorwert, Hoek Jorwert                               6 53        7 53        8 53       13 53       14 53       15 53       16 53       17 53
+Mantgum, Station                          A         6 57        7 57        8 57       13 57       14 57       15 57       16 57       17 57
+Mantgum, Station                       V            7 03        8 03        9 03       14 03       15 03       16 03       17 03       18 03
+Easterwierrum, Easterwierrum                        7 08        8 08        9 08       14 08       15 08       16 08       17 08       18 08
+Boazum, Yndyk                                       7 11        8 11        9 11       14 11       15 11       16 11       17 11       18 11
+Dearsum, Dearsum                                    7 13        8 13        9 13       14 13       15 13       16 13       17 13       18 13
+Scharnegoutum, Rotonde Provinciale weg              7 17        8 17        9 17       14 17       15 17       16 17       17 17       18 17
+Sneek, Prins Hendrikkade                            7 23        8 23        9 23       14 23       15 23       16 23       17 23       18 23
+Sneek, Busstation                      A            7 26        8 27        9 27       14 26       15 27       16 27       17 27       18 26
+b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+    één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+                      Lijn 621a                                                                                                    Van Akkrum naar Gorredijk
+                       Maandag t/m vrijdag
+Maandag t/m vrijdag
+                                                      Ritnummer b        1009
+                      Akkrum, Station                           V         8 01
+                      Aldeboarn, Súdkant                                  8 09
+                      Uilesprong, Uilesprong                              8 14
+                      Tijnje, Brêgeleane                                  8 17
+                      Gorredijk, Busstation                     A         8 26
+                      b   Rit wordt uitgevoerd met een 8-persoonsbus. Heb je een mobiliteitsbeperking en reis je bijvoorbeeld met een rolstoel of rollator? Meld dit minimaal
+                          één uur van tevoren door te bellen naar 0800-2802802 (gratis). Wij helpen je graag op weg!
+Van Gorredijk naar Akkrum                                                                                                    Lijn 621b
