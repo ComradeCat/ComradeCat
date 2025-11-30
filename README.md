@@ -1,1 +1,1 @@
-Hi, I’m Kat. That's not my real name because my real name is hard to pronounce in English.
+Hi, I’m Liz :3
